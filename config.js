@@ -4,7 +4,7 @@ var config = {
 	site_title: 'Raneto Docs',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: 'http://jerkoviclkb.azurewebsites.net/',
+	base_url: 'http://jerkoviclkb.azurewebsites.net/site/wwwroot/',
 
 	// Used for the "Get in touch" page footer link
 	support_email: '',
@@ -27,7 +27,7 @@ var config = {
 	image_url: '/images',
 
 	// Specify the path of your content folder where all your '.md' files are located
-	content_dir: '/content/',
+	content_dir: './content/',
 
 	// Add your analytics tracking code (including script tags)
 	analytics: ""
