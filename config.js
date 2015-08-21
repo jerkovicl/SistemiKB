@@ -4,7 +4,7 @@ var config = {
 	site_title: 'Raneto Docs',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: '',
+	base_url: 'http://jerkoviclkb.azurewebsites.net/',
 
 	// Used for the "Get in touch" page footer link
 	support_email: '',
