@@ -4,7 +4,7 @@ var config = {
 	site_title: 'Raneto Docs',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: './site/wwwroot',
+	base_url: '',
 
 	// Used for the "Get in touch" page footer link
 	support_email: '',
@@ -27,7 +27,7 @@ var config = {
 	image_url: '/images',
 
 	// Specify the path of your content folder where all your '.md' files are located
-	content_dir: './site/wwwroot/content/',
+	content_dir: '/site/wwwroot/content',
 
 	// Add your analytics tracking code (including script tags)
 	analytics: ""
