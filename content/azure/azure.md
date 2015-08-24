@@ -1,6 +1,6 @@
 /*
 Title: Using Node.js with Raneto in Azure
-Sort: 2
+Sort: 1
 */
 
 Azure sets the path differently than Node has as a default. By default Node sets the working directory to that of the app.js file. But in Azure, it sets it to the bin folder, so add the following lines of code right before the exports line of config.js file to fix the problem.
