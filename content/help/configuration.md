@@ -1,6 +1,6 @@
 /*
 Title: Configuration
-Sort: 1
+Sort: 2
 */
 
 To edit the configuration of Raneto you need to edit `config.js` in the root directory.

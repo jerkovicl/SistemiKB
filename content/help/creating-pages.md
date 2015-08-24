@@ -1,6 +1,6 @@
 /*
 Title: Creating Pages
-Sort: 2
+Sort: 3
 */
 
 Creating pages in Raneto is as simple as creating a Markdown file (`.md`) with you favourite text editor.

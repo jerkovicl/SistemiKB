@@ -1,5 +1,6 @@
 /*
 Title: Customizing the Template
+Sort: 5
 */
 
 Templating in Raneto is powered by [Mustache](http://mustache.github.io). All of the template views can

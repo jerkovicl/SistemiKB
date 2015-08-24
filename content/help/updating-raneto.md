@@ -1,5 +1,6 @@
 /*
 Title: Updating Raneto
+Sort: 8
 */
 
 The update process for Raneto is as follows:

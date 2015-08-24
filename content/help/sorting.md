@@ -1,6 +1,6 @@
 /*
 Title: Sorting
-Sort: 4
+Sort: 7
 */
 
 By default pages and categories are sorted alphabetically. To manually sort pages and categories please

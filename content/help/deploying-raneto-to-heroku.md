@@ -1,6 +1,6 @@
 /*
 Title: Deploying Raneto to Heroku
-Sort: 2
+Sort: 9
 */
 
 [Heroku](https://www.heroku.com) is a cloud hosting platform which allows you to host your code for
