@@ -24,7 +24,7 @@ var config = {
   category_sort: true,
 
   // The base URL of your images folder (can use %image_url% in Markdown files)
-  image_url: './public/images',
+  image_url: './images',
 
   // Specify the path of your content folder where all your '.md' files are located
 
@@ -38,5 +38,5 @@ var config = {
 if (process.env.azure)
   config.content_dir = '../content/';
 if (process.env.azure)
-  config.image_url = './public/images';
+  config.image_url = './images';
 module.exports = config;
