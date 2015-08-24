@@ -38,5 +38,5 @@ var config = {
 if (process.env.azure)
   config.content_dir = '../content/';
 if (process.env.azure)
-  config.image_url = '../images/';
+  config.image_url = '../images';
 module.exports = config;
