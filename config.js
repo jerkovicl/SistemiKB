@@ -27,7 +27,7 @@ var config = {
   image_url: '/images',
 
   // Specify the path of your content folder where all your '.md' files are located
-  content_dir: './site/repository/content/',
+  content_dir: './site/wwwroot/content/test',
 
   // Add your analytics tracking code (including script tags)
   analytics: ""
