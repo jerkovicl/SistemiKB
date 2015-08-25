@@ -44,6 +44,10 @@
     "static-favicon": "~1.0.0",
     "underscore": "^1.6.0",
     "underscore.string": "^2.3.3",
-    "validator": "^3.13.0"
+    "validator": "^3.13.0",
+    "doctoc": "latest",
+    "gulp": "latest",
+    "gulp-doctoc": "latest",
+    "gulp-marked": "latest"
   }
 }
