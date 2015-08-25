@@ -1,20 +1,18 @@
+/*
+Title: Microsoft Application Insights JS API
+Sort: 3
+*/
 
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [In the Azure portal, create a new Application Insights resource:](#in-the-azure-portal-create-a-new-application-insights-resource)
 - [Get the snippet from Quick Start section:](#get-the-snippet-from-quick-start-section)
 - [Insert the script snippet just before the ``</head>`` tag of every page you want to track:](#insert-the-script-snippet-just-before-the-head-tag-of-every-page-you-want-to-track)
 - [API Methods](#api-methods)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-/*
-Title: Microsoft Application Insights JS API
-Sort: 3
-*/
+
+
 
 **Update 28.05.2015** [New pricing change from June 1](http://azure.microsoft.com/blog/2015/05/27/application-insights-pricing-effective-june-1/)
 
