@@ -22,10 +22,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-/*
-Title: Chrome DevTools Tips
-Sort: 1
-*/
 
 #### Goto Anything
 
@@ -123,14 +119,14 @@ Decrement CSS unit by 10: `Option` + `⇟`
 
 The Styles pane also supports shortcuts for incrementing/decrementing values.
 
-Increment value: ↑
-Decrement value: ↓
-Increment by 10: ⇞ or ⇧↑
-Decrement by 10: ⇟ or ⇧↓
-Increment by 100: ⇧⇞
-Decrement by 100: ⇧⇟
-Increment by 0.1: ⌥↑
-Decrement by 0.1: ⌥↓
+Increment value: ↑  
+Decrement value: ↓  
+Increment by 10: ⇞ or ⇧↑  
+Decrement by 10: ⇟ or ⇧↓  
+Increment by 100: ⇧⇞  
+Decrement by 100: ⇧⇟  
+Increment by 0.1: ⌥↑  
+Decrement by 0.1: ⌥↓  
 
 #### Cycle through editing locations
 
