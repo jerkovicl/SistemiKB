@@ -18,15 +18,15 @@ Sort: 3
 
 **Since there is no official documentation, here is the proper setup to enable Microsoft Application Insights for Javascript/Cordova apps and websites:**
 
-#### In the Azure portal, create a new Application Insights resource:
+#### In the Azure portal, create a new Application Insights resource
 
 ![Azure](https://acomdpsstorage.blob.core.windows.net/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/20150508050839/01-create.png)
 
-#### Get the snippet from Quick Start section:
+#### Get the snippet from Quick Start section
 
 ![Quick Start](https://acomdpsstorage.blob.core.windows.net/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/20150508050839/02-monitor-web-page.png)
 
-#### Insert the script snippet just before the ``</head>`` tag of every page you want to track:
+#### Insert the script snippet just before the ``</head>`` tag of every page you want to track
 
 - In an ASP.NET MVC project, you'd put it in View\Shared_Layout.cshtml
 
