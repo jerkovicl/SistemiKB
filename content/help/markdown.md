@@ -5,20 +5,8 @@ Sort: 10
 
 **Table of Contents**
 
-- [Typography](#typography)
   - [Headings](#headings)
-- [h1 Heading](#h1-heading)
-  - [h2 Heading](#h2-heading)
-    - [h3 Heading](#h3-heading)
-      - [h4 Heading](#h4-heading)
-- [h1 Heading](#h1-heading-1)
-  - [h2 Heading](#h2-heading-1)
-    - [h3 Heading](#h3-heading-1)
-      - [h4 Heading](#h4-heading-1)
-        - [h5 Heading](#h5-heading)
-          - [h6 Heading](#h6-heading)
   - [Horizontal Rules](#horizontal-rules)
-  - [](#)
   - [Body Copy](#body-copy)
   - [Emphasis](#emphasis)
     - [Bold](#bold)
