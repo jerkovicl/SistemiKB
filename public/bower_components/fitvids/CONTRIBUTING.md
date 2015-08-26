@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Submitting issues](#submitting-issues)
+  - [Reduced test case required](#reduced-test-case-required)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Submitting issues
 
 ### Reduced test case required

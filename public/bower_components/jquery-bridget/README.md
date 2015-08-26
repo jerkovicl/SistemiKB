@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Bridget makes jQuery plugins](#bridget-makes-jquery-plugins)
+  - [Plugin constructor](#plugin-constructor)
+  - [Usage](#usage)
+  - [Bower](#bower)
+  - [Component](#component)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Bridget makes jQuery plugins
 
 Bridget makes a jQuery plugin out of a constructor.

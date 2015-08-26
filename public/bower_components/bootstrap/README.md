@@ -1,3 +1,31 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [[Bootstrap](http://getbootstrap.com) [![Bower version](https://badge.fury.io/bo/bootstrap.png)](http://badge.fury.io/bo/bootstrap) [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.png)](http://travis-ci.org/twbs/bootstrap) [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png?theme=shields.io)](https://david-dm.org/twbs/bootstrap#info=devDependencies)](#bootstraphttpgetbootstrapcom-bower-versionhttpsbadgefuryiobobootstrappnghttpbadgefuryiobobootstrap-build-statushttpssecuretravis-ciorgtwbsbootstrappnghttptravis-ciorgtwbsbootstrap-devdependency-statushttpsdavid-dmorgtwbsbootstrapdev-statuspngthemeshieldsiohttpsdavid-dmorgtwbsbootstrapinfodevdependencies)
+  - [Table of contents](#table-of-contents)
+  - [Quick start](#quick-start)
+    - [What's included](#whats-included)
+  - [Bugs and feature requests](#bugs-and-feature-requests)
+  - [Documentation](#documentation)
+    - [Running documentation locally](#running-documentation-locally)
+    - [Documentation for previous releases](#documentation-for-previous-releases)
+  - [Compiling CSS and JavaScript](#compiling-css-and-javascript)
+    - [Install Grunt](#install-grunt)
+    - [Available Grunt commands](#available-grunt-commands)
+      - [Build - `grunt`](#build---grunt)
+      - [Only compile CSS and JavaScript - `grunt dist`](#only-compile-css-and-javascript---grunt-dist)
+      - [Tests - `grunt test`](#tests---grunt-test)
+      - [Watch - `grunt watch`](#watch---grunt-watch)
+    - [Troubleshooting dependencies](#troubleshooting-dependencies)
+  - [Contributing](#contributing)
+  - [Community](#community)
+  - [Versioning](#versioning)
+  - [Authors](#authors)
+  - [Copyright and license](#copyright-and-license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # [Bootstrap](http://getbootstrap.com) [![Bower version](https://badge.fury.io/bo/bootstrap.png)](http://badge.fury.io/bo/bootstrap) [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.png)](http://travis-ci.org/twbs/bootstrap) [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png?theme=shields.io)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 

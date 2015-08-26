@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [eventie - event binding helper](#eventie---event-binding-helper)
+  - [Bower](#bower)
+  - [Component](#component)
+  - [IE 8](#ie-8)
+  - [MIT license](#mit-license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # eventie - event binding helper
 
 Makes dealing with events in IE8 bearable. Supported by IE8+ and good browsers.

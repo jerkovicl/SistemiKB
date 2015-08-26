@@ -1,3 +1,45 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Typography](#typography)
+  - [Headings](#headings)
+- [h1 Heading](#h1-heading)
+  - [h2 Heading](#h2-heading)
+    - [h3 Heading](#h3-heading)
+      - [h4 Heading](#h4-heading)
+- [h1 Heading](#h1-heading-1)
+  - [h2 Heading](#h2-heading-1)
+    - [h3 Heading](#h3-heading-1)
+      - [h4 Heading](#h4-heading-1)
+        - [h5 Heading](#h5-heading)
+          - [h6 Heading](#h6-heading)
+  - [Horizontal Rules](#horizontal-rules)
+  - [](#)
+  - [Body Copy](#body-copy)
+  - [Emphasis](#emphasis)
+    - [Bold](#bold)
+    - [Italics](#italics)
+    - [strikethrough](#strikethrough)
+  - [Blockquotes](#blockquotes)
+  - [Lists](#lists)
+    - [Unordered](#unordered)
+    - [Ordered](#ordered)
+  - [Code](#code)
+    - [Inline code](#inline-code)
+    - [Indented code](#indented-code)
+    - [Block code "fences"](#block-code-fences)
+    - [Syntax highlighting](#syntax-highlighting)
+  - [Tables](#tables)
+    - [Right aligned text](#right-aligned-text)
+  - [Links](#links)
+    - [Basic link](#basic-link)
+    - [Add a title](#add-a-title)
+    - [Named Anchors](#named-anchors)
+  - [Images](#images)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 /*
 Title: Markdown cheatsheet
 Sort: 10

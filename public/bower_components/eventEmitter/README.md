@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [EventEmitter](#eventemitter)
+  - [Event based JavaScript for the browser](#event-based-javascript-for-the-browser)
+  - [Dependencies](#dependencies)
+  - [Documentation](#documentation)
+    - [Examples](#examples)
+    - [Building the documentation](#building-the-documentation)
+  - [Minifying](#minifying)
+  - [Cloning](#cloning)
+    - [Package managers](#package-managers)
+  - [Testing](#testing)
+  - [Contributing](#contributing)
+  - [License (MIT)](#license-mit)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # EventEmitter
 
 ## Event based JavaScript for the browser

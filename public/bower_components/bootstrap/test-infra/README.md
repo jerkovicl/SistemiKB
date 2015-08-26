@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [What does `s3_cache.py` do?](#what-does-s3_cachepy-do)
+  - [In general](#in-general)
+  - [For Bootstrap specifically](#for-bootstrap-specifically)
+- [Why is `s3_cache.py` necessary?](#why-is-s3_cachepy-necessary)
+- [Setup](#setup)
+  - [Overview](#overview)
+  - [In detail](#in-detail)
+- [Usage](#usage)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## What does `s3_cache.py` do?
 
 ### In general

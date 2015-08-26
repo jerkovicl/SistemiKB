@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Introducing FitVids.js](#introducing-fitvidsjs)
+  - [How Do I Use It?](#how-do-i-use-it)
+  - [Currently Supported Players](#currently-supported-players)
+  - [Add Your Own Video Vendor](#add-your-own-video-vendor)
+  - [Known issues](#known-issues)
+  - [Changelog](#changelog)
+  - [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Introducing FitVids.js
 A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 

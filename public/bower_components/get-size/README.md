@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [getSize](#getsize)
+  - [Install](#install)
+  - [Fractional values in IE8](#fractional-values-in-ie8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # getSize
 
 Get the size of elements.

@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [matchesSelector helper](#matchesselector-helper)
+  - [Package managers](#package-managers)
+  - [MIT license](#mit-license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # matchesSelector helper
 
 [`matchesSelector`](https://developer.mozilla.org/en-US/docs/DOM/Element.mozMatchesSelector) is pretty hot :fire:, but has [vendor-prefix baggage](http://caniuse.com/#search=matchesSelector) :handbag: :pouch:. This helper function takes care of that, without augmenting `Element.prototype`.

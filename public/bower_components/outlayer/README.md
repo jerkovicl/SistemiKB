@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Outlayer](#outlayer)
+  - [Outlayer.create()](#outlayercreate)
+  - [Item](#item)
+  - [Declarative](#declarative)
+  - [.data()](#data)
+  - [jQuery plugin](#jquery-plugin)
+  - [RequireJS](#requirejs)
+  - [MIT license](#mit-license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Outlayer
 
 _Layout class_

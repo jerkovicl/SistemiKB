@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Prerequisites](#prerequisites)
+- [Login to Heroku](#login-to-heroku)
+- [Create a Procfile](#create-a-procfile)
+- [Create a Git Repo](#create-a-git-repo)
+- [Deploy Raneto to Heroku](#deploy-raneto-to-heroku)
+- [Further Reading](#further-reading)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 /*
 Title: Deploying Raneto to Heroku
 Sort: 9

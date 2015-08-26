@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [getStyleProperty - quick & dirty CSS property testing](#getstyleproperty---quick-&-dirty-css-property-testing)
+  - [Install with package manager](#install-with-package-manager)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # getStyleProperty - quick & dirty CSS property testing
 
 by [@kangax](https://github.com/kangax) :heart_eyes: :zap: :star2:
