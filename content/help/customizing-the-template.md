@@ -1,3 +1,7 @@
+/*
+Title: Customizing the Template
+Sort: 5
+*/
 
 **Table of Contents**
 
@@ -5,12 +9,6 @@
 - [Template Variables](#template-variables)
 - [Array Structure](#array-structure)
 
-
-
-/*
-Title: Customizing the Template
-Sort: 5
-*/
 
 Templating in Raneto is powered by [Mustache](http://mustache.github.io). All of the template views can
 be found in the `views` folder. Feel free to customize the template as you wish. The template structure

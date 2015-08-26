@@ -3,8 +3,6 @@ Title: Syntax highlighting in markdown
 Sort: 11
 */
 
-
-
 To use the syntax highlighting, you'll need to specify the language that you're using.
 For example:
 

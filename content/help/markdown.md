@@ -1,3 +1,7 @@
+/*
+Title: Markdown cheatsheet
+Sort: 10
+*/
 
 **Table of Contents**
 
@@ -37,12 +41,6 @@
     - [Named Anchors](#named-anchors)
   - [Images](#images)
 
-
-
-/*
-Title: Markdown cheatsheet
-Sort: 10
-*/
 
 # Typography
 

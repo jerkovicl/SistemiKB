@@ -11,9 +11,6 @@ Sort: 1
   - [Pre commit hook](#pre-commit-hook)
 
 
-
-
-
 ## Pretty Git log
 
 ```bash

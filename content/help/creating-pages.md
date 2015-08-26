@@ -1,3 +1,7 @@
+/*
+Title: Creating Pages
+Sort: 3
+*/
 
 **Table of Contents**
 
@@ -5,11 +9,6 @@
 - [File Name](#file-name)
 - [File Markup](#file-markup)
 
-
-/*
-Title: Creating Pages
-Sort: 3
-*/
 
 Creating pages in Raneto is as simple as creating a Markdown file (`.md`) with you favourite text editor.
 There are several important aspects to your files that you need to pay attention to when you create pages.

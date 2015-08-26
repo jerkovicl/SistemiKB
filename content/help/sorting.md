@@ -1,15 +1,13 @@
+/*
+Title: Sorting
+Sort: 7
+*/
 
 **Table of Contents**
 
 - [Sorting Pages](#sorting-pages)
 - [Sorting Categories](#sorting-categories)
 
-
-
-/*
-Title: Sorting
-Sort: 7
-*/
 
 By default pages and categories are sorted alphabetically. To manually sort pages and categories please
 follow the instructions below.

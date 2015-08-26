@@ -1,3 +1,7 @@
+/*
+Title: Deploying Raneto to Heroku
+Sort: 9
+*/
 
 **Table of Contents**
 
@@ -8,12 +12,6 @@
 - [Deploy Raneto to Heroku](#deploy-raneto-to-heroku)
 - [Further Reading](#further-reading)
 
-
-
-/*
-Title: Deploying Raneto to Heroku
-Sort: 9
-*/
 
 [Heroku](https://www.heroku.com) is a cloud hosting platform which allows you to host your code for
 free (for 1 dyno, see [pricing](https://www.heroku.com/pricing) for more info). In this tutorial we
