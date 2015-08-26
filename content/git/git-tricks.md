@@ -1,17 +1,18 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+/*
+Title: Git Tips & Tricks
+Sort: 1
+*/
+
+
 **Table of Contents**
 
 - [Pretty Git log](#pretty-git-log)
 - [Git Hooks](#git-hooks)
   - [Pre commit hook](#pre-commit-hook)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-/*
-Title: Git Tips & Tricks
-Sort: 1
-*/
+
+
 
 ## Pretty Git log
 
