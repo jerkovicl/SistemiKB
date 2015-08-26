@@ -1,6 +1,7 @@
-
-
-# Git Tips & Tricks
+/*
+Title: Git Tips & Tricks
+Sort: 1
+*/
 
 ## Pretty Git log
 
