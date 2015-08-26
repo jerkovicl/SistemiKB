@@ -381,7 +381,7 @@ Or indent several lines of code by at least four spaces, as in:
     line 3 of code
 
 
-### Block code "fences"
+### Block code fences
 
 Use "fences"  ```` ``` ```` to block in multiple lines of code.
 
