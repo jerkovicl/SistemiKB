@@ -1,12 +1,11 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**
 
 - [Public Files](#public-files)
 - [Template Variables](#template-variables)
 - [Array Structure](#array-structure)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 /*
 Title: Customizing the Template
