@@ -6,16 +6,94 @@ Sort: 1
 
 **Table of Contents**
 
+- [Git add](#git-add)
+- [Git config](#git-config)
 - [Pretty Git log](#pretty-git-log)
+- [Navigate to folder with Git Bash](#navigate-to-folder-with-git-bash)
 - [Git Hooks](#git-hooks)
   - [Pre commit hook](#pre-commit-hook)
+- [Useful learning material](useful-learning-material)
 
+## Git add
+
+```bash git add -A .```  add **new**/**modified**/**deleted** files in the current directory, equivalent to ```bash git add --all```  
+```bash git add .```  add **new**/**modified**/**deleted** files in the current directory  
+```bash git add -u .``` stages **modified** and **deleted**, without **new**, equivalent to ```git add --update```  
+```bash git add --ignore-removal .``` adds new/modified files in the current directory  
+- without the dot, add all files in the project regardless of the current directory  
+
+## Git config
+
+The git config command lets you configure your Git installation (or an individual repository) from the command line.  
+This command can define everything from user info to preferences to the behavior of a repository.  
+Several common configuration options are listed below.
+
+- Usage:
+
+Define the author name to be used for all commits in the current repository.  
+Typically, you’ll want to use the --global flag to set configuration options for the current user.  
+```bash git config user.name <name>```
+
+Define the author name to be used for all commits by the current user.  
+```bash git config --global user.name <name>```
+
+Define the author email to be used for all commits by the current user.  
+```bash git config --global user.email <email>```
+
+Create a shortcut for a Git command.  
+```bash git config --global alias.<alias-name> <git-command>```
+
+Open the global configuration file in a text editor for manual editing.  
+```bash git config --global --edit```
+
+
+- simple **.gitconfig** file, usually located in Users profile directory
+
+```
+[user]
+        name = User1
+        email = bla@bla.com
+[color]
+        ui = auto
+
+[color "branch"]
+        current = yellow reverse
+        local = yellow
+        remote = green
+
+[color "diff"]
+        meta = yellow bold
+        frag = magenta bold
+        old = red bold
+        new = green bold
+        whitespace = red reverse
+
+[color "status"]
+        added = yellow
+        changed = green
+        untracked = cyan
+
+[core]
+        whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
+
+[alias]
+        st = status
+        ci = commit
+        br = branch
+        co = checkout
+        df = diff
+        dc = diff --cached
+        lg = log -p
+        pr = pull --rebase
+        gr = log --all --graph --decorate --oneline
+```
 
 ## Pretty Git log
 
 ```bash
 git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
 ```
+
 this will:  
 -setup git alias  
 -one commit per line  
@@ -44,6 +122,14 @@ git log --decorate --graph --abbrev-commit --date=relative
 git log --graph --pretty=format:'%C(auto)%h -%d %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit  
 ```
 
+## Navigate to folder with Git Bash
+
+```bash
+cd  /c/project/
+```
+
+Use the `pwd` command to see in which path you are currently in, handy when you did an right-click "Git Bash here..."
+
 ## Git Hooks
 
 ### Pre commit hook
@@ -59,3 +145,8 @@ git log --graph --pretty=format:'%C(auto)%h -%d %s %Cgreen(%cr) %C(bold blue)<%a
 
 doctoc --title "**Contents**" --github .
 ```
+
+## Useful learning material
+
+[Keep your branch clean with fixup and autosquash](http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)  
+[GitHub Cheat Sheet](http://git.io/sheet)
