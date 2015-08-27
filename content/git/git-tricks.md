@@ -16,10 +16,10 @@ Sort: 1
 
 ## Git add
 
-```bash git add -A .```  add **new**/**modified**/**deleted** files in the current directory, equivalent to ```bash git add --all```  
-```bash git add .```  add **new**/**modified**/**deleted** files in the current directory  
-```bash git add -u .``` stages **modified** and **deleted**, without **new**, equivalent to ```git add --update```  
-```bash git add --ignore-removal .``` adds new/modified files in the current directory  
+```git add -A .```  add **new**/**modified**/**deleted** files in the current directory, equivalent to ```git add --all```  
+```git add .```  add **new**/**modified**/**deleted** files in the current directory  
+```git add -u .``` stages **modified** and **deleted**, without **new**, equivalent to ```git add --update```  
+```git add --ignore-removal .``` adds new/modified files in the current directory  
 - without the dot, add all files in the project regardless of the current directory  
 
 ## Git config
@@ -32,19 +32,19 @@ Several common configuration options are listed below.
 
 Define the author name to be used for all commits in the current repository.  
 Typically, you’ll want to use the --global flag to set configuration options for the current user.  
-```bash git config user.name <name>```
+```git config user.name <name>```
 
 Define the author name to be used for all commits by the current user.  
-```bash git config --global user.name <name>```
+```git config --global user.name <name>```
 
 Define the author email to be used for all commits by the current user.  
-```bash git config --global user.email <email>```
+```git config --global user.email <email>```
 
 Create a shortcut for a Git command.  
-```bash git config --global alias.<alias-name> <git-command>```
+```git config --global alias.<alias-name> <git-command>```
 
 Open the global configuration file in a text editor for manual editing.  
-```bash git config --global --edit```
+```git config --global --edit```
 
 
 - simple **.gitconfig** file, usually located in Users profile directory
