@@ -25,7 +25,7 @@ Sort: 1
 - without the dot, add all files in the project regardless of the current directory  
 
 ## Git clone
-```git clone <url> <folder-name> 
+```git clone <url> <folder-name> ```
 
 ## Git config
 
