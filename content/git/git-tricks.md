@@ -7,13 +7,14 @@ Sort: 1
 **Table of Contents**
 
 - [Git add](#git-add)
+- [Git clone](#git-clone)
 - [Git config](#git-config)
 - [Pretty Git log](#pretty-git-log)
 - [Navigate to folder with Git Bash](#navigate-to-folder-with-git-bash)
 - [Store git credentials while using command line](#store-git-credentials-while-using-command-line)
 - [Git Hooks](#git-hooks)
   - [Pre commit hook](#pre-commit-hook)
-- [Useful learning material](useful-learning-material)
+- [Useful learning material](#useful-learning-material)
 
 ## Git add
 
@@ -22,6 +23,9 @@ Sort: 1
 ```git add -u .``` stages **modified** and **deleted**, without **new**, equivalent to ```git add --update```  
 ```git add --ignore-removal .``` adds new/modified files in the current directory  
 - without the dot, add all files in the project regardless of the current directory  
+
+## Git clone
+```git clone <url> <folder-name> 
 
 ## Git config
 
