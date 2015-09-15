@@ -154,6 +154,15 @@ git config --global credential.helper wincred
 
 doctoc --title "**Contents**" --github .
 ```
+### Post commit hook
+
+* put this in .git/hooks/post-commit
+
+```bash
+#!/bin/sh
+git push
+git push azure master
+```
 
 ## Useful learning material
 
