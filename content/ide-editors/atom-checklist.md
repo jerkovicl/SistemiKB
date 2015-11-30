@@ -19,7 +19,7 @@ This is a basic checklist I follow to set up Atom editor on a new development en
 
 
 ### 3. Essential Atom Plugins
-- Install [Sync Settings](https://atom.io/packages/sync-settings) :ok_hand:
+- Install [Sync Settings](https://atom.io/packages/sync-settings)
 - Install [Git Plus](https://atom.io/packages/git-plus)
 - Install [Emmet support for Atom](https://github.com/emmetio/emmet-atom)
 - Install [JavaScript Snippets for Atom](https://atom.io/packages/javascript-snippets)
