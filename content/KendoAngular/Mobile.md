@@ -21,25 +21,16 @@ After completing the tutorial I started building my first Mobile application.
 
 - [Change skin](#change-skin)
 - [All about buttons ](#all-about-buttons)
-- [Go to the start or end of a line](#go-to-the-start-or-end-of-a-line)
-- [Go to start or end of a file](#go-to-start-or-end-of-a-file)
-- [Go one word left or right](#go-one-word-left-or-right)
-- [Go up or down a line](#go-up-or-down-a-line)
-- [Adding multiple Carets](#adding-multiple-carets)
-- [Wrap with Quotes or Brackets](#wrap-with-quotes-or-brackets)
-- [Column selection](#column-selection)
-- [Carets and matching words](#carets-and-matching-words)
-- [Jump to matching brackets](#jump-to-matching-brackets)
-- [Indentation](#indentation)
-- [Quickly comment your code](#quickly-comment-your-code)
-- [Toggle Autocompletion](#toggle-autocompletion)
-- [Cut/Copy/Paste/Undo/Redo](#cutcopypasteundoredo)
-- [Increment and Decrement values](#increment-and-decrement-values)
-- [Cycle through editing locations](#cycle-through-editing-locations)
+- [Change title transition](#change-title-transition)
+- [Kendo panel bar](#kendo-panel-bar)
+- [Angular app config unsafe](#angular-app-config-unsafe)
+- [Angular google maps factory](#angular-google-maps-factory)
+- [Little routing](#little-routing)
+
 
 ## Change skin
 The default skin changes based on the **DEVICE**  which means that if you use an **android device** you will get the default Android skin 'android' 
-and if you use a **IOS device** you will get the default IOS skin 'ios7' one.
+and if you use a **IOS device** you will get the default IOS skin 'ios7'.
 List of skins and how to use them with Angular directives.
 
 **Device based**
@@ -80,7 +71,8 @@ Use the **k-skin** directive together with **kendo-mobile-application**
 
 data-rel="external"
 ```html
-<kendo-mobile-button data-rel="external" target="_system" href="#" onclick="window.open('link')"></kendo-mobile-button> <!-Opens systems default mobile browser--->                                
+<kendo-mobile-button data-rel="external" target="_system" href="#" onclick="window.open('link')"></kendo-mobile-button> 
+<!-Opens systems default mobile browser--->                                
 ```
 **Open view(including html)**
 ```html
@@ -112,10 +104,83 @@ Inside of Angular controller
 ```html
 <class="km-icon km-more">
 ```
+## Change title transition
+
+Change title and set transition
+```html
+<kendo-mobile-view id="viewId"
+                   k-title="title"
+                   ng-controller="controller"
+                   k-transition="'slide'">
+```
+Inside of controller
+```js
+$scope.title = title;
+
+function title(){
+            return $scope.getStatusApi.currentItem.naziv;
+            //getstatusApi is my service
+            //currentItem is current selected item
+        }
+```
+
+## Kendo panel bar
+
+**Init**
+```html
+<ul ng-controller="controller" 
+    kendo-panel-bar 
+    k-options="panelBarOptions" 
+    k-rebind="data">
+</ul>
+```
+k-rebind is used when data changes
+
+k-options sets the options for the panel bar
+```js
+//kendo panel bar has to have the following format
+var format = [{
+    text:text
+    items:[
+        {
+        text:text
+        }
+        ]
+}]
+  $scope.panelBarOptions = {
+                    dataSource: format,
+                    expandMode: "multiple",
+                    expand: onExpand
+                    };
+                    
+$scope.data=$scope.panelBarOptions;
+```
+**Create details link onExpand**
 
 
+[On Expand Link](https://gist.github.com/josipN/cedc298380948a9cfdca)
 
+## Angular app config unsafe
+
+
+[Angular appConfig](https://gist.github.com/josipN/6cfb76a28aba3f562181)
+
+
+##Angular google maps factory
+
+[Angular google maps](https://gist.github.com/josipN/4af8bdbe3ad44f10b4ec)
 
                                 
 <!--//And in the Azure app settings of your website/app add a new app setting to match that in the picture below.
 //![App Settings](%image_url%/appsettings.png)-->
+
+##Little routing
+
+I wanted to switch my view on notification click !
+
+```js 
+function onclick(){
+ kendo.mobile.application.navigate("kendo/views/notifikacije.html");
+ //not working window.location,document.location
+}
+```
