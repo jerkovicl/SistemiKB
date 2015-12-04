@@ -166,7 +166,7 @@ $scope.data=$scope.panelBarOptions;
 [Angular appConfig](https://gist.github.com/josipN/6cfb76a28aba3f562181)
 
 
-##Angular google maps factory
+## Angular google maps factory
 
 [Angular google maps](https://gist.github.com/josipN/4af8bdbe3ad44f10b4ec)
 
@@ -174,7 +174,7 @@ $scope.data=$scope.panelBarOptions;
 <!--//And in the Azure app settings of your website/app add a new app setting to match that in the picture below.
 //![App Settings](%image_url%/appsettings.png)-->
 
-##Little routing
+## Little routing
 
 I wanted to switch my view on notification click !
 
