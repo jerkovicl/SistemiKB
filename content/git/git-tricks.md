@@ -12,6 +12,7 @@ Sort: 1
 - [Pretty Git log](#pretty-git-log)
 - [Navigate to folder with Git Bash](#navigate-to-folder-with-git-bash)
 - [Store git credentials while using command line](#store-git-credentials-while-using-command-line)
+- [A collection of useful .gitignore & .gitattributes templates](a-collection-of-useful-.gitignore-&-.gitattributes-templates)
 - [Git Hooks](#git-hooks)
   - [Pre commit hook](#pre-commit-hook)
 - [Useful learning material](#useful-learning-material)
