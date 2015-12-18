@@ -137,7 +137,14 @@ Use the `pwd` command to see in which path you are currently in, handy when you 
 
 ## Store git credentials while using command line
 
-git config --global credential.helper wincred
+`git config --global credential.helper wincred //DEPRECATED`
+
+- Install the new Git Credential Manager for Windows [here](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest)
+
+## A collection of useful .gitignore & .gitattributes templates
+
+* [.gitignore templates](https://github.com/github/gitignore)
+* [.gitattributes](https://github.com/Danimoth/gitattributes)
 
 ## Git Hooks
 
@@ -166,5 +173,6 @@ git push azure master
 
 ## Useful learning material
 
+[Dealing with line endings](https://help.github.com/articles/dealing-with-line-endings/)  
 [Keep your branch clean with fixup and autosquash](http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)  
 [GitHub Cheat Sheet](http://git.io/sheet)
