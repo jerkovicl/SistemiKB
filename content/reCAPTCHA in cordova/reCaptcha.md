@@ -6,6 +6,8 @@ I was developing a cordova angular/kendo mobile application. One of the user req
 I wanted to implemenet google reCAPTCHA as a prevention from bot attacks.
 The only way to implement a reCAPTCHA in a cordova/phonegap application is with a secure token.
 
+**BUT THIS ALSO DOES NOT WORK PROPERLY ::(**
+
 
 | Link  | Description  |                       
 | -------  | ---------------- |
