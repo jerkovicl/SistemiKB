@@ -4,7 +4,7 @@ Sort: 4
 */
 
 - [CKeditor postavke](#ckeditor-postavke)
-- [CKeditor predlošci](#ckeditor-predlosci)
+- [CKeditor predlošci](#ckeditor-predlo-ci)
 
 ### CKeditor postavke
 
@@ -34,8 +34,9 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
 ### CKeditor predlošci
 #### Dodavanje novih predložaka
 
-* Unutar Portal foldera (npr. Portals/0/) kreirati datoteku nazvanu npr. "MyTemplates.xml" ili "MyTemplates.js" (XML je preporučeni format).
-* Unutar datoteke je potrebno dodati sadržaj:
+- Unutar Portal foldera (npr. Portals/0/) kreirati datoteku nazvanu npr. "MyTemplates.xml" ili "MyTemplates.js" (XML je preporučeni format).
+- Unutar datoteke je potrebno dodati sadržaj
+
 #### XML Format
 
 ```
@@ -54,6 +55,7 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
   </Template>
 </Templates>
 ```
-* "imagesBasePath" je relativna putanja do sličica koje će se prikazivati u izboru predložaka. Slika se mora manualno prebaciti u navedeni folder.
-* Da bi se predložak koristio potrebno je na portalu odabrati predložak pod "Editor Templates File" u Editor Options ispod Editor Templates.
-* Više informacija: [CKEditor™ Provider for DNN](https://dnnckeditor.codeplex.com/wikipage?title=Add%20Custom%20Template)
+
+- "imagesBasePath" je relativna putanja do sličica koje će se prikazivati u izboru predložaka. Slika se mora manualno prebaciti u navedeni folder.
+- Da bi se predložak koristio potrebno je na portalu odabrati predložak pod "Editor Templates File" u Editor Options ispod Editor Templates.
+- Više informacija: [CKEditor™ Provider for DNN](https://dnnckeditor.codeplex.com/wikipage?title=Add%20Custom%20Template)
