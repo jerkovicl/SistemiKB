@@ -35,7 +35,7 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
 #### Dodavanje novih predložaka
 
 - Unutar Portal foldera (npr. Portals/0/) kreirati datoteku nazvanu npr. "MyTemplates.xml" ili "MyTemplates.js" (XML je preporučeni format).
-- Unutar datoteke je potrebno dodati sadržaj (XML FORMAT)
+- Unutar MyTemplates.xml datoteke je potrebno dodati sadržaj (XML FORMAT)
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 <Templates imagesBasePath="/Portals/0/images/templates/" templateName="default">
