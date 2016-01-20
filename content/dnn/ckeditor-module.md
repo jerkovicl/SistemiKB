@@ -37,6 +37,7 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
 * Unutar Portal foldera (npr. Portals/0/) kreirati datoteku nazvanu npr. "MyTemplates.xml" ili "MyTemplates.js" (XML je preporučeni format).
 * Unutar datoteke je potrebno dodati sadržaj:
 #### XML Format
+
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 <Templates imagesBasePath="/Portals/0/images/templates/" templateName="default">
@@ -52,7 +53,6 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
     </Html>
   </Template>
 </Templates>
-
 ```
 * "imagesBasePath" je relativna putanja do sličica koje će se prikazivati u izboru predložaka. Slika se mora manualno prebaciti u navedeni folder.
 * Da bi se predložak koristio potrebno je na portalu odabrati predložak pod "Editor Templates File" u Editor Options ispod Editor Templates.
