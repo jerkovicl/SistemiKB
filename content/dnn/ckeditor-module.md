@@ -4,7 +4,7 @@ Sort: 4
 */
 
 - [CKeditor postavke](#ckeditor-postavke)
-- [CKeditor template](#ckeditor-template)
+- [CKeditor predlošci](#ckeditor-predlo-ci)
 
 ### CKeditor postavke
 
@@ -31,12 +31,28 @@ span;ul;li;table;td;style;*[id];*(*);*{*}
 [( /<i class[\s\S]*?>/g ),( /<\/i>/g ),( /<span class[\s\S]*?>/g ),( /<\/span>/g ),( /<em class[\s\S]*?>/g ),( /<\/em>/g ),( /<button class[\s\S]*?>/g ),( /<\/button>/g )]
 ```
 
-### CKeditor template
-#### Add Custom Template
+### CKeditor predlošci
+#### Dodavanje novih predložaka
 
-This is a Quick How to Define Custom Templates for the Editor
-* Create locally a file called MyTemplates.xml or MyTemplates.js (XML is the Recommended format).
-* And add the Content bellow...
-* The "imagesBasePath" attribute relative Path of Your Portal Home directory where you store the Template image files which can be defined for every template. The Image, must be uploaded manually to the folder.
-* Now you can customize the templates as you like
-* When done that must be uploaded to the Portal Home directory and selected in "Editor Templates File" in the Editor Options under Editor Templates.
+- Unutar Portal foldera (npr. Portals/0/) kreirati datoteku nazvanu npr. "MyTemplates.xml" ili "MyTemplates.js" (XML je preporučeni format).
+- Unutar MyTemplates.xml datoteke je potrebno dodati sadržaj (XML FORMAT)
+```
+<?xml version="1.0" encoding="utf-8" ?>
+<Templates imagesBasePath="/Portals/0/images/templates/" templateName="default">
+  <Template image="tech-specs.gif" title="Članak - okvir">
+    <Description>Predložak za okvir članka</Description>
+    <Html>
+      <![CDATA[
+        <div class="article__more-about">
+            <p><strong>Unesite naslov</strong></p>
+            <p>Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst Unesite tekst</p>
+        </div>
+      ]]>
+    </Html>
+  </Template>
+</Templates>
+```
+
+- "imagesBasePath" je relativna putanja do sličica koje će se prikazivati u izboru predložaka. Slika se mora manualno prebaciti u navedeni folder.
+- Da bi se predložak koristio potrebno je na portalu odabrati predložak pod "Editor Templates File" u Editor Options ispod Editor Templates.
+- Više informacija: [CKEditor™ Provider for DNN](https://dnnckeditor.codeplex.com/wikipage?title=Add%20Custom%20Template)
