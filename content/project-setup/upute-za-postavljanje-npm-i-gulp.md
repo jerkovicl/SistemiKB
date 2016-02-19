@@ -5,15 +5,19 @@ Sort: 1
 
 Nemojte samo copy/paste-ati package.json i gulpfile.js datoteke i misliti da će odmah sve magično raditi !!!!
 
-### Upute:
+## Upute:
+
 - Prebacite **package.json** i **gulpfile.js** u root folder projekta npr. D:/Materijali/Sistemi/Website/Dev/v1/Web
-#### NPM (package.json datoteka)
+
+### 1. NPM (package.json datoteka)
+
 - Otvorite **package.json** datoteku u vama preferiranom IDE editor-u
 - Unutar **package.json** datoteke su zapisani pozivi za Sass i LESS. Ovisno o vrsti projekta izbrišite jednu ili drugu stavku koju ne koristite. Nemojte ostaviti Sass poziv ako koristite LESS i obrnuto.
 - Nakon što ste izmijenili i spremili package.json datoteku otvorite komandu liniju (administrator mode) u root folderu gdje se nalazi package.json npr. D:/Materijali/Sistemi/Website/Dev/v1/Web
 - Upišite komandu **npm install**
 - Pričekajte dok se instalacija ne izvrši
-#### Gulp.js (gulpfile.js datoteka)
+
+### 2. Gulp.js (gulpfile.js datoteka)
 - Otvorite **gulpfile.js** datoteku u vama preferiranom IDE editor-u
 - Unutar **gulpfile.js** datoteke su zapisani pozivi za Sass i LESS. Ovisno o vrsti projekta izbrišite jednu ili drugu stavku koju ne koristite. (linija 17 i 18)
 - Unutar **gulpfile.js** datoteke se nalazi varijabla 'skinPath' koja određuje putanju do foldera sa skin paketom. Promijenite putanju da odgovara vašem projektu
