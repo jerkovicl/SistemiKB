@@ -176,6 +176,6 @@ git push azure master
 
 [Dealing with line endings](https://help.github.com/articles/dealing-with-line-endings/)  
 [Keep your branch clean with fixup and autosquash](http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
-[Git Tips](http://wesbos.com/git-hot-tips/)
-[First Aid Git](http://firstaidgit.io/#/)
+[Git Tips](http://wesbos.com/git-hot-tips/)  
+[First Aid Git](http://firstaidgit.io/#/)  
 [GitHub Cheat Sheet](http://git.io/sheet)
