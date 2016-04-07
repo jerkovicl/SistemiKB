@@ -40,7 +40,7 @@ So I started with the guide above, after I finished it I wanted to use what I le
  
  **Table of Contents**
 
-1. [Using it as a filter](#filter")
+1. [Using it as a filter](#filter)
 - [Using it as a attribute ](#attribute)
 
 
