@@ -3,8 +3,6 @@ Title: DNN - Change max file size for upload
 Sort: 5
 */
 
-## DNN - Change max file size for upload
-
 - To increase max file size for upload in DNN you can do it in 4 possible places.
 - Examples below show how to increase file size to 30 MB.
 
