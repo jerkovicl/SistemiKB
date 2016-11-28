@@ -11,6 +11,7 @@ The calculator is used to calculate your water consumption price.
 - [Creating Content Types](#content-cretion)
 - [Web API ](#web-api)
 - [Angular2](#ng2-2sxc)
+- [Testing] (#testing)
 - [Production](#production)
 
 ## Content creation
@@ -160,7 +161,11 @@ extractData(res: Response) {
       error => this.showObracun = false);
   }
 ```
-## Produciton
+## Testing
+Since your angular2 application can't communicate with 2sxc web api directly 
+from outside of DNN environment. You need to create A DNN web api to send you mock data
+
+## Production
 After building your angular2 application you need to copy the code from your dist folder
 to your 2sxc application. After you copy the files follow these steps to make sure your 
 code works.
