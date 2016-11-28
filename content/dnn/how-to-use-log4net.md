@@ -3,7 +3,7 @@ Title: How to use LOG4NET in your DNN modules
 Sort: 1
 */
 
-> **Adding log4net to your modules**
+### **Adding log4net to your modules**
 
 > - The core DNN framework is utilizing log4net but your custom built applications will get the benefits from Exception.LogException() function posting to log4net automatically but you can implement more granular alerts by referencing log4net in your application.
 
@@ -12,14 +12,14 @@ Sort: 1
 > - See the full list of public functions on image below:
 ![Public Functions](http://www.dnnsoftware.com/Portals/0/Blog/Files/254/3474/Windows-Live-Writer-Using-log4net_A22B-image_4.png)
 
-> **Example of sending debug log message:**
+### **Example of sending debug log message:**
 
 ```
 ILog logger = LoggerSource.Instance.GetLogger(typeof(ClassName)); //change ClassName with yours
 logger.Error("Page Not found", exc);
 ```
 
-> **Example of adding new appender to output DNN log statements in the standard ASP.net Trace Output for the page**
+### **Example of adding new appender to output DNN log statements in the standard ASP.net Trace Output for the page**
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 <log4net>
