@@ -1,5 +1,5 @@
 /*
-Title: Brisanje security analyzer modula ručno!
+Title: How to Manually Delete A DotNetNuke Module
 Sort: 0
 */
 
