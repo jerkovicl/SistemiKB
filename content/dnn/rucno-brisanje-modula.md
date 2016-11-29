@@ -2,7 +2,7 @@
 Title: Brisanje security analyzer modula ručno!
 */
 
-- Deleting security analyzer manually
+ Deleting security analyzer manually
 
 | Link  | Description  |                       
 | -------  | ---------------- |
