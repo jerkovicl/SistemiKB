@@ -1,20 +1,28 @@
-//include gulp
+
+'use strict';
+
+// Modules
 var gulp = require('gulp');
 
-// include plug-ins
-var toc = require('gulp-doctoc');
-var marked = require('gulp-marked');
-var doctoc = require('doctoc');
+gulp.task('copy_libs', function () {
 
+  var source = [
+    'node_modules/bootstrap/**/*',
+    'node_modules/bootstrap-rtl/**/*',
+    'node_modules/fitvids/**/*',
+    'node_modules/highlightjs/**/*',
+    'node_modules/jquery/**/*',
+    'node_modules/masonry-layout/**/*',
+    'node_modules/sweetalert/**/*',
+    'node_modules/jquery.backstretch/**/*',
+  ];
 
+  var dest = 'themes/default/public/lib';
 
-// gulp.task('markdown', function() {
-//
-//   gulp.src('./content/**/*.md')
-//     .pipe(toc())
-//     .pipe(marked())
-//     .pipe(gulp.dest('./public/'));
-// });
+  return gulp.src(source, { base: 'node_modules' })
+             .pipe(gulp.dest(dest));
 
+});
 
-//  doctoc '/content/azure/azure.md';
+// Default
+gulp.task('default', ['copy_libs']);

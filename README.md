@@ -1,56 +1,39 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Raneto](#raneto)
-  - [Requirements](#requirements)
-  - [Install](#install)
-  - [Demo & Docs](#demo-&-docs)
-  - [Contribute](#contribute)
-  - [Showcase](#showcase)
-  - [Credits](#credits)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-Raneto
+Raneto [![](https://travis-ci.org/gilbitron/Raneto.svg?branch=master)](https://travis-ci.org/gilbitron/Raneto)
 ======
 
-[Raneto](http://raneto.com) is a free, open, simple Markdown powered Knowledgebase for Nodejs. [Find out more &rarr;](http://docs.raneto.com/what-is-raneto)
+[![Raneto Logo](https://raw.githubusercontent.com/gilbitron/Raneto/master/logo/logo_readme.png)](http://raneto.com/)
 
-Requirements
-------------
 
-* [Node.js](http://nodejs.org) **v0.10+**
+[Raneto](http://raneto.com) is a free, open, simple Markdown powered Knowledgebase for Node.js.  
+[Find out more &rarr;](http://docs.raneto.com/what-is-raneto)  
 
-Install
--------
+Visit [http://docs.raneto.com](http://docs.raneto.com) to see a demo and get started!
 
-1. Download the latest version of Raneto from the [releases page](https://github.com/gilbitron/Raneto/releases)
-2. Create a new directory where you would like to run the app, and un-zip the package to that location
-3. Fire up a Terminal, the Node Command Prompt or shell and change directory to the root of the Raneto application (where app.js and config.js are)
-4. run `npm install` to install the node dependencies
-5. To start Raneto, run `npm start`
-6. Visit `http://localhost:3000` in your web browser
-
-Note: When running on a live site you'll want to set the `PORT` env variable to `80` so you don't need to add `:3000` to the URL.
-
-Demo & Docs
------------
-
-See http://docs.raneto.com
-
-Contribute
+Quickstart
 ----------
 
-See http://docs.raneto.com/contributing
+Run this in a terminal and then visit [http://localhost:3000](http://localhost:3000).  
+For full Installation instructions, see the [Installation Guide](http://docs.raneto.com/install/installing-raneto).  
+`git clone https://github.com/gilbitron/Raneto.git && cd Raneto && npm install && npm start`
 
-Showcase
---------
+Links
+---------------
 
-Using Raneto in the wild? We'd love to see it. Add your site to the [Raneto Showcase](https://github.com/gilbitron/Raneto/wiki/Raneto-Showcase).
+- [Configuration](http://docs.raneto.com/usage/configuration)
+- [Production Notes](http://docs.raneto.com/install/production-notes)
+- [Deploying to Heroku](http://docs.raneto.com/tutorials/deploying-raneto-to-heroku)
+- [Contributing](https://github.com/gilbitron/Raneto/blob/master/CONTRIBUTE.md)
+
+Related Projects
+----------------
+
+- [Deploy Raneto to your servers with Ansible](https://github.com/ryanlelek/raneto-devops) (@ryanlelek)
+- [Run Raneto in a Vagrant container](https://github.com/draptik/vagrant-raneto) (@draptik)
 
 Credits
 -------
 
-Raneto was created by [Gilbert Pellegrom](http://gilbert.pellegrom.me) from
-[Dev7studios](http://dev7studios.com). Released under the [MIT license](https://raw.githubusercontent.com/gilbitron/Raneto/master/LICENSE).
+Raneto was created by [Gilbert Pellegrom](http://gilbert.pellegrom.me) from [Dev7studios](http://dev7studios.com).  
+Maintained by [Ryan Lelek](http://www.ryanlelek.com) from [AnsibleTutorials.com](http://www.ansibletutorials.com).  
+Logo by [@mmamrila](https://github.com/mmamrila)  
+Released under the [MIT license](https://raw.githubusercontent.com/gilbitron/Raneto/master/LICENSE).
