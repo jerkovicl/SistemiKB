@@ -1,4 +1,7 @@
-## Angular 2 and  .NET Core Awesome list
+/*
+Title: Angular 2 and  .NET Core Awesome list
+*/
+
 * __Requirements: Update Git and Node to latest versions.__ 
 
 ##### Current Angular 2 version:
