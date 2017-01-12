@@ -78,6 +78,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
 * [The State of UX in 2017, Prototyping Voice UI, Design Against Fake News and more](https://uxdesign.cc/the-state-of-ux-in-2017-prototyping-voice-ui-design-against-fake-news-and-more-84effb6a8185#.vu2wmme0h)
 * [The beginner’s guide to usability testing](http://uxmastery.com/beginners-guide-to-usability-testing/)
+* [Design for internationalization](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.mvpr6ly6o)
 
 ## Design sprint
 * [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
