@@ -5,6 +5,9 @@ Sort: 2
 
 An Evolving CSS / Sass Style Guide for DNN Projects
 
+
+---
+
 ## Contents
 
 ### Writing CSS / Sass
