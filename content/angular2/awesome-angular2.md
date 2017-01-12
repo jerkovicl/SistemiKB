@@ -91,5 +91,6 @@ Title: Angular 2 and  .NET Core Awesome list
 * [NativeScript for Visual Studio Code](https://www.nativescript.org/nativescript-for-visual-studio-code)
 * [Debugging NativeScript Apps With Visual Studio Code](https://www.youtube.com/watch?v=1e4eFkPxQSw)
 * [VS Code Keyboard shortcuts Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+* [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [List of public JSON APIs for use in web dev](https://github.com/toddmotto/public-apis)
 * [Understanding and updating package versions for .NET Core 1.0.3](http://andrewlock.net/understanding-and-updating-package-versions-for-net-core-1-0-3/)
