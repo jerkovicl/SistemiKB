@@ -3,8 +3,6 @@ Title: CSS Style Guide
 Sort: 2
 */
 
-# CSS Style Guide
-
 An Evolving CSS / Sass Style Guide for DNN Projects
 
 ## Contents
