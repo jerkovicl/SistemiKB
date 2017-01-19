@@ -16,6 +16,8 @@ Title: Angular 2 and  .NET Core Awesome list
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [Angular2 seed project](https://github.com/NathanWalker/angular-seed-advanced)
 * [Angular2 PWA/Mobile Kit](https://mobile.angular.io/)
+* [Material Components](https://material.io/components/)
+* [Ionic Super Starter Kit](http://blog.ionic.io/help-us-test-the-super-starter/)
 * [Helpful Angular2 GitHub repos (curated through December 2016)](https://www.reddit.com/r/Angular2/comments/5fzdz3/helpful_github_repos_curated_through_december_2016/)
 * [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.h3nx27hmq)
 * [Complete Angular 2 Guide: Components in Depth](https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.xws4sawtm)
@@ -36,6 +38,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Communication Between Components Using @Input() in Angular 2](https://dzone.com/articles/communication-between-components-using-input-in-an)
 * [Angular 2 — Deal with Different Form Controls Cheat Sheet — Template vs Model](https://netbasal.com/angular-2-deal-with-different-form-controls-cheat-sheet-template-vs-model-4c77864cc16b#.qc7apvh3b)
 * [Angular — Clean Up your Form Template](https://netbasal.com/angular-clean-up-your-form-template-646faa164b1b#.uc3nvtg01)
+* [Angular 2: How to use data input controls with Angular Forms](http://blog.johanneshoppe.de/2016/10/angular-2-how-to-use-date-input-controls-with-angular-forms/)
 * [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
 * [Posting Additional Parameters During Authentication With Auth0 In Angular 2.4.1](https://www.bennadel.com/blog/3210-posting-additional-parameters-during-authentication-with-auth0-in-angular-2-4-1.htm)
 * [Improving the State of your App with Redux](http://developer.telerik.com/topics/web-development/improving-state-app-redux/)
@@ -65,6 +68,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [How to enable gZip compression in ASP.NET Core 1.1](http://www.talkingdotnet.com/how-to-enable-gzip-compression-in-asp-net-core/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 * [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
+* [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -98,6 +102,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
 * [Angular 2 Roundup by John Papa](https://www.pluralsight.com/blog/software-development/john-papa-angular2)
+* [A Taste from Angular Version 4](https://netbasal.com/a-taste-from-angular-version-4-50be1c4f3550#.d4wwn2cnl)
 * [Angular2 Travis CI](https://saucelabs.com/u/angular2-ci)
 * [Client-side debugging of ASP.NET projects in Google Chrome for VS2017](https://blogs.msdn.microsoft.com/webdev/2016/11/21/client-side-debugging-of-asp-net-projects-in-google-chrome/)
 * [NativeScript for Visual Studio Code](https://www.nativescript.org/nativescript-for-visual-studio-code)
