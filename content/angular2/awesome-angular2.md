@@ -31,6 +31,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Building a Google Chrome Extension with Couchbase and Angular 2](https://blog.couchbase.com/2017/january/building-a-google-chrome-extension-with-couchbase-and-angular-2)
 * [Building An iTunes Player With Angular](http://developer.telerik.com/topics/web-development/building-an-itunes-player-with-angular/)
 * [Build a WhatsApp Clone with Ionic 2, Angular 2, and Meteor](https://blog.meteor.com/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-17aa24433cd8#.cygn7xqkg)
+* [Single Project Full-Stack Angular 2](http://developer.telerik.com/products/kendo-ui/single-project-full-stack-angular/)
 * [How to Build an Angular 2 Service](https://code.tutsplus.com/tutorials/how-to-build-an-angular-2-service--cms-27943)
 * [Communication Between Components Using @Input() in Angular 2](https://dzone.com/articles/communication-between-components-using-input-in-an)
 * [Angular 2 — Deal with Different Form Controls Cheat Sheet — Template vs Model](https://netbasal.com/angular-2-deal-with-different-form-controls-cheat-sheet-template-vs-model-4c77864cc16b#.qc7apvh3b)
