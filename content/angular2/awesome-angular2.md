@@ -60,6 +60,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [IdentityServer4, WebAPI and Angular2 in a single ASP.NET Core project](https://damienbod.com/2016/10/01/identityserver4-webapi-and-angular2-in-a-single-asp-net-core-project/)
 * [Getting Started with IdentityServer 4](https://www.scottbrady91.com/Identity-Server/Getting-Started-with-IdentityServer-4)
 * [Adding Localization to an ASP.NET Core application](http://andrewlock.net/adding-localisation-to-an-asp-net-core-application/)
+* [Localization Resource Generator & Translator via dotnet CLI](http://www.hishambinateya.com/localization-resource-generator-and-translator-via-dotnet-cli?)
 * [Response Caching in ASP.Net Core 1.1](http://www.talkingdotnet.com/response-caching-in-asp-net-core-1-1/)
 * [How to enable gZip compression in ASP.NET Core 1.1](http://www.talkingdotnet.com/how-to-enable-gzip-compression-in-asp-net-core/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
