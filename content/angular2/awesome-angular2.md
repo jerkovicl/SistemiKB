@@ -102,6 +102,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Client-side debugging of ASP.NET projects in Google Chrome for VS2017](https://blogs.msdn.microsoft.com/webdev/2016/11/21/client-side-debugging-of-asp-net-projects-in-google-chrome/)
 * [NativeScript for Visual Studio Code](https://www.nativescript.org/nativescript-for-visual-studio-code)
 * [Debugging NativeScript Apps With Visual Studio Code](https://www.youtube.com/watch?v=1e4eFkPxQSw)
+* [iOS WebKit Debug Proxy Win32](https://github.com/artygus/ios-webkit-debug-proxy-win32)
 * [VS Code Keyboard shortcuts Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [List of public JSON APIs for use in web dev](https://github.com/toddmotto/public-apis)
