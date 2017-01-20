@@ -7,7 +7,7 @@ Title: Angular 2 and  .NET Core Awesome list
 ##### Current Angular 2 version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 ##### Current Angular 2 CLI version:
-[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular-cli)
+[![NPM](https://nodei.co/npm/angular-cli.png)](https://npmjs.org/package/angular-cli)
 
 ##### Current Browser support for Angular 2:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
