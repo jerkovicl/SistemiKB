@@ -104,6 +104,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
 * [Angular 2 Roundup by John Papa](https://www.pluralsight.com/blog/software-development/john-papa-angular2)
+* [Angular2 Education](https://github.com/timjacobi/angular2-education)
 * [A Taste from Angular Version 4](https://netbasal.com/a-taste-from-angular-version-4-50be1c4f3550#.d4wwn2cnl)
 * [Angular2 Travis CI](https://saucelabs.com/u/angular2-ci)
 * [Client-side debugging of ASP.NET projects in Google Chrome for VS2017](https://blogs.msdn.microsoft.com/webdev/2016/11/21/client-side-debugging-of-asp-net-projects-in-google-chrome/)
