@@ -14,6 +14,9 @@ Sort: 2
 - Now you need to find some __ERRORS__ for source `IIS-W3SVC-WP` in middle window.
 - Probably you will see message like: `The Module DLL >>path-to-DLL<< failed to load. The data is the error.`
 - You have to go to `Control Panel -> Program and Features` and depending on which dll cannot be load you need to repair another module:  
+
 > for __rewrite.dll__ - find `IIS URL Rewrite Module 2` and click __Change->Repair__
+
 > for __aspnetcore.dll__ - find `Microsoft .NET Core 1.0.0 - VS 2015 Tooling` ... and click __Change->Repair__.
+
 - Restart your computer.
