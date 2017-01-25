@@ -4,11 +4,11 @@ Sort: 2
 */
 
 
-* Error:
+##### Error:
 
 `HTTP Error 503. The service is unavailable. App pool stops on accessing website`
 
-* Solution:
+##### Solution:
 - Check your __Windows__ __Event__ __Viewer__ , press `Win+R` and type: `eventvwr`, then press ENTER.
 - On the left side of __Windows__ __Event__ __Viewer__ click on `Windows Logs -> Application`.
 - Now you need to find some __ERRORS__ for source `IIS-W3SVC-WP` in middle window.
