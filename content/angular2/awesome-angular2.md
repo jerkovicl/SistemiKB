@@ -39,9 +39,12 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Build a Music Player with Angular 2+ & Electron](https://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts)
 * [Single Project Full-Stack Angular 2](http://developer.telerik.com/products/kendo-ui/single-project-full-stack-angular/)
 * [How to Build an Angular 2 Service](https://code.tutsplus.com/tutorials/how-to-build-an-angular-2-service--cms-27943)
+* [Show loader on every request in Angular 2](https://medium.com/@ivan.radunovic/show-loader-on-every-request-in-angular-2-9a0fca86afef#.xdja17xh2)
+* [Mastering Angular dependency injection with @Inject, @Injectable, tokens and providers](https://toddmotto.com/angular-dependency-injection)
 * [Communication Between Components Using @Input() in Angular 2](https://dzone.com/articles/communication-between-components-using-input-in-an)
 * [Angular 2 — Deal with Different Form Controls Cheat Sheet — Template vs Model](https://netbasal.com/angular-2-deal-with-different-form-controls-cheat-sheet-template-vs-model-4c77864cc16b#.qc7apvh3b)
 * [Angular — Clean Up your Form Template](https://netbasal.com/angular-clean-up-your-form-template-646faa164b1b#.uc3nvtg01)
+* [Angular 2 Form Validation](https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.vxg21xebo)
 * [Angular 2: How to use data input controls with Angular Forms](http://blog.johanneshoppe.de/2016/10/angular-2-how-to-use-date-input-controls-with-angular-forms/)
 * [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
 * [Posting Additional Parameters During Authentication With Auth0 In Angular 2.4.1](https://www.bennadel.com/blog/3210-posting-additional-parameters-during-authentication-with-auth0-in-angular-2-4-1.htm)
@@ -76,6 +79,10 @@ Title: Angular 2 and  .NET Core Awesome list
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 * [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
+
+## Angular2 3rd party modules and libs
+* [Useful pipes for Angular 2](https://github.com/danrevah/ngx-pipes)
+* [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
