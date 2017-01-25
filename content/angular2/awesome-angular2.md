@@ -83,6 +83,7 @@ Title: Angular 2 and  .NET Core Awesome list
 ## Angular2 3rd party modules and libs
 * [Useful pipes for Angular 2](https://github.com/danrevah/ngx-pipes)
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
+* [ngx-datatable (f.k.a. angular2-data-table)](https://github.com/swimlane/ngx-datatable)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
