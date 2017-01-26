@@ -58,6 +58,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Configuring app for Web API](http://asp.net-hacker.rocks/2016/09/19/aspnetcore-and-angular2-using-dotnetcli-and-vscode.html)
 * [Boosting the security of your Angular 2 application](https://www.youtube.com/watch?v=l89acmnGMSc)
 * [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
+* [Native Web Push Notifications with Angular 2](https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.rryifb5ae)
 * [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
 * [ASP.NET Core Angular 2 EF 1.0.1 Web API Using Template Pack](https://www.codeproject.com/Articles/1161804/ASP-NET-Core-Angular-EF-Web-API-Using-Template-Pac)
 * [Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro)
