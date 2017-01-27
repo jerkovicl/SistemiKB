@@ -41,6 +41,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [How to Build an Angular 2 Service](https://code.tutsplus.com/tutorials/how-to-build-an-angular-2-service--cms-27943)
 * [Show loader on every request in Angular 2](https://medium.com/@ivan.radunovic/show-loader-on-every-request-in-angular-2-9a0fca86afef#.xdja17xh2)
 * [Mastering Angular dependency injection with @Inject, @Injectable, tokens and providers](https://toddmotto.com/angular-dependency-injection)
+* [A deep dive on Angular decorators](https://toddmotto.com/angular-decorators)
 * [Communication Between Components Using @Input() in Angular 2](https://dzone.com/articles/communication-between-components-using-input-in-an)
 * [Angular 2 — Deal with Different Form Controls Cheat Sheet — Template vs Model](https://netbasal.com/angular-2-deal-with-different-form-controls-cheat-sheet-template-vs-model-4c77864cc16b#.qc7apvh3b)
 * [Angular — Clean Up your Form Template](https://netbasal.com/angular-clean-up-your-form-template-646faa164b1b#.uc3nvtg01)
