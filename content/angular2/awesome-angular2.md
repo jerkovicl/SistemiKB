@@ -88,6 +88,11 @@ Title: Angular 2 and  .NET Core Awesome list
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
 * [ngx-datatable (f.k.a. angular2-data-table)](https://github.com/swimlane/ngx-datatable)
 
+## Nativescript libs and plugins
+* [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
+* [Performance monitor plugin](https://github.com/EddyVerbruggen/nativescript-performance-monitor)
+* [Slack/WhatsApp - style chat keyboard](https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard)
+
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erf527l27)
