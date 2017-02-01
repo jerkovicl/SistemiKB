@@ -17,7 +17,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * Guide for generator is [here](http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/)
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [Angular Universal Starter Kit](https://github.com/MarkPieszak/aspnetcore-angular2-universal)
-* [Angular 2 & Asp.Net Core SPA with Webpack 2](https://github.com/asadsahi/AspNetCoreSpa)
+* [Angular 2 & Asp.Net Core SPA with Webpack 2 - StarterKit](https://github.com/asadsahi/AspNetCoreSpa)
 * [Angular2 seed project](https://github.com/NathanWalker/angular-seed-advanced)
 * [Angular2 PWA/Mobile Kit](https://mobile.angular.io/)
 * [Material Components](https://material.io/components/)
