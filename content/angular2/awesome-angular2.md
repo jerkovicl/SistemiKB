@@ -59,6 +59,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Angular 2 authentication revisited](https://medium.com/@blacksonic86/angular-2-authentication-revisited-611bf7373bf9#.nnel9iute)
 * [Configuring app for Web API](http://asp.net-hacker.rocks/2016/09/19/aspnetcore-and-angular2-using-dotnetcli-and-vscode.html)
 * [Boosting the security of your Angular 2 application](https://www.youtube.com/watch?v=l89acmnGMSc)
+* [Writing Unit Tests in Angular 2](http://www.discoversdk.com/blog/writing-unit-tests-in-angular-2)
 * [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
 * [Native Web Push Notifications with Angular 2](https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.rryifb5ae)
 * [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
