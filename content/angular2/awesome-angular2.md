@@ -87,6 +87,11 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
 
+## EF Core Nuget packages to install for SQL and IdentitySErver4
+
+* Microsoft.EntityFramework.Core.Tools - needed for migrations etc...
+* Microsoft.EntityFramework.Core.SqlServer - needed to connect to SQL Server using connection string
+
 ## Angular2 3rd party modules and libs
 * [Useful pipes for Angular 2](https://github.com/danrevah/ngx-pipes)
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
