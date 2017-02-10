@@ -135,6 +135,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
 
 ## Misc
+* [WebPack + Angular 2 Bin Playground](http://www.webpackbin.com/VkGioSowz)
 * [ASP.NET Free Courses](https://www.asp.net/freecourses)
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
