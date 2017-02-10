@@ -99,6 +99,8 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Useful pipes for Angular 2](https://github.com/danrevah/ngx-pipes)
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
 * [ngx-datatable (f.k.a. angular2-data-table)](https://github.com/swimlane/ngx-datatable)
+* [ng2-ckeditor](https://github.com/chymz/ng2-ckeditor)
+* [Angular 2 Swiper Wrapper](https://github.com/zefoy/ngx-swiper-wrapper/)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
