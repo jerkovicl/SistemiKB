@@ -86,6 +86,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Localization Resource Generator & Translator via dotnet CLI](http://www.hishambinateya.com/localization-resource-generator-and-translator-via-dotnet-cli?)
 * [Response Caching in ASP.Net Core 1.1](http://www.talkingdotnet.com/response-caching-in-asp-net-core-1-1/)
 * [How to enable gZip compression in ASP.NET Core 1.1](http://www.talkingdotnet.com/how-to-enable-gzip-compression-in-asp-net-core/)
+* [Logging in ASP.NET Core](https://stackify.com/asp-net-core-logging-what-changed/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 * [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
@@ -100,6 +101,8 @@ Title: Angular 2 and  .NET Core Awesome list
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
 * [ngx-datatable (f.k.a. angular2-data-table)](https://github.com/swimlane/ngx-datatable)
 * [ng2-ckeditor](https://github.com/chymz/ng2-ckeditor)
+* [WYSIWYG Editor](https://github.com/froala/angular2-froala-wysiwyg)
+* [TinyMCE](https://www.tinymce.com/docs/integrations/angular2/)
 * [Angular 2 Swiper Wrapper](https://github.com/zefoy/ngx-swiper-wrapper/)
 
 ## Nativescript libs and plugins
@@ -149,6 +152,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [iOS WebKit Debug Proxy Win32](https://github.com/artygus/ios-webkit-debug-proxy-win32)
 * [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
 * [VS Code Keyboard shortcuts Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+* [VS Code Tips & Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 * [List of public JSON APIs for use in web dev](https://github.com/toddmotto/public-apis)
 * [Understanding and updating package versions for .NET Core 1.0.3](http://andrewlock.net/understanding-and-updating-package-versions-for-net-core-1-0-3/)
