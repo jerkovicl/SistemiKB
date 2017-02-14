@@ -25,7 +25,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Angular2 PWA/Mobile Kit](https://mobile.angular.io/)
 * [Material Components](https://material.io/components/)
 * [Ionic Super Starter Kit](http://blog.ionic.io/help-us-test-the-super-starter/)
-* [Helpful Angular2 GitHub repos (curated through December 2016)](https://www.reddit.com/r/Angular2/comments/5fzdz3/helpful_github_repos_curated_through_december_2016/)
+* [Helpful Angular2 GitHub repos (curated through February 2017)](https://www.reddit.com/r/Angular2/comments/5rj14a/helpful_angular_2_github_repos_curated_through/)
 * [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.h3nx27hmq)
 * [Complete Angular 2 Guide: Components in Depth](https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.xws4sawtm)
 * [Lessons Learned from Creating A Typeahead With RxJs And Angular 2](http://orizens.com/wp/topics/lessons-learned-from-creating-a-typeahead-with-rxjs-and-angular-2/)
