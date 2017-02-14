@@ -167,4 +167,5 @@ Title: Angular 2 and  .NET Core Awesome list
 * [List of public JSON APIs for use in web dev](https://github.com/toddmotto/public-apis)
 * [Spell Checker for VS 2017](https://channel9.msdn.com/coding4fun/blog/Speell-Checker-for-VS-2017)
 * [.Net Core, Roslyn and Code Generation](https://carlos.mendible.com/2017/01/29/net-core-roslyn-and-code-generation/)
+* [.NET Code Style Settings For Editorconfig](https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference)
 * [Understanding and updating package versions for .NET Core 1.0.3](http://andrewlock.net/understanding-and-updating-package-versions-for-net-core-1-0-3/)
