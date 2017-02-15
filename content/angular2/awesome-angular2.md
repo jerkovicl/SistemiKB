@@ -17,7 +17,7 @@ Title: Angular 2 and  .NET Core Awesome list
 
 * [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://github.com/aspnet/JavaScriptServices#readme)
 * Some general info [here](http://blog.nbellocam.me/2016/08/24/javascriptservices-asp-net-core/) and [here](http://rion.io/2016/12/05/using-asp-net-core-javascript-services-to-play-nice-with-client-side-frameworks/)
-* Guide for generator is [here](http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/)
+* Guide for generator is [here](http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/) and [here](https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/)
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [Angular Universal Starter Kit](https://github.com/MarkPieszak/aspnetcore-angular2-universal)
 * [Angular 2 & Asp.Net Core SPA with Webpack 2 - StarterKit](https://github.com/asadsahi/AspNetCoreSpa)
@@ -148,6 +148,8 @@ Title: Angular 2 and  .NET Core Awesome list
 * [WebPack + Angular 2 Bin Playground](http://www.webpackbin.com/VkGioSowz)
 * [.NETFiddle](https://dotnetfiddle.net/)
 * [ASP.NET Free Courses](https://www.asp.net/freecourses)
+* [ASP.NET Documentation](docs.microsoft.com)
+* [.NET Core Release Notes](https://github.com/dotnet/core/tree/master/release-notes)
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
 * [A collection of awesome .NET core libraries, tools, frameworks and software](https://github.com/thangchung/awesome-dotnet-core)
