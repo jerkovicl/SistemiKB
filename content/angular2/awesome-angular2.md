@@ -105,6 +105,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * Microsoft.EntityFramework.Core.SqlServer - needed to connect to SQL Server using connection string
 
 ## Angular2 3rd party modules and libs
+* [Catalog of Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components)
 * [Useful pipes for Angular 2](https://github.com/danrevah/ngx-pipes)
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
 * [ngx-datatable (f.k.a. angular2-data-table)](https://github.com/swimlane/ngx-datatable)
@@ -132,6 +133,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Frontend libraries and scripts](https://github.com/simejerkovic/frontend-stuff)
 * [Front-End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 * [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.7odiawy3s)
+* [Angular — Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.u4u90den0)
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
 * [Create a Stylish News Feed Layout in Ionic 2](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/)
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
