@@ -43,9 +43,11 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Build a Music Player with Angular 2+ & Electron](https://scotch.io/tutorials/build-a-music-player-with-angular-2-electron-i-setup-basics-concepts)
 * [Single Project Full-Stack Angular 2](http://developer.telerik.com/products/kendo-ui/single-project-full-stack-angular/)
 * [How to Build an Angular 2 Service](https://code.tutsplus.com/tutorials/how-to-build-an-angular-2-service--cms-27943)
+* [Client side filtering using streams](http://blog.kwintenp.com/client-side-filtering-with-streams/)
 * [Show loader on every request in Angular 2](https://medium.com/@ivan.radunovic/show-loader-on-every-request-in-angular-2-9a0fca86afef#.xdja17xh2)
 * [Mastering Angular dependency injection with @Inject, @Injectable, tokens and providers](https://toddmotto.com/angular-dependency-injection)
 * [A deep dive on Angular decorators](https://toddmotto.com/angular-decorators)
+* [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c#.911tftbwa)
 * [Communication Between Components Using @Input() in Angular 2](https://dzone.com/articles/communication-between-components-using-input-in-an)
 * [Angular 2 — Deal with Different Form Controls Cheat Sheet — Template vs Model](https://netbasal.com/angular-2-deal-with-different-form-controls-cheat-sheet-template-vs-model-4c77864cc16b#.qc7apvh3b)
 * [Angular — Clean Up your Form Template](https://netbasal.com/angular-clean-up-your-form-template-646faa164b1b#.uc3nvtg01)
@@ -60,6 +62,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [AntiforgerySample](https://github.com/aspnet/Antiforgery/tree/dev/samples/AntiforgerySample)
 * [Improving the State of your App with Redux](http://developer.telerik.com/topics/web-development/improving-state-app-redux/)
 * [Angular 2 + ngrx examples](https://github.com/btroncone/ngrx-examples)
+* [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-3-99fe2e0a7082#.j9ohizf62)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0#.geye2zx8g)
 * [Optimizing App Loading Time With Angular 2 Lazy Loading](https://dzone.com/articles/optimizing-app-loading-time-with-angular-2-lazy-lo)
 * [How To Debug an Angular Application with Chrome and VS Code](https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an)
@@ -116,6 +119,8 @@ Title: Angular 2 and  .NET Core Awesome list
 * [WYSIWYG Editor](https://github.com/froala/angular2-froala-wysiwyg)
 * [TinyMCE](https://www.tinymce.com/docs/integrations/angular2/)
 * [Angular 2 Swiper Wrapper](https://github.com/zefoy/ngx-swiper-wrapper/)
+* [ng2-pagination](https://github.com/michaelbromley/ng2-pagination)
+* [Infinite Scroll Directive for Angular 2](https://github.com/orizens/angular2-infinite-scroll)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
