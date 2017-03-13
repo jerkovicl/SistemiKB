@@ -86,6 +86,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Introduction to OAuth 2.0 using Facebook in ASP.NET Core](http://andrewlock.net/an-introduction-to-oauth-2-using-facebook-in-asp-net-core/)
 * [Series on Authentication and Authorization in ASP.NET Core](http://andrewlock.net/modifying-the-ui-based-on-user-authorisation-in-asp-net-core/)
 * [ASP.NET Core Authentication with IdentityServer4](https://blogs.msdn.microsoft.com/webdev/2017/01/23/asp-net-core-authentication-with-identityserver4/)
+* [Secure your .NETCore web applications using IdentityServer 4](https://social.technet.microsoft.com/wiki/contents/articles/37169.secure-your-netcore-web-applications-using-identityserver-4.aspx)
 * [Angular2 OpenID Connect Implicit Flow with IdentityServer4](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [IdentityServer4, WebAPI and Angular2 in a single ASP.NET Core project](https://damienbod.com/2016/10/01/identityserver4-webapi-and-angular2-in-a-single-asp-net-core-project/)
 * [Configuring the ASP.NET Core Web API & IdentityServer4](https://github.com/robisim74/Angular2SPAWebAPI/issues/1)
