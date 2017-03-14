@@ -54,6 +54,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Angular Forms in Depth](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.66bbrfsg0)
 * [Angular 2 Form Validation](https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.vxg21xebo)
 * [Angular 2 Reactive Forms Validations](http://www.javascripttuts.com/angular-2-reactive-forms-validations/)
+* [https://toddmotto.com/angular-dynamic-components-forms](Configurable Reactive Forms in Angular with dynamic components)
 * [Angular 2: How to use data input controls with Angular Forms](http://blog.johanneshoppe.de/2016/10/angular-2-how-to-use-date-input-controls-with-angular-forms/)
 * [Send form input via an Angular 2 component to ASP.NET Core Web API](https://jonhilton.net/2017/02/01/send-form-input-via-an-angular-2-component-to-asp-net-core-web-api/)
 * [The Powerful URL Matching Engine of Angular Router](https://vsavkin.com/the-powerful-url-matching-engine-of-angular-router-775dad593b03#.n09pgp268)
