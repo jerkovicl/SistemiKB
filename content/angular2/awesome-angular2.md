@@ -126,6 +126,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [ng2-pagination](https://github.com/michaelbromley/ng2-pagination)
 * [Infinite Scroll Directive for Angular 2](https://github.com/orizens/angular2-infinite-scroll)
 * [Admin panel framework based on Angular 2, Bootstrap 4 and Webpack](https://github.com/akveo/ng2-admin)
+* [27 Angular 2 Components](https://colorlib.com/wp/angular-2-components/)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
