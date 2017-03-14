@@ -53,9 +53,11 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Angular — Clean Up your Form Template](https://netbasal.com/angular-clean-up-your-form-template-646faa164b1b#.uc3nvtg01)
 * [Angular Forms in Depth](https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5#.66bbrfsg0)
 * [Angular 2 Form Validation](https://medium.com/@daviddentoom/angular-2-form-validation-9b26f73fcb81#.vxg21xebo)
+* [Angular 2 Reactive Forms Validations](http://www.javascripttuts.com/angular-2-reactive-forms-validations/)
 * [Angular 2: How to use data input controls with Angular Forms](http://blog.johanneshoppe.de/2016/10/angular-2-how-to-use-date-input-controls-with-angular-forms/)
 * [Send form input via an Angular 2 component to ASP.NET Core Web API](https://jonhilton.net/2017/02/01/send-form-input-via-an-angular-2-component-to-asp-net-core-web-api/)
 * [The Powerful URL Matching Engine of Angular Router](https://vsavkin.com/the-powerful-url-matching-engine-of-angular-router-775dad593b03#.n09pgp268)
+* [Angular 2 - Define Routes Dynamically using UIRouter](http://cloudmark.github.io/Multilingual-Routing/)
 * [Angular 2+ Classes with NgClass and NgStyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
 * [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
 * [Posting Additional Parameters During Authentication With Auth0 In Angular 2.4.1](https://www.bennadel.com/blog/3210-posting-additional-parameters-during-authentication-with-auth0-in-angular-2-4-1.htm)
@@ -71,6 +73,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Configuring app for Web API](http://asp.net-hacker.rocks/2016/09/19/aspnetcore-and-angular2-using-dotnetcli-and-vscode.html)
 * [Boosting the security of your Angular 2 application](https://www.youtube.com/watch?v=l89acmnGMSc)
 * [Writing Unit Tests in Angular 2](http://www.discoversdk.com/blog/writing-unit-tests-in-angular-2)
+* [Continuous Integration with CircleCI and angular-cli (nginx & docker)](http://blog.grossman.io/continues-integration-with-circleci-and-angular-cli-2/)
 * [Angular Testing In Depth: HTTP Services](https://auth0.com/blog/angular-testing-in-depth-http-services/)
 * [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
 * [Native Web Push Notifications with Angular 2](https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.rryifb5ae)
@@ -122,6 +125,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Angular 2 Swiper Wrapper](https://github.com/zefoy/ngx-swiper-wrapper/)
 * [ng2-pagination](https://github.com/michaelbromley/ng2-pagination)
 * [Infinite Scroll Directive for Angular 2](https://github.com/orizens/angular2-infinite-scroll)
+* [Admin panel framework based on Angular 2, Bootstrap 4 and Webpack](https://github.com/akveo/ng2-admin)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
