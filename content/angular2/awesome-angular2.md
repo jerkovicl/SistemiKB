@@ -159,6 +159,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Front-End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 * [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.7odiawy3s)
 * [Angular — Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.u4u90den0)
+* [Introduction to Angular 2 Animations](http://www.javascripttuts.com/introduction-to-angular-2-animations/)
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
 * [Create a Stylish News Feed Layout in Ionic 2](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/)
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
