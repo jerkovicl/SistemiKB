@@ -137,6 +137,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Admin panel framework based on Angular 2, Bootstrap 4 and Webpack](https://github.com/akveo/ng2-admin)
 * [27 Angular 2 Components](https://colorlib.com/wp/angular-2-components/)
 * [Angular 2+ bindings for Redux](https://github.com/angular-redux/store)
+* [Wrapper around cookies/sessionStorage/localStorage for Angular 2](https://github.com/MikaAK/angular-safeguard)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
