@@ -76,6 +76,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Optimizing App Loading Time With Angular 2 Lazy Loading](https://dzone.com/articles/optimizing-app-loading-time-with-angular-2-lazy-lo)
 * [How To Debug an Angular Application with Chrome and VS Code](https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an)
 * [Angular Debugging Tips and Tricks](https://coryrylan.com/blog/angular-debugging-tips-and-tricks)
+* [Global Error Handling with Angular2+](https://medium.com/@amcdnl/global-error-handling-with-angular2-6b992bdfb59c#.fgf6vqix5)
 * [Angular 2 authentication revisited](https://medium.com/@blacksonic86/angular-2-authentication-revisited-611bf7373bf9#.nnel9iute)
 * [Configuring app for Web API](http://asp.net-hacker.rocks/2016/09/19/aspnetcore-and-angular2-using-dotnetcli-and-vscode.html)
 * [Boosting the security of your Angular 2 application](https://www.youtube.com/watch?v=l89acmnGMSc)
