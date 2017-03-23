@@ -60,6 +60,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Send form input via an Angular 2 component to ASP.NET Core Web API](https://jonhilton.net/2017/02/01/send-form-input-via-an-angular-2-component-to-asp-net-core-web-api/)
 * [3 Ways to Pass Async Data to Angular 2+ Child Components](https://scotch.io/tutorials/3-ways-to-pass-async-data-to-angular-2-child-components)
 * [Dynamically Creating Components With Angular 2.0](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
+* [Angular 2 Transclusion using ng-content](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content#understanding-transclusion)
 * [Configurable Services in Angular 2](http://blog.rangle.io/configurable-services-in-angular-2/)
 * [Observables and Reactive Programming in Angular 2](http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/)
 * [The Powerful URL Matching Engine of Angular Router](https://vsavkin.com/the-powerful-url-matching-engine-of-angular-router-775dad593b03#.n09pgp268)
