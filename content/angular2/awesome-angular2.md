@@ -132,6 +132,8 @@ Title: Angular 2 and  .NET Core Awesome list
 ## Angular2 3rd party modules and libs
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * [Catalog of Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components)
+* [Angular Update Guide](https://angular-update-guide.firebaseapp.com/)
+* [Tool for reverse engineering of Angular applications](https://github.com/mgechev/ngrev)
 * [Useful pipes for Angular 2](https://github.com/danrevah/ngx-pipes)
 * [SweetAlert2 directive for Angular 2+](https://github.com/toverux/ngsweetalert2)
 * [ngx-datatable (f.k.a. angular2-data-table)](https://github.com/swimlane/ngx-datatable)
@@ -199,6 +201,7 @@ Title: Angular 2 and  .NET Core Awesome list
 * [A Taste from Angular Version 4](https://netbasal.com/a-taste-from-angular-version-4-50be1c4f3550#.d4wwn2cnl)
 * [Angular2 Travis CI](https://saucelabs.com/u/angular2-ci)
 * [Angular Weekly Meeting Notes](http://g.co/ng/weekly-notes)
+* [Angular Universal Roadmap](https://github.com/angular/universal#roadmap)
 * [Client-side debugging of ASP.NET projects in Google Chrome for VS2017](https://blogs.msdn.microsoft.com/webdev/2016/11/21/client-side-debugging-of-asp-net-projects-in-google-chrome/)
 * [NativeScript for Visual Studio Code](https://www.nativescript.org/nativescript-for-visual-studio-code)
 * [Debugging NativeScript Apps With Visual Studio Code](https://www.youtube.com/watch?v=1e4eFkPxQSw)
