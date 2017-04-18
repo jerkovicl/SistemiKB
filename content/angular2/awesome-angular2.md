@@ -184,6 +184,7 @@ Title: Angular and  .NET Core Awesome list
 * [The beginner’s guide to usability testing](http://uxmastery.com/beginners-guide-to-usability-testing/)
 * [Design for internationalization](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f#.mvpr6ly6o)
 * [A Guide to App Store Images](http://developer.telerik.com/topics/mobile-development/your-guide-to-app-store-images/)
+* [Material Color Tool by Google](https://material.io/color/#!/?view.left=0&view.right=1&primary.color=4bff3b)
 
 ## Design sprint
 * [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
