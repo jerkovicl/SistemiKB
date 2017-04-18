@@ -7,7 +7,7 @@ Title: Angular and  .NET Core Awesome list
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 ##### Current Angular CLI version:
-[![NPM](https://nodei.co/npm/angular-cli.png?compact=true)](https://npmjs.org/package/angular-cli)
+[![NPM](https://nodei.co/npm/@angular/cli.png?compact=true)](https://npmjs.org/package/@angular/cli)
 
 ##### Current Webpack version:
 [![NPM](https://nodei.co/npm/webpack.png?compact=true)](https://npmjs.org/package/webpack)
