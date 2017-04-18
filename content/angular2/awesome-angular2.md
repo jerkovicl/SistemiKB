@@ -1,18 +1,18 @@
 /*
-Title: Angular 2 and  .NET Core Awesome list
+Title: Angular and  .NET Core Awesome list
 */
 
 * __Requirements: Update Git and Node to latest versions.__ 
 
-##### Current Angular 2 version:
+##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
-##### Current Angular 2 CLI version:
+##### Current Angular CLI version:
 [![NPM](https://nodei.co/npm/angular-cli.png?compact=true)](https://npmjs.org/package/angular-cli)
 
 ##### Current Webpack version:
 [![NPM](https://nodei.co/npm/webpack.png?compact=true)](https://npmjs.org/package/webpack)
 
-##### Current Browser support for Angular 2:
+##### Current Browser support for Angular:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
 * [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://github.com/aspnet/JavaScriptServices#readme)
@@ -154,6 +154,9 @@ Title: Angular 2 and  .NET Core Awesome list
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
 * [Performance monitor plugin](https://github.com/EddyVerbruggen/nativescript-performance-monitor)
 * [Slack/WhatsApp - style chat keyboard](https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard)
+
+## Ionic libs and plugins
+* [Ionic Starter kits](http://www.ionickits.com/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
