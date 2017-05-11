@@ -145,6 +145,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular 2 Swiper Wrapper](https://github.com/zefoy/ngx-swiper-wrapper/)
 * [ng2-pagination](https://github.com/michaelbromley/ng2-pagination)
 * [Infinite Scroll Directive for Angular 2](https://github.com/orizens/angular2-infinite-scroll)
+* [Typeahead component for Angular](https://github.com/orizens/ngx-typeahead)
 * [Admin panel framework based on Angular 2, Bootstrap 4 and Webpack](https://github.com/akveo/ng2-admin)
 * [27 Angular 2 Components](https://colorlib.com/wp/angular-2-components/)
 * [Angular 2+ bindings for Redux](https://github.com/angular-redux/store)
