@@ -195,7 +195,7 @@ Title: Angular and  .NET Core Awesome list
 * [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
 
 ## Misc
-* [WebPack + Angular 2 Bin Playground](http://www.webpackbin.com/VkGioSowz)
+* [WebPack + Angular 2 Bin Playground](https://www.webpackbin.com/bins/-Kf7FL3lvenQu4JKrVM9)
 * [.NETFiddle](https://dotnetfiddle.net/)
 * [ASP.NET Free Courses](https://www.asp.net/freecourses)
 * [ASP.NET Documentation](docs.microsoft.com)
