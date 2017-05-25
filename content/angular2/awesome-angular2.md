@@ -201,6 +201,7 @@ Title: Angular and  .NET Core Awesome list
 * [ASP.NET Documentation](docs.microsoft.com)
 * [VS2017 Poster Online Version](https://vs2017poster.azurewebsites.net/)
 * [.NET Core Release Notes](https://github.com/dotnet/core/tree/master/release-notes)
+* [.NET Core Download archives](https://github.com/dotnet/core/tree/master/release-notes/download-archives)
 * [dotnet Announcements](https://github.com/dotnet/Announcements/labels/Announcement)
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
