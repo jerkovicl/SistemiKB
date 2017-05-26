@@ -154,6 +154,7 @@ Title: Angular and  .NET Core Awesome list
 * [27 Angular 2 Components](https://colorlib.com/wp/angular-2-components/)
 * [Angular 2+ bindings for Redux](https://github.com/angular-redux/store)
 * [Wrapper around cookies/sessionStorage/localStorage for Angular 2](https://github.com/MikaAK/angular-safeguard)
+* [Angular 2+ File Uploader](https://github.com/jkuri/ngx-uploader)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -238,3 +239,4 @@ Title: Angular and  .NET Core Awesome list
 * [Use ASP.NET Core 1.1 with .NET 4.6 (without Visual Studio)](https://jonhilton.net/2017/03/14/use-asp-net-core-1-1-with-net-4-without-visual-studio/)
 * [How to Store User Passwords and Overcome Security Threats in 2017](http://blog.rangle.io/how-to-store-user-passwords-and-overcome-security-threats-in-2017/)
 * [How to make an offline installer for VS2017](http://www.hanselman.com/blog/HowToMakeAnOfflineInstallerForVS2017.aspx)
+* [15 Website Speed Test Tools for Analyzing Web Performance](https://www.keycdn.com/blog/website-speed-test-tools/)
