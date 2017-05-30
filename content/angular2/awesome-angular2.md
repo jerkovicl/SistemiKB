@@ -155,6 +155,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular 2+ bindings for Redux](https://github.com/angular-redux/store)
 * [Wrapper around cookies/sessionStorage/localStorage for Angular 2](https://github.com/MikaAK/angular-safeguard)
 * [Angular 2+ File Uploader](https://github.com/jkuri/ngx-uploader)
+* [Style and Component Library for Angular2 and beyond!](https://github.com/swimlane/ngx-ui)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
