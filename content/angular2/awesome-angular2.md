@@ -132,8 +132,10 @@ Title: Angular and  .NET Core Awesome list
 
 * Microsoft.EntityFramework.Core.Tools - needed for migrations etc...
 * Microsoft.EntityFramework.Core.SqlServer - needed to connect to SQL Server using connection string
+* [Enable Entity Framework Core Migrations in Visual Studio 2017](http://benjii.me/2017/05/enable-entity-framework-core-migrations-visual-studio-2017/)
+* [Dotnet EF Migrations for ASP.NET Core](http://benjii.me/2016/05/dotnet-ef-migrations-for-asp-net-core/)
 
-## Angular2 3rd party modules and libs
+## Angular2+ 3rd party modules and libs
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * [Catalog of Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components)
 * [Angular Update Guide](https://angular-update-guide.firebaseapp.com/)
@@ -156,6 +158,8 @@ Title: Angular and  .NET Core Awesome list
 * [Wrapper around cookies/sessionStorage/localStorage for Angular 2](https://github.com/MikaAK/angular-safeguard)
 * [Angular 2+ File Uploader](https://github.com/jkuri/ngx-uploader)
 * [Style and Component Library for Angular2 and beyond!](https://github.com/swimlane/ngx-ui)
+* [Angular Image Gallery](https://murhafsousli.github.io/ng-gallery/)
+* [Angular Expo - showcase of websites and demos](http://angularexpo.com/)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -204,6 +208,7 @@ Title: Angular and  .NET Core Awesome list
 * [VS2017 Poster Online Version](https://vs2017poster.azurewebsites.net/)
 * [.NET Core Release Notes](https://github.com/dotnet/core/tree/master/release-notes)
 * [.NET Core Download archives](https://github.com/dotnet/core/tree/master/release-notes/download-archives)
+* [.NET Command Line Tools](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet)
 * [dotnet Announcements](https://github.com/dotnet/Announcements/labels/Announcement)
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
