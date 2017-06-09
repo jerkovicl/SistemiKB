@@ -168,6 +168,7 @@ Title: Angular and  .NET Core Awesome list
 * [angular-notifier](https://github.com/dominique-mueller/angular-notifier)
 * [Angular 2+ Notification Center](https://github.com/artemsky/ng-snotify)
 * [Tag Input component for Angular](https://github.com/Gbuomprisco/ng2-tag-input)
+* [Lazy image loader for Angular 2+](https://github.com/tjoskar/ng-lazyload-image)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
