@@ -170,6 +170,8 @@ Title: Angular and  .NET Core Awesome list
 * [Tag Input component for Angular](https://github.com/Gbuomprisco/ng2-tag-input)
 * [Lazy image loader for Angular 2+](https://github.com/tjoskar/ng-lazyload-image)
 * [Angular Linky](https://github.com/dzonatan/angular-linky)
+* [Observable-based virtual scroll implementation in Angular](https://github.com/dinony/od-virtualscroll)
+* [Angular2 virtual scroll](https://github.com/rintoj/angular2-virtual-scroll)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -247,6 +249,7 @@ Title: Angular and  .NET Core Awesome list
 * [ECMAScript6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
 * [ALM : A cloud ready IDE for TypeScript](http://alm.tools/)
 * [List of public JSON APIs for use in web dev](https://github.com/toddmotto/public-apis)
+* [A Collective List Of APIs](http://apilist.fun/?ref=producthunt)
 * [Web Push Book](https://web-push-book.gauntface.com/)
 * [Spell Checker for VS 2017](https://channel9.msdn.com/coding4fun/blog/Speell-Checker-for-VS-2017)
 * [.Net Core, Roslyn and Code Generation](https://carlos.mendible.com/2017/01/29/net-core-roslyn-and-code-generation/)
