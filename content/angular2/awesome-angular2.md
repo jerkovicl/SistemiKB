@@ -172,6 +172,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular Linky](https://github.com/dzonatan/angular-linky)
 * [Observable-based virtual scroll implementation in Angular](https://github.com/dinony/od-virtualscroll)
 * [Angular2 virtual scroll](https://github.com/rintoj/angular2-virtual-scroll)
+* [JavaScript powered FORMS for ANGULAR 2.x and above ](https://github.com/formly-js/ng-formly)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -215,6 +216,7 @@ Title: Angular and  .NET Core Awesome list
 ## Misc
 * [WebPack + Angular 2 Bin Playground](https://www.webpackbin.com/bins/-Kf7FL3lvenQu4JKrVM9)
 * [.NETFiddle](https://dotnetfiddle.net/)
+* [VersionEye - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories](https://www.versioneye.com/)
 * [ASP.NET Free Courses](https://www.asp.net/freecourses)
 * [ASP.NET Documentation](docs.microsoft.com)
 * [VS2017 Poster Online Version](https://vs2017poster.azurewebsites.net/)
