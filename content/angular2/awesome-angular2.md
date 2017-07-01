@@ -6,11 +6,18 @@ Title: Angular and  .NET Core Awesome list
 
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
+
 ##### Current Angular CLI version:
-[![NPM](https://nodei.co/npm/@angular/cli.png?compact=true)](https://npmjs.org/package/@angular/cli)
+[![npm version](https://badge.fury.io/js/%40angular%2Fcli.svg)](https://badge.fury.io/js/%40angular%2Fcli)
 
 ##### Current Webpack version:
 [![NPM](https://nodei.co/npm/webpack.png?compact=true)](https://npmjs.org/package/webpack)
+
+##### Current Typescript version:
+[![NPM](https://nodei.co/npm/typescript.png?compact=true)](https://npmjs.org/package/typescript)
+
+##### Current RxJS version:
+[![NPM](https://nodei.co/npm/rxjs.png?compact=true)](https://npmjs.org/package/rxjs)
 
 ##### Current Browser support for Angular:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
