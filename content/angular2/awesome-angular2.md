@@ -187,9 +187,17 @@ Title: Angular and  .NET Core Awesome list
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
 * [Performance monitor plugin](https://github.com/EddyVerbruggen/nativescript-performance-monitor)
 * [Slack/WhatsApp - style chat keyboard](https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard)
+* [A NativeScript-built iOS and Android app for managing grocery lists](https://github.com/NativeScript/sample-Groceries)
+* [NativeScript and Angular 2 code samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
 
 ## Ionic libs and plugins
 * [Ionic Starter kits](http://www.ionickits.com/)
+* [Property Cross is an opensource project that helps developers select a cross platform mobile framework](http://propertycross.com)
+* [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
+
+## PWA stuff
+
+[Hacker News readers as Progressive Web Apps](https://hnpwa.com)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
