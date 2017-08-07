@@ -198,6 +198,7 @@ Title: Angular and  .NET Core Awesome list
 ## PWA stuff
 
 [Hacker News readers as Progressive Web Apps](https://hnpwa.com)
+[Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
