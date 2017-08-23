@@ -70,6 +70,7 @@ Title: Angular and  .NET Core Awesome list
 * [Configurable Reactive Forms in Angular with dynamic components](https://toddmotto.com/angular-dynamic-components-forms)
 * [Angular 2: How to use data input controls with Angular Forms](http://blog.johanneshoppe.de/2016/10/angular-2-how-to-use-date-input-controls-with-angular-forms/)
 * [Send form input via an Angular 2 component to ASP.NET Core Web API](https://jonhilton.net/2017/02/01/send-form-input-via-an-angular-2-component-to-asp-net-core-web-api/)
+* [Updating Angular 2 Forms with patchValue or setValue](https://toddmotto.com/angular-2-form-controls-patch-value-set-value)
 * [3 Ways to Pass Async Data to Angular 2+ Child Components](https://scotch.io/tutorials/3-ways-to-pass-async-data-to-angular-2-child-components)
 * [Dynamically Creating Components With Angular 2.0](http://blog.rangle.io/dynamically-creating-components-with-angular-2/)
 * [Angular 2 Transclusion using ng-content](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content#understanding-transclusion)
@@ -130,10 +131,9 @@ Title: Angular and  .NET Core Awesome list
 * [ASP.NET Core Error Management with elmah.io](https://damienbod.com/2017/03/16/asp-net-core-error-management-with-elmah-io/)
 * [Powerful .NET library for benchmarking ](https://github.com/dotnet/BenchmarkDotNet)
 * [Building microservices with ASP.NET Core (without MVC)](http://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
+* [Create a CI/CD pipeline for containerized ASP.NET Core projects](https://blogs.msdn.microsoft.com/visualstudio/2017/08/22/create-a-cicd-pipeline-for-containerized-asp-net-core-projects/)
 * [Using the ASP.NET Core Script TagHelper to Polyfill The Latest JavaScript Features](https://scottsauber.com/2017/01/30/using-the-asp-net-core-script-taghelper-to-polyfill-the-latest-javascript-features/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
-* [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
-* [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
 
@@ -174,7 +174,7 @@ Title: Angular and  .NET Core Awesome list
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr)
 * [angular-notifier](https://github.com/dominique-mueller/angular-notifier)
 * [Angular 2+ Notification Center](https://github.com/artemsky/ng-snotify)
-* [Tag Input component for Angular](https://github.com/Gbuomprisco/ng2-tag-input)
+* [Tag Input component for Angular](https://github.com/Gbuomprisco/ngx-chips)
 * [Lazy image loader for Angular 2+](https://github.com/tjoskar/ng-lazyload-image)
 * [Angular Linky](https://github.com/dzonatan/angular-linky)
 * [Observable-based virtual scroll implementation in Angular](https://github.com/dinony/od-virtualscroll)
@@ -189,16 +189,21 @@ Title: Angular and  .NET Core Awesome list
 * [Slack/WhatsApp - style chat keyboard](https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard)
 * [A NativeScript-built iOS and Android app for managing grocery lists](https://github.com/NativeScript/sample-Groceries)
 * [NativeScript and Angular 2 code samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
+* [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
 
 ## Ionic libs and plugins
 * [Ionic Starter kits](http://www.ionickits.com/)
 * [Property Cross is an opensource project that helps developers select a cross platform mobile framework](http://propertycross.com)
 * [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
+* [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
+
 
 ## PWA stuff
 
-[Hacker News readers as Progressive Web Apps](https://hnpwa.com)
-[Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
+* [Hacker News readers as Progressive Web Apps](https://hnpwa.com)
+* [Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
+* [What Progressive Web Apps can do for you - Ionic](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/)
+* [Built with Ionic: million eyez mobile and progressive web app](http://blog.ionic.io/built-with-ionic-million-eyez-mobile-and-progressive-web-app/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -219,6 +224,7 @@ Title: Angular and  .NET Core Awesome list
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
 * [Create a Stylish News Feed Layout in Ionic 2](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/)
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
+* [Web components - Introduction](https://www.webcomponents.org/introduction)
 
 ## UI / UX
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
