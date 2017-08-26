@@ -243,6 +243,7 @@ Title: Angular and  .NET Core Awesome list
 * [WebPack + Angular 2 Bin Playground](https://www.webpackbin.com/bins/-Kf7FL3lvenQu4JKrVM9)
 * [.NETFiddle](https://dotnetfiddle.net/)
 * [VersionEye - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories](https://www.versioneye.com/)
+* [VsCode Snippet Generator](https://pawelgrzybek.com/snippet-generator/)
 * [ASP.NET Free Courses](https://www.asp.net/freecourses)
 * [ASP.NET Documentation](docs.microsoft.com)
 * [VS2017 Poster Online Version](https://vs2017poster.azurewebsites.net/)
