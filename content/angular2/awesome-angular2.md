@@ -204,6 +204,7 @@ Title: Angular and  .NET Core Awesome list
 * [Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
 * [What Progressive Web Apps can do for you - Ionic](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/)
 * [Built with Ionic: million eyez mobile and progressive web app](http://blog.ionic.io/built-with-ionic-million-eyez-mobile-and-progressive-web-app/)
+* [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
