@@ -205,6 +205,7 @@ Title: Angular and  .NET Core Awesome list
 * [What Progressive Web Apps can do for you - Ionic](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/)
 * [Built with Ionic: million eyez mobile and progressive web app](http://blog.ionic.io/built-with-ionic-million-eyez-mobile-and-progressive-web-app/)
 * [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
+* [Creating Progressive Web Apps Using Angular](http://moduscreate.com/creating-progressive-web-apps-using-angular/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
