@@ -168,6 +168,7 @@ Title: Angular and  .NET Core Awesome list
 * [Style and Component Library for Angular2 and beyond!](https://github.com/swimlane/ngx-ui)
 * [Angular Image Gallery](https://murhafsousli.github.io/ng-gallery/)
 * [Angular Expo - showcase of websites and demos](http://angularexpo.com/)
+* [Key Angular Concepts using Latest Angular 4](https://github.com/rahulrsingh09/AngularConcepts)
 * [Angular 2+ Ladda module](https://github.com/moff/angular2-ladda)
 * [ng2-toastr](https://github.com/PointInside/ng2-toastr)
 * [ng2-toasty](https://github.com/akserg/ng2-toasty)
@@ -182,6 +183,8 @@ Title: Angular and  .NET Core Awesome list
 * [JavaScript powered FORMS for ANGULAR 2.x and above ](https://github.com/formly-js/ng-formly)
 * [An Angular port of the Shopify Polaris design system](https://github.com/syrp-nz/angular-polaris)
 * [Angular >=2 component for rich text editor Quill](https://github.com/KillerCodeMonkey/ngx-quill)
+* [Angular 4+ http interceptor](https://github.com/mpalourdio/ng-http-loader)
+* [Angular 4 loading spinner](https://github.com/Zak-C/ngx-loading)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
