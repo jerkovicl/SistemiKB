@@ -124,6 +124,7 @@ Title: Angular and  .NET Core Awesome list
 * [Response Caching in ASP.Net Core 1.1](http://www.talkingdotnet.com/response-caching-in-asp-net-core-1-1/)
 * [How to enable gZip compression in ASP.NET Core 1.1](http://www.talkingdotnet.com/how-to-enable-gzip-compression-in-asp-net-core/)
 * [Extending ASP.NET Core response compression with support for Brotli](http://tpeczek.blogspot.hr/2017/03/extending-aspnet-core-response.html)
+* [Using bearer tokens in ASP.NET Core](http://gunnarpeipman.com/2017/08/aspnet-core-bearer-token/)
 * [How to upload a file (image) from angular2 to asp.net core](https://devblog.dymel.pl/2016/09/02/upload-file-image-angular2-aspnetcore/)
 * [Add Swagger to ASP.NET Core Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-web-api/)
 * [Logging in ASP.NET Core](https://stackify.com/asp-net-core-logging-what-changed/)
@@ -185,6 +186,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular >=2 component for rich text editor Quill](https://github.com/KillerCodeMonkey/ngx-quill)
 * [Angular 4+ http interceptor](https://github.com/mpalourdio/ng-http-loader)
 * [Angular 4 loading spinner](https://github.com/Zak-C/ngx-loading)
+* [Angular 2+ Google Maps Components](https://github.com/SebastianM/angular-google-maps)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -199,6 +201,7 @@ Title: Angular and  .NET Core Awesome list
 * [Property Cross is an opensource project that helps developers select a cross platform mobile framework](http://propertycross.com)
 * [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
+* [An Angular and Ionic component for Google Places Autocomplete](https://www.petrelli.biz/2017/06/05/an-angular-and-ionic-component-for-google-place-autocomplete/)
 
 
 ## PWA stuff
