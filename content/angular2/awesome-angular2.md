@@ -134,6 +134,7 @@ Title: Angular and  .NET Core Awesome list
 * [Building microservices with ASP.NET Core (without MVC)](http://www.strathweb.com/2017/01/building-microservices-with-asp-net-core-without-mvc/)
 * [Create a CI/CD pipeline for containerized ASP.NET Core projects](https://blogs.msdn.microsoft.com/visualstudio/2017/08/22/create-a-cicd-pipeline-for-containerized-asp-net-core-projects/)
 * [Using the ASP.NET Core Script TagHelper to Polyfill The Latest JavaScript Features](https://scottsauber.com/2017/01/30/using-the-asp-net-core-script-taghelper-to-polyfill-the-latest-javascript-features/)
+* [Testing an ASP.NET Core application using TestServer](https://www.meziantou.net/2017/08/21/testing-an-asp-net-core-application-using-testserver)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
