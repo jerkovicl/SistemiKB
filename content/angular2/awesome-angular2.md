@@ -138,9 +138,12 @@ Title: Angular and  .NET Core Awesome list
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
 ## ASP.NET Core 2.0
+* [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
+* [Upgrading to .NET Core and .NET Standard](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
 * [ASP.NET Core Photo Gallery](https://github.com/madskristensen/PhotoGallery)
 * [ASP.NET Core Web Optimizer - A bundler and minifier for ASP.NET Core](https://github.com/ligershark/WebOptimizer)
 * [Azure Image Optimizer - An Azure App Services WebJob that compresses all images being uploaded or deployed to your website](https://github.com/madskristensen/ImageOptimizerWebJob)
+
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
 
