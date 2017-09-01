@@ -308,4 +308,4 @@ Title: Angular and  .NET Core Awesome list
 * [The Best Chrome Extensions for Developers: 40+ Tools for Programmers](https://stackify.com/chrome-extensions-for-developers/)
 * [Top Load Testing Tools: 50 Useful Tools for Load Testing Websites, Apps, and More](https://stackify.com/top-load-testing-tools/)
 * [Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs](https://stackify.com/top-devops-tools/)
-* [Awesome Uncopyrigh - A curated list of works in the public domain.](https://github.com/johnjago/awesome-uncopyright)
+* [Awesome Uncopyright - A curated list of works in the public domain.](https://github.com/johnjago/awesome-uncopyright)
