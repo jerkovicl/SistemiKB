@@ -137,6 +137,11 @@ Title: Angular and  .NET Core Awesome list
 * [Testing an ASP.NET Core application using TestServer](https://www.meziantou.net/2017/08/21/testing-an-asp-net-core-application-using-testserver)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
+## ASP.NET Core 2.0
+* [ASP.NET Core Photo Gallery](https://github.com/madskristensen/PhotoGallery)
+* [ASP.NET Core Web Optimizer - A bundler and minifier for ASP.NET Core](https://github.com/ligershark/WebOptimizer)
+* [Azure Image Optimizer - An Azure App Services WebJob that compresses all images being uploaded or deployed to your website](https://github.com/madskristensen/ImageOptimizerWebJob)
+
 ## EF Core Nuget packages to install for SQL and IdentityServer4
 
 * Microsoft.EntityFramework.Core.Tools - needed for migrations etc...
