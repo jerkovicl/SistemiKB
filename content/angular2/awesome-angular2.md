@@ -196,6 +196,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular 4+ http interceptor](https://github.com/mpalourdio/ng-http-loader)
 * [Angular 4 loading spinner](https://github.com/Zak-C/ngx-loading)
 * [Angular 2+ Google Maps Components](https://github.com/SebastianM/angular-google-maps)
+* [Google Analytics Tag Helper Component](https://codingblast.com/tag-helper-component-google-analytics/)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
