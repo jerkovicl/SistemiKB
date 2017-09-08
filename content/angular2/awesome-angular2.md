@@ -243,6 +243,7 @@ Title: Angular and  .NET Core Awesome list
 * [Create a Stylish News Feed Layout in Ionic 2](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/)
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
 * [Web components - Introduction](https://www.webcomponents.org/introduction)
+* [From Angular zero to React hero in 3 days](https://medium.com/@danielsternlicht/from-angular-zero-to-react-hero-in-3-days-436ceaf0caeb)
 
 ## UI / UX
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
