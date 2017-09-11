@@ -87,6 +87,7 @@ Title: Angular and  .NET Core Awesome list
 * [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-3-99fe2e0a7082#.j9ohizf62)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0#.geye2zx8g)
 * [How to Track Analytics with Redux and Google Tag Manager](http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/)
+* [Angular 2 & Google Analytics with Event tracking](https://blog.thecodecampus.de/angular-2-include-google-analytics-event-tracking/)
 * [Optimizing App Loading Time With Angular 2 Lazy Loading](https://dzone.com/articles/optimizing-app-loading-time-with-angular-2-lazy-lo)
 * [How To Debug an Angular Application with Chrome and VS Code](https://dzone.com/articles/how-to-debug-an-angular-application-with-chrome-an)
 * [Angular Debugging Tips and Tricks](https://coryrylan.com/blog/angular-debugging-tips-and-tricks)
@@ -140,9 +141,12 @@ Title: Angular and  .NET Core Awesome list
 ## ASP.NET Core 2.0
 * [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
 * [Upgrading to .NET Core and .NET Standard](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
+* [Scaffolding DbContext and Models with EntityFramework Core 2.0 and the CLI](https://cmatskas.com/scaffolding-dbcontext-and-models-with-entityframework-core-2-0-and-the-cli/)
 * [ASP.NET Core Photo Gallery](https://github.com/madskristensen/PhotoGallery)
 * [ASP.NET Core Web Optimizer - A bundler and minifier for ASP.NET Core](https://github.com/ligershark/WebOptimizer)
 * [Azure Image Optimizer - An Azure App Services WebJob that compresses all images being uploaded or deployed to your website](https://github.com/madskristensen/ImageOptimizerWebJob)
+* [Country Tag Helper for ASP.NET Core](https://github.com/ignatandrei/CountryTagHelper)
+* [Google Analytics Tag Helper Component](https://codingblast.com/tag-helper-component-google-analytics/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -196,7 +200,8 @@ Title: Angular and  .NET Core Awesome list
 * [Angular 4+ http interceptor](https://github.com/mpalourdio/ng-http-loader)
 * [Angular 4 loading spinner](https://github.com/Zak-C/ngx-loading)
 * [Angular 2+ Google Maps Components](https://github.com/SebastianM/angular-google-maps)
-* [Google Analytics Tag Helper Component](https://codingblast.com/tag-helper-component-google-analytics/)
+* [Vendor-agnostic analytics for Angular2+ applications](https://github.com/angulartics/angulartics2)
+
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -239,6 +244,7 @@ Title: Angular and  .NET Core Awesome list
 * [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.7odiawy3s)
 * [Angular — Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.u4u90den0)
 * [Introduction to Angular 2 Animations](http://www.javascripttuts.com/introduction-to-angular-2-animations/)
+* [A New Wave of Animation Features in Angular](https://www.yearofmoo.com/2017/06/new-wave-of-animation-features.html)
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
 * [Create a Stylish News Feed Layout in Ionic 2](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/)
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
@@ -317,3 +323,4 @@ Title: Angular and  .NET Core Awesome list
 * [Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs](https://stackify.com/top-devops-tools/)
 * [Awesome Uncopyright - A curated list of works in the public domain.](https://github.com/johnjago/awesome-uncopyright)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+* [Solving complex whitespace management challenges](https://medium.com/@Jakeherringbone/solving-complex-whitespace-management-challenges-27f1f6139699)
