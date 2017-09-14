@@ -244,6 +244,7 @@ Title: Angular and  .NET Core Awesome list
 * [How We Load Web Fonts Progressively](https://www.filamentgroup.com/lab/font-events.html)
 * [Font load events, simple, small and efficient](https://github.com/bramstein/fontfaceobserver)
 * [Frontend libraries and scripts](https://github.com/simejerkovic/frontend-stuff)
+* [Free Bootstrap 4 Themes & Components](https://wireddots.com/)
 * [Front-End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 * [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.7odiawy3s)
 * [Angular — Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.u4u90den0)
@@ -254,6 +255,7 @@ Title: Angular and  .NET Core Awesome list
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
 * [Web components - Introduction](https://www.webcomponents.org/introduction)
 * [From Angular zero to React hero in 3 days](https://medium.com/@danielsternlicht/from-angular-zero-to-react-hero-in-3-days-436ceaf0caeb)
+* [Simple React Snippets For Visual Studio Code](https://medium.com/burke-knows-words/simple-react-snippets-22eddd65f835)
 
 ## UI / UX
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
@@ -327,4 +329,5 @@ Title: Angular and  .NET Core Awesome list
 * [Top DevOps Tools: 50 Reliable, Secure, and Proven Tools for All Your DevOps Needs](https://stackify.com/top-devops-tools/)
 * [Awesome Uncopyright - A curated list of works in the public domain.](https://github.com/johnjago/awesome-uncopyright)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+* [5 Small Steps to a Better Web API](https://hackernoon.com/5-small-steps-to-a-better-web-api-6fa9698178a6)
 * [Solving complex whitespace management challenges](https://medium.com/@Jakeherringbone/solving-complex-whitespace-management-challenges-27f1f6139699)
