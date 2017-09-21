@@ -149,6 +149,7 @@ Title: Angular and  .NET Core Awesome list
 * [Azure Image Optimizer - An Azure App Services WebJob that compresses all images being uploaded or deployed to your website](https://github.com/madskristensen/ImageOptimizerWebJob)
 * [Country Tag Helper for ASP.NET Core](https://github.com/ignatandrei/CountryTagHelper)
 * [Google Analytics Tag Helper Component](https://codingblast.com/tag-helper-component-google-analytics/)
+* [ASP.NET Core 2.0 Demystified - Razor Pages](https://exceptionnotfound.net/asp-net-core-demystified-razor-pages/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
