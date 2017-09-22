@@ -206,7 +206,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular 4 loading spinner](https://github.com/Zak-C/ngx-loading)
 * [Angular 2+ Google Maps Components](https://github.com/SebastianM/angular-google-maps)
 * [Vendor-agnostic analytics for Angular2+ applications](https://github.com/angulartics/angulartics2)
-
+* [Nebular - full-featured framework based on Angular](https://github.com/akveo/nebular)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
