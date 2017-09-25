@@ -84,6 +84,9 @@ Title: Angular and  .NET Core Awesome list
 * [Posting Additional Parameters During Authentication With Auth0 In Angular 2.4.1](https://www.bennadel.com/blog/3210-posting-additional-parameters-during-authentication-with-auth0-in-angular-2-4-1.htm)
 * [AntiforgerySample](https://github.com/aspnet/Antiforgery/tree/dev/samples/AntiforgerySample)
 * [Improving the State of your App with Redux](http://developer.telerik.com/topics/web-development/improving-state-app-redux/)
+* [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
+* [NgRx: Patterns and Techniques](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
+* [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Angular 2 + ngrx examples](https://github.com/btroncone/ngrx-examples)
 * [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-3-99fe2e0a7082#.j9ohizf62)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0#.geye2zx8g)
@@ -127,6 +130,8 @@ Title: Angular and  .NET Core Awesome list
 * [How to enable gZip compression in ASP.NET Core 1.1](http://www.talkingdotnet.com/how-to-enable-gzip-compression-in-asp-net-core/)
 * [Extending ASP.NET Core response compression with support for Brotli](http://tpeczek.blogspot.hr/2017/03/extending-aspnet-core-response.html)
 * [Using bearer tokens in ASP.NET Core](http://gunnarpeipman.com/2017/08/aspnet-core-bearer-token/)
+* [ASP.NET Core Web API Attributes](http://www.dotnetcurry.com/aspnet/1390/aspnet-core-web-api-attributes)
+* [Serialize all errors as JSON in ASP.NET Core](https://www.recaffeinate.co/post/serialize-errors-as-json-in-aspnetcore/)
 * [How to upload a file (image) from angular2 to asp.net core](https://devblog.dymel.pl/2016/09/02/upload-file-image-angular2-aspnetcore/)
 * [SignalR Group messages with ngrx and Angular](https://damienbod.com/2017/09/18/signalr-group-messages-with-ngrx-and-angular/)
 * [Add Swagger to ASP.NET Core Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-web-api/)
@@ -144,6 +149,7 @@ Title: Angular and  .NET Core Awesome list
 * [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
 * [Upgrading to .NET Core and .NET Standard](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
 * [Scaffolding DbContext and Models with EntityFramework Core 2.0 and the CLI](https://cmatskas.com/scaffolding-dbcontext-and-models-with-entityframework-core-2-0-and-the-cli/)
+* [Entity Framework Core Generic Repository](https://codingblast.com/entity-framework-core-generic-repository/)
 * [ASP.NET Core Photo Gallery](https://github.com/madskristensen/PhotoGallery)
 * [ASP.NET Core Web Optimizer - A bundler and minifier for ASP.NET Core](https://github.com/ligershark/WebOptimizer)
 * [Azure Image Optimizer - An Azure App Services WebJob that compresses all images being uploaded or deployed to your website](https://github.com/madskristensen/ImageOptimizerWebJob)
@@ -207,6 +213,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular 2+ Google Maps Components](https://github.com/SebastianM/angular-google-maps)
 * [Vendor-agnostic analytics for Angular2+ applications](https://github.com/angulartics/angulartics2)
 * [Nebular - full-featured framework based on Angular](https://github.com/akveo/nebular)
+* [ngx-cache - Caching utility](https://github.com/fulls1z3/ngx-cache)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -218,6 +225,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Ionic libs and plugins
 * [Ionic Starter kits](http://www.ionickits.com/)
+* [Ionic App Showcase](http://showcase.ionicframework.com/apps/newest)
 * [Property Cross is an opensource project that helps developers select a cross platform mobile framework](http://propertycross.com)
 * [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
@@ -227,6 +235,7 @@ Title: Angular and  .NET Core Awesome list
 ## PWA stuff
 
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com)
+* [Hacker News Progressive Web Apps](https://blog.hnpwa.com/hacker-news-progressive-web-apps-2d8cbf7bc077)
 * [Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
 * [What Progressive Web Apps can do for you - Ionic](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/)
 * [Built with Ionic: million eyez mobile and progressive web app](http://blog.ionic.io/built-with-ionic-million-eyez-mobile-and-progressive-web-app/)
@@ -236,6 +245,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erf527l27)
 * [The State of HTML Mobile Frameworks](https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/)
 * [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
@@ -256,6 +266,7 @@ Title: Angular and  .NET Core Awesome list
 * [Create a Stylish News Feed Layout in Ionic 2](http://www.joshmorony.com/create-a-stylish-news-feed-layout-in-ionic-2/)
 * [Building Mobile Apps with Angular 2 and NativeScript](http://angularjs.blogspot.hr/2015/12/building-mobile-apps-with-angular-2-and.html)
 * [Web components - Introduction](https://www.webcomponents.org/introduction)
+* [Stencil - A simple compiler for fast, reactive Web Components](https://ionic-team.github.io/stencil-present/)
 * [From Angular zero to React hero in 3 days](https://medium.com/@danielsternlicht/from-angular-zero-to-react-hero-in-3-days-436ceaf0caeb)
 * [Simple React Snippets For Visual Studio Code](https://medium.com/burke-knows-words/simple-react-snippets-22eddd65f835)
 
