@@ -214,6 +214,7 @@ Title: Angular and  .NET Core Awesome list
 * [Vendor-agnostic analytics for Angular2+ applications](https://github.com/angulartics/angulartics2)
 * [Nebular - full-featured framework based on Angular](https://github.com/akveo/nebular)
 * [ngx-cache - Caching utility](https://github.com/fulls1z3/ngx-cache)
+* [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-2-router-events-ba1dc882d09a)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -269,6 +270,7 @@ Title: Angular and  .NET Core Awesome list
 * [Stencil - A simple compiler for fast, reactive Web Components](https://ionic-team.github.io/stencil-present/)
 * [From Angular zero to React hero in 3 days](https://medium.com/@danielsternlicht/from-angular-zero-to-react-hero-in-3-days-436ceaf0caeb)
 * [Simple React Snippets For Visual Studio Code](https://medium.com/burke-knows-words/simple-react-snippets-22eddd65f835)
+* [A Minimalistic Wrapper for IndexedDB](https://github.com/dfahlander/Dexie.js)
 
 ## UI / UX
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
@@ -332,6 +334,7 @@ Title: Angular and  .NET Core Awesome list
 * [Spell Checker for VS 2017](https://channel9.msdn.com/coding4fun/blog/Speell-Checker-for-VS-2017)
 * [.Net Core, Roslyn and Code Generation](https://carlos.mendible.com/2017/01/29/net-core-roslyn-and-code-generation/)
 * [.NET Code Style Settings For Editorconfig](https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference)
+* [.NET Core, Code Analysis and StyleCop](https://carlos.mendible.com/2017/08/24/net-core-code-analysis-and-stylecop/)
 * [Understanding and updating package versions for .NET Core 1.0.3](http://andrewlock.net/understanding-and-updating-package-versions-for-net-core-1-0-3/)
 * [Use ASP.NET Core 1.1 with .NET 4.6 (without Visual Studio)](https://jonhilton.net/2017/03/14/use-asp-net-core-1-1-with-net-4-without-visual-studio/)
 * [How to Store User Passwords and Overcome Security Threats in 2017](http://blog.rangle.io/how-to-store-user-passwords-and-overcome-security-threats-in-2017/)
