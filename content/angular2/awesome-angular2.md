@@ -22,6 +22,9 @@ Title: Angular and  .NET Core Awesome list
 ##### Current Browser support for Angular:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
+##### Angular Changelog
+[Angular Changelog](https://github.com/angular/angular/blob/master/CHANGELOG.md)
+
 * [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://github.com/aspnet/JavaScriptServices#readme)
 * Some general info [here](http://blog.nbellocam.me/2016/08/24/javascriptservices-asp-net-core/) and [here](http://rion.io/2016/12/05/using-asp-net-core-javascript-services-to-play-nice-with-client-side-frameworks/)
 * Guide for generator is [here](http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/) and [here](https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/)
@@ -35,6 +38,7 @@ Title: Angular and  .NET Core Awesome list
 * [Angular Architecture Guide](https://github.com/toddmotto/angular-architecture)
 * [Helpful Angular2 GitHub repos (curated through February 2017)](https://www.reddit.com/r/Angular2/comments/5rj14a/helpful_angular_2_github_repos_curated_through/)
 * [What's new in Angular 4.3](http://blog.ninja-squad.com/2017/07/17/what-is-new-angular-4.3/)
+* [What's new in Angular 4.4](http://blog.ninja-squad.com/2017/09/18/what-is-new-angular-4.4/)
 * [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.h3nx27hmq)
 * [Complete Angular 2 Guide: Components in Depth](https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.xws4sawtm)
 * [Lessons Learned from Creating A Typeahead With RxJs And Angular 2](http://orizens.com/wp/topics/lessons-learned-from-creating-a-typeahead-with-rxjs-and-angular-2/)
@@ -215,6 +219,8 @@ Title: Angular and  .NET Core Awesome list
 * [Nebular - full-featured framework based on Angular](https://github.com/akveo/nebular)
 * [ngx-cache - Caching utility](https://github.com/fulls1z3/ngx-cache)
 * [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-2-router-events-ba1dc882d09a)
+* [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
+* [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
