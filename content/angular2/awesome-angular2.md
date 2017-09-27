@@ -7,6 +7,9 @@ Title: Angular and  .NET Core Awesome list
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
+##### Angular Changelog
+[here](https://github.com/angular/angular/blob/master/CHANGELOG.md)
+
 ##### Current Angular CLI version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcli.svg)](https://badge.fury.io/js/%40angular%2Fcli)
 
@@ -22,8 +25,6 @@ Title: Angular and  .NET Core Awesome list
 ##### Current Browser support for Angular:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
-##### Angular Changelog
-[Angular Changelog](https://github.com/angular/angular/blob/master/CHANGELOG.md)
 
 * [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://github.com/aspnet/JavaScriptServices#readme)
 * Some general info [here](http://blog.nbellocam.me/2016/08/24/javascriptservices-asp-net-core/) and [here](http://rion.io/2016/12/05/using-asp-net-core-javascript-services-to-play-nice-with-client-side-frameworks/)
