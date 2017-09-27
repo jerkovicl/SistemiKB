@@ -7,7 +7,7 @@ Title: Angular and  .NET Core Awesome list
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
-##### Angular Changelog
+##### Official Angular Changelog
 [here](https://github.com/angular/angular/blob/master/CHANGELOG.md)
 
 ##### Current Angular CLI version:
