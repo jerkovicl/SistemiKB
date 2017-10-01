@@ -142,6 +142,7 @@ Title: Angular and  .NET Core Awesome list
 * [SignalR Group messages with ngrx and Angular](https://damienbod.com/2017/09/18/signalr-group-messages-with-ngrx-and-angular/)
 * [Add Swagger to ASP.NET Core Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-web-api/)
 * [Logging in ASP.NET Core](https://stackify.com/asp-net-core-logging-what-changed/)
+* [ASP.NET Core logging with NLog and MS SQLServer](https://github.com/damienbod/AspNetCoreNlog#nlog-posts-in-this-series)
 * [Logging using DiagnosticSource in ASP.NET Core](https://andrewlock.net/logging-using-diagnosticsource-in-asp-net-core/)
 * [ASP.NET Core Error Management with elmah.io](https://damienbod.com/2017/03/16/asp-net-core-error-management-with-elmah-io/)
 * [Powerful .NET library for benchmarking ](https://github.com/dotnet/BenchmarkDotNet)
@@ -162,6 +163,8 @@ Title: Angular and  .NET Core Awesome list
 * [Country Tag Helper for ASP.NET Core](https://github.com/ignatandrei/CountryTagHelper)
 * [Google Analytics Tag Helper Component](https://codingblast.com/tag-helper-component-google-analytics/)
 * [ASP.NET Core 2.0 Demystified - Razor Pages](https://exceptionnotfound.net/asp-net-core-demystified-razor-pages/)
+* [File Logger](https://github.com/adams85/filelogger/)
+* [Generic file logger for .NET Core](https://github.com/nreco/logging)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -255,6 +258,7 @@ Title: Angular and  .NET Core Awesome list
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+* [Identify technology on websites](https://wappalyzer.com)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erf527l27)
 * [The State of HTML Mobile Frameworks](https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/)
 * [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
