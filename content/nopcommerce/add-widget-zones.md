@@ -10,7 +10,7 @@ Instead of "custom_widget_name" add the name of your custom widget zone
 @Html.Widget("custom_widget_name")
 ```
 
-### Add the custom widget zone to the Nop Anywhere Sliders
+### Add the custom widget zone to the plugin
 
 To use the custom widget zone in a plugin you need to do the following:
 
