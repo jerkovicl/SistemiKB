@@ -1,5 +1,5 @@
 /*
-Title: Extend normal cart overview with remove buttons instead of checkbox
+Title: Extend Cart Overview with remove buttons instead of checkbox
 */
 
 
