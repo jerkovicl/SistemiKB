@@ -2,7 +2,7 @@
 Title: Adding a new widget zone to NopCommerce
 */
 
-## Add a custom widget zone
+### Add a custom widget zone
 
 Instead of "custom_widget_name" add the name of your custom widget zone
 
@@ -10,7 +10,7 @@ Instead of "custom_widget_name" add the name of your custom widget zone
 @Html.Widget("custom_widget_name")
 ```
 
-## Add the custom widget zone to the Nop Anywhere Sliders
+### Add the custom widget zone to the Nop Anywhere Sliders
 
 To use the custom widget zone in a plugin you need to do the following:
 
@@ -21,9 +21,10 @@ To use the custom widget zone in a plugin you need to do the following:
 <WidgetZone>custom_widget_name</WidgetZone>
 ```
 
-Save the file and resetart the application
+Save the file and restart the application
 
-## Set up your plugin to work with the custom widget zone
+
+### Set up your plugin to work with the custom widget zone
 
 To add the plugin to your custom widget zone, please follow the steps below:
 
