@@ -1,11 +1,9 @@
 /*
-Title: How to add a remove product button in Cart Overview
+Title: Extend normal cart overview with remove buttons instead of checkbox
 */
 
-## Extend normal cart overview with remove buttons instead of checkbox
 
 - Copy and paste the "OrderSummary.cshtml" file to the "Themes/DefaultClean/Views/ShoppingCart" folder
-
 - Open this copied file, and then find following block of code
 
 ```html
