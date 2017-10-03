@@ -40,8 +40,10 @@ Title: Angular and  .NET Core Awesome list
 * [Helpful Angular2 GitHub repos (curated through February 2017)](https://www.reddit.com/r/Angular2/comments/5rj14a/helpful_angular_2_github_repos_curated_through/)
 * [What's new in Angular 4.3](http://blog.ninja-squad.com/2017/07/17/what-is-new-angular-4.3/)
 * [What's new in Angular 4.4](http://blog.ninja-squad.com/2017/09/18/what-is-new-angular-4.4/)
+* [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
 * [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.h3nx27hmq)
 * [Complete Angular 2 Guide: Components in Depth](https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.xws4sawtm)
+* [3 Tips for Angular Runtime Performance from the Real World](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
 * [Lessons Learned from Creating A Typeahead With RxJs And Angular 2](http://orizens.com/wp/topics/lessons-learned-from-creating-a-typeahead-with-rxjs-and-angular-2/)
 * [Angular 2 + Google Maps Places Autocomplete](http://brianflove.com/2016/10/18/angular-2-google-maps-places-autocomplete/)
 * [Building Tesla's battery range calculator with Angular 2 reactive forms](https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms)
@@ -107,6 +109,7 @@ Title: Angular and  .NET Core Awesome list
 * [Writing Unit Tests in Angular 2](http://www.discoversdk.com/blog/writing-unit-tests-in-angular-2)
 * [Angular testing made easy](https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129#.focydylzt)
 * [Efficient testing of Angular with Intern](https://www.sitepen.com/blog/2017/09/22/efficient-testing-of-angular-with-intern/)
+* [User Interface Unit Tests with .NET Core](https://weblogs.asp.net/ricardoperes/user-interface-unit-tests-with-net-core)
 * [Continuous Integration with CircleCI and angular-cli (nginx & docker)](http://blog.grossman.io/continues-integration-with-circleci-and-angular-cli-2/)
 * [Angular Testing In Depth: HTTP Services](https://auth0.com/blog/angular-testing-in-depth-http-services/)
 * [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
@@ -254,6 +257,7 @@ Title: Angular and  .NET Core Awesome list
 * [A Progressive Roadmap for your Progressive Web App](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 * [Creating Progressive Web Apps Using Angular](http://moduscreate.com/creating-progressive-web-apps-using-angular/)
 * [The Ultimate Guide to Progressive Web Applications](https://scotch.io/tutorials/the-ultimate-guide-to-progressive-web-applications)
+* [Manifest File In Progressive Web App](http://www.c-sharpcorner.com/article/manifest-file-in-progressive-web-app/)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
