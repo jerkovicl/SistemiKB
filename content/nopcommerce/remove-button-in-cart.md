@@ -3,7 +3,7 @@ Title: Extend Cart Overview with remove buttons instead of checkbox
 */
 
 
-Copy and paste the "OrderSummary.cshtml" file to the "Themes/DefaultClean/Views/ShoppingCart" folder
+Copy and paste the **"OrderSummary.cshtml"** file to the **"Themes/DefaultClean/Views/ShoppingCart"** folder
 
 Open this copied file, and then find following block of code
 
@@ -38,7 +38,7 @@ And then, add following javascript block at the bottom of this file
 </script>
 ```
 
-Finally, add following line of codes to the "styles.css" file (inside the "Themes/DefaultClean/Content" folder)
+Finally, add following line of codes to the **"styles.css"** file (inside the **"Themes/DefaultClean/Content"** folder)
 
 ```css
 /* Custom remove icon button for each item in the shopping-cart */
