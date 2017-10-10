@@ -31,6 +31,7 @@ Title: Angular and  .NET Core Awesome list
 * Guide for generator is [here](http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/) and [here](https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/)
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [Angular Universal Starter Kit](https://github.com/MarkPieszak/aspnetcore-angular2-universal)
+* [Nrwl Nx — An open source toolkit for enterprise Angular applications](https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65)
 * [Angular 2 & Asp.Net Core SPA with Webpack 2 - StarterKit](https://github.com/asadsahi/AspNetCoreSpa)
 * [Angular2 seed project](https://github.com/NathanWalker/angular-seed-advanced)
 * [Angular2 PWA/Mobile Kit](https://mobile.angular.io/)
@@ -40,6 +41,7 @@ Title: Angular and  .NET Core Awesome list
 * [Helpful Angular2 GitHub repos (curated through February 2017)](https://www.reddit.com/r/Angular2/comments/5rj14a/helpful_angular_2_github_repos_curated_through/)
 * [What's new in Angular 4.3](http://blog.ninja-squad.com/2017/07/17/what-is-new-angular-4.3/)
 * [What's new in Angular 4.4](http://blog.ninja-squad.com/2017/09/18/what-is-new-angular-4.4/)
+* [Using TransferState API in an Angular v5 Universal App](https://blog.angularindepth.com/using-transferstate-api-in-an-angular-5-universal-app-130f3ada9e5b)
 * [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
 * [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.h3nx27hmq)
 * [Complete Angular 2 Guide: Components in Depth](https://medium.com/aviabird/complete-angular-2-guide-components-in-depth-96fca743966b#.xws4sawtm)
@@ -143,6 +145,7 @@ Title: Angular and  .NET Core Awesome list
 * [Serialize all errors as JSON in ASP.NET Core](https://www.recaffeinate.co/post/serialize-errors-as-json-in-aspnetcore/)
 * [How to upload a file (image) from angular2 to asp.net core](https://devblog.dymel.pl/2016/09/02/upload-file-image-angular2-aspnetcore/)
 * [SignalR Group messages with ngrx and Angular](https://damienbod.com/2017/09/18/signalr-group-messages-with-ngrx-and-angular/)
+* [Broadcasting Message From ASP.NET Core To Angular Client Using SignalR](http://www.c-sharpcorner.com/article/broadcasting-message-from-asp-net-core-to-angular-client-using-signalr/)
 * [Add Swagger to ASP.NET Core Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-web-api/)
 * [Logging in ASP.NET Core](https://stackify.com/asp-net-core-logging-what-changed/)
 * [ASP.NET Core logging with NLog and MS SQLServer](https://github.com/damienbod/AspNetCoreNlog#nlog-posts-in-this-series)
@@ -258,6 +261,8 @@ Title: Angular and  .NET Core Awesome list
 * [Creating Progressive Web Apps Using Angular](http://moduscreate.com/creating-progressive-web-apps-using-angular/)
 * [The Ultimate Guide to Progressive Web Applications](https://scotch.io/tutorials/the-ultimate-guide-to-progressive-web-applications)
 * [Manifest File In Progressive Web App](http://www.c-sharpcorner.com/article/manifest-file-in-progressive-web-app/)
+* [JavaScript Libraries for Progressive Web Apps](https://workboxjs.org)
+* [A new Angular Service Worker — creating automatic progressive web apps. Part 1: theory](https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-1-theory-37d7d7647cc7)
 
 ## Front-end
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
