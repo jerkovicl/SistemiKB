@@ -339,6 +339,7 @@ Title: Angular and  .NET Core Awesome list
 * [RESTool — An open source UI tool for managing RESTful APIs](https://medium.com/@danielsternlicht/restool-an-open-source-ui-tool-for-managing-restful-apis-32c18062502)
 * [VsCode Snippet Generator](https://pawelgrzybek.com/snippet-generator/)
 * [Javascript Regex Tester](https://regexly.chipto.io/)
+* [The mother of all demo apps — Exemplary fullstack Medium.com clone](https://github.com/gothinkster/realworld)
 * [ASP.NET Free Courses](https://www.asp.net/freecourses)
 * [ASP.NET Documentation](docs.microsoft.com)
 * [VS2017 Poster Online Version](https://vs2017poster.azurewebsites.net/)
