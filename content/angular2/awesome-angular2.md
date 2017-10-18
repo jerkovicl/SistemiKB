@@ -42,6 +42,7 @@ Title: Angular and  .NET Core Awesome list
 * [Helpful Angular2 GitHub repos (curated through February 2017)](https://www.reddit.com/r/Angular2/comments/5rj14a/helpful_angular_2_github_repos_curated_through/)
 * [What's new in Angular 4.3](http://blog.ninja-squad.com/2017/07/17/what-is-new-angular-4.3/)
 * [What's new in Angular 4.4](http://blog.ninja-squad.com/2017/09/18/what-is-new-angular-4.4/)
+* [A Single Route Parameter Can Match Multiple URL Segments In Angular 4.4.4](https://www.bennadel.com/blog/3347-a-single-route-parameter-can-match-multiple-url-segments-in-angular-4-4-4.htm)
 * [Using TransferState API in an Angular v5 Universal App](https://blog.angularindepth.com/using-transferstate-api-in-an-angular-5-universal-app-130f3ada9e5b)
 * [Boosting Performance With The New updateOn Option in Angular v5](https://netbasal.com/boosting-performance-with-the-new-updateon-option-in-angular-v5-18857279ace2)
 * [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
