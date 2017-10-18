@@ -250,6 +250,7 @@ Title: Angular and  .NET Core Awesome list
 * [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-2-router-events-ba1dc882d09a)
 * [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
 * [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
+* [Gentics UI Core Framework](https://github.com/gentics/gentics-ui-core)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
