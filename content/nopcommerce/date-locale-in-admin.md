@@ -4,6 +4,7 @@ Title: Changing the default date locale to croatian for Kendo admin
 
 ### To change default locale to Croatian you need to do the following:
 
+
 Find and open file: 
 ```
 'src/Presentation/Nop.Web/Administration/Views/Shared/_AdminLayout.cshtml'
