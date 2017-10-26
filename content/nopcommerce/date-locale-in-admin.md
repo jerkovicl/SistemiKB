@@ -13,14 +13,13 @@ Title: Changing the default date locale to croatian for Kendo admin
 ```html
 'Html.AppendScriptParts(string.Format("~/Administration/Scripts/kendo/{0}/cultures/kendo.culture.hr-HR.min.js", kendoVersion));' 
 ```
-- just under: 
 
+- just under: 
 ```html
 Html.AppendScriptParts(string.Format("~/Administration/Scripts/kendo/{0}/kendo.web.min.js", kendoVersion));
 ```
 
 - then add line bellow to just before closing </head> tag:
-
 ```js
 <script type="text/javascript">
   //set kendos current culture to the "hr-HR" culture script
