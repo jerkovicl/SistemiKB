@@ -30,4 +30,5 @@ Html.AppendScriptParts(string.Format("~/Administration/Scripts/kendo/{0}/kendo.w
 **Make sure the locale is the same as the one you have used above).**
 
 For more information follow the topic [here](https://www.nopcommerce.com/boards/t/2653/how-to-change-date-format-for-admin-interface.aspx?p=6).
+
 Additional information [here](https://www.nopcommerce.com/boards/t/44510/date-format-in-admin-area.aspx#188597).
