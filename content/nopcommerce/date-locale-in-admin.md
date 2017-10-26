@@ -28,6 +28,6 @@ then add line bellow to just before closing </head> tag:
 </script>
 ```
 
-**make sure the locale is the same as the one you have used above).**
+**Make sure the locale is the same as the one you have used above).**
 
 For more information follow the topic [here](https://www.nopcommerce.com/boards/t/2653/how-to-change-date-format-for-admin-interface.aspx?p=6).
