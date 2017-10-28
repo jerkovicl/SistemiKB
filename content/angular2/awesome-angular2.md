@@ -163,6 +163,7 @@ Title: Angular and  .NET Core Awesome list
 * [Using EF Core and SQLite to persist SignalR Group messages in ASP.NET Core](https://damienbod.com/2017/09/29/using-ef-core-and-sqlite-to-persist-signalr-group-messages-in-asp-net-core/)
 * [Broadcasting Message From ASP.NET Core To Angular Client Using SignalR](http://www.c-sharpcorner.com/article/broadcasting-message-from-asp-net-core-to-angular-client-using-signalr/)
 * [Securing an Angular SignalR client using JWT tokens with ASP.NET Core and IdentityServer4](https://damienbod.com/2017/10/16/securing-an-angular-signalr-client-using-jwt-tokens-with-asp-net-core-and-identityserver4/)
+* [Server-side charts with ASP.NET Core, Node services and D3.js](http://gunnarpeipman.com/2017/10/aspnet-core-node-d3js/)
 * [Add Swagger to ASP.NET Core Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-web-api/)
 * [Logging in ASP.NET Core](https://stackify.com/asp-net-core-logging-what-changed/)
 * [ASP.NET Core logging with NLog and MS SQLServer](https://github.com/damienbod/AspNetCoreNlog#nlog-posts-in-this-series)
@@ -189,6 +190,7 @@ Title: Angular and  .NET Core Awesome list
 * [File Logger](https://github.com/adams85/filelogger/)
 * [Generic file logger for .NET Core](https://github.com/nreco/logging)
 * [Announcing SignalR for ASP.NET Core Alpha 2](https://blogs.msdn.microsoft.com/webdev/2017/10/09/announcing-signalr-for-asp-net-core-alpha-2/)
+* [Miniblog.Core is a new blog engine built using ASP.NET Core 2.0](https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-aspnet-core-20/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -252,6 +254,7 @@ Title: Angular and  .NET Core Awesome list
 * [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
 * [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
 * [Gentics UI Core Framework](https://github.com/gentics/gentics-ui-core)
+* [Event Modifiers for Angular Applications](https://github.com/NetanelBasal/ngx-event-modifiers)
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
@@ -288,6 +291,8 @@ Title: Angular and  .NET Core Awesome list
 * [Introducing Cloud Firestore: Our New Document Database for Apps](https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html)
 
 ## Front-end
+* [Web Developer Checklist](http://webdevchecklist.com)
+* [Mads Kristensen Checklist](https://github.com/madskristensen/Miniblog.Core#technical-features)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [Identify technology on websites](https://wappalyzer.com)
