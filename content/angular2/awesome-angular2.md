@@ -191,6 +191,7 @@ Title: Angular and  .NET Core Awesome list
 * [Generic file logger for .NET Core](https://github.com/nreco/logging)
 * [Announcing SignalR for ASP.NET Core Alpha 2](https://blogs.msdn.microsoft.com/webdev/2017/10/09/announcing-signalr-for-asp-net-core-alpha-2/)
 * [Miniblog.Core is a new blog engine built using ASP.NET Core 2.0](https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-aspnet-core-20/)
+* [Introducing API Analyzer](https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -202,6 +203,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Angular2+ 3rd party modules and libs
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
+* [Open source tool for building enterprise angular components, directives etc.](http://www.playgroundforangular.it/)
 * [Catalog of Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components)
 * [Angular Update Guide](https://angular-update-guide.firebaseapp.com/)
 * [Angular CLI Reference](https://cli.angular.io/reference.pdf)
@@ -269,6 +271,7 @@ Title: Angular and  .NET Core Awesome list
 ## Ionic libs and plugins
 * [Ionic Starter kits](http://www.ionickits.com/)
 * [Ionic App Showcase](http://showcase.ionicframework.com/apps/newest)
+* [Ionic DevApp](http://blog.ionic.io/announcing-ionic-devapp/amp/)
 * [Property Cross is an opensource project that helps developers select a cross platform mobile framework](http://propertycross.com)
 * [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
@@ -296,6 +299,7 @@ Title: Angular and  .NET Core Awesome list
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [Identify technology on websites](https://wappalyzer.com)
+* [Put device frames around your mobile/web/progressive app screenshots](https://github.com/c0bra/deviceframe)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erf527l27)
 * [The State of HTML Mobile Frameworks](https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/)
 * [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
