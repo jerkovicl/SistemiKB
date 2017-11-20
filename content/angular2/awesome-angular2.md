@@ -192,6 +192,7 @@ Title: Angular and  .NET Core Awesome list
 * [Announcing SignalR for ASP.NET Core Alpha 2](https://blogs.msdn.microsoft.com/webdev/2017/10/09/announcing-signalr-for-asp-net-core-alpha-2/)
 * [Miniblog.Core is a new blog engine built using ASP.NET Core 2.0](https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-aspnet-core-20/)
 * [Introducing API Analyzer](https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/)
+* [Import and Export excel in ASP.NET Core 2.0](http://www.talkingdotnet.com/import-export-excel-asp-net-core-2-razor-pages/#more-5225)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
