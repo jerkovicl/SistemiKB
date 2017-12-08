@@ -139,6 +139,7 @@ Title: Angular and  .NET Core Awesome list
 * [Testing HTTP requests in Angular using new HttpClientModule](https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522)
 * [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
 * [Native Web Push Notifications with Angular 2](https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.rryifb5ae)
+* [Using webpack Bundle Analyzer or source-map-explorer to Analyze an Angular App’s Bundle Size](https://alligator.io/angular/bundle-size/)
 * [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
 * [ASP.NET Core Angular 2 EF 1.0.1 Web API Using Template Pack](https://www.codeproject.com/Articles/1161804/ASP-NET-Core-Angular-EF-Web-API-Using-Template-Pac)
 * [Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro)
@@ -366,6 +367,8 @@ Title: Angular and  .NET Core Awesome list
 * [https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b](https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b)
 * [Simple React Snippets For Visual Studio Code](https://medium.com/burke-knows-words/simple-react-snippets-22eddd65f835)
 * [A Minimalistic Wrapper for IndexedDB](https://github.com/dfahlander/Dexie.js)
+* [A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+* [Getting To Know The JavaScript Internationalization API](https://netbasal.com/getting-to-know-the-javascript-internationalization-api-cb893b3908e0)
 
 ## UI / UX
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
