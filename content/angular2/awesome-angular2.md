@@ -199,6 +199,7 @@ Title: Angular and  .NET Core Awesome list
 * [Four Ways to Deploy an ASP.NET Core 2 Website in Azure](http://markheath.net/post/four-ways-to-deploy-aspnet-core-website-in-azure)
 * [Debugging into ASP.NET Core 2.0 source code](http://laurentkempe.com/2017/09/26/Debugging-into-ASP.NET-Core-2.0-source-code/index.html)
 * [The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
+* [Sending SMS Using ASP.NET Core With Twilio SMS API](http://www.c-sharpcorner.com/article/sending-sms-using-asp-net-core-with-twilio-sms-api/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
 ## ASP.NET Core 2.0
@@ -353,6 +354,7 @@ Title: Angular and  .NET Core Awesome list
 * [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.7odiawy3s)
 * [async vs defer attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 * [Angular — Advanced Styling Guide (v4+)](https://medium.com/@gerard.sans/angular-advanced-styling-guide-v4-f0765616e635#.u4u90den0)
+* [Angular :host, :host-context, ::ng-deep - Angular View Encapsulation](https://blog.angular-university.io/angular-host-context/)
 * [Introduction to Angular 2 Animations](http://www.javascripttuts.com/introduction-to-angular-2-animations/)
 * [A New Wave of Animation Features in Angular](https://www.yearofmoo.com/2017/06/new-wave-of-animation-features.html)
 * [A Guide to Styling an Ionic 2 Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
@@ -369,6 +371,7 @@ Title: Angular and  .NET Core Awesome list
 * [A Minimalistic Wrapper for IndexedDB](https://github.com/dfahlander/Dexie.js)
 * [A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 * [Getting To Know The JavaScript Internationalization API](https://netbasal.com/getting-to-know-the-javascript-internationalization-api-cb893b3908e0)
+* [Angular Top 50: What you should have read in 2017](https://malcoded.com/posts/angular-top-2017)
 
 ## UI / UX
 * [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.bu3jzjyg8)
