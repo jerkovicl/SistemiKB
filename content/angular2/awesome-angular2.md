@@ -32,9 +32,11 @@ Title: Angular and  .NET Core Awesome list
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [Angular Universal Starter Kit](https://github.com/MarkPieszak/aspnetcore-angular2-universal)
 * [Nrwl Nx — An open source toolkit for enterprise Angular applications](https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65)
+* [Angular 5+ starter kit for enterprise-grade projects](https://github.com/ngx-rocket/starter-kit)
 * [Angular CLI and ASP.NET Core Angular Template](https://www.codeproject.com/Tips/1208529/Angular-CLI-and-ASP-NET-Core-Angular-Template)
 * [Angular 2 & Asp.Net Core SPA with Webpack 2 - StarterKit](https://github.com/asadsahi/AspNetCoreSpa)
 * [Angular2 seed project](https://github.com/NathanWalker/angular-seed-advanced)
+* [PWA ready starter project for Angular (2 and beyond)](https://github.com/mgechev/angular-seed)
 * [Angular2 PWA/Mobile Kit](https://mobile.angular.io/)
 * [Material Components](https://material.io/components/)
 * [Ionic Super Starter Kit](http://blog.ionic.io/help-us-test-the-super-starter/)
@@ -232,9 +234,11 @@ Title: Angular and  .NET Core Awesome list
 * [Dotnet EF Migrations for ASP.NET Core](http://benjii.me/2016/05/dotnet-ef-migrations-for-asp-net-core/)
 
 ## Angular2+ 3rd party modules and libs
+* [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * [Open source tool for building enterprise angular components, directives etc.](http://www.playgroundforangular.it/)
 * [A tool for monitoring webpack optimization metrics through the development process](https://github.com/webpackmonitor/webpackmonitor)
+* [Documentation generator for TypeScript projects](http://typedoc.org)
 * [Catalog of Angular 2+ Components & Libraries](https://github.com/brillout/awesome-angular-components)
 * [Angular Update Guide](https://angular-update-guide.firebaseapp.com/)
 * [Angular CLI Reference](https://cli.angular.io/reference.pdf)
@@ -289,7 +293,10 @@ Title: Angular and  .NET Core Awesome list
 * [Gentics UI Core Framework](https://github.com/gentics/gentics-ui-core)
 * [Event Modifiers for Angular Applications](https://github.com/NetanelBasal/ngx-event-modifiers)
 * [ngx-reduxor – Angular + Redux templates generator](https://libraries.io/npm/ngx-reduxor)
+* [Managing normalized state in ngrx applications - transparently](https://github.com/michaelkrone/ngrx-normalizr)
 * [ngrx templates generator](https://github.com/NetanelBasal/ngrx-generator)
+* [Utilities, classes & functions to help developing Angular & Redux apps](https://github.com/dcsfuerth/ngx-utils)
+* [Introducing @ngrx/entity](https://medium.com/ngrx/introducing-ngrx-entity-598176456e15)
 * [ngx-loading-spinner - Angular custom async loading spinner](https://dailyjspackages.com/pkg/ngx-loading-spinner)
 
 ## Nativescript libs and plugins
@@ -327,6 +334,7 @@ Title: Angular and  .NET Core Awesome list
 * [A new Angular Service Worker — creating automatic progressive web apps. Part 1: theory](https://medium.com/@webmaxru/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-1-theory-37d7d7647cc7)
 * [Progressive Web Apps made easy with ASP.NET Core](https://madskristensen.net/blog/progressive-web-apps-made-easy-with-aspnet-core/)
 * [Introducing Cloud Firestore: Our New Document Database for Apps](https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html)
+* [Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 
 ## Front-end
 * [Web Developer Checklist](http://webdevchecklist.com)
@@ -341,6 +349,7 @@ Title: Angular and  .NET Core Awesome list
 * [Put device frames around your mobile/web/progressive app screenshots](https://github.com/c0bra/deviceframe)
 * [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.erf527l27)
 * [The State of HTML Mobile Frameworks](https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/)
+* [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
 * [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 * [More Transparent UI Code with Namespaces](http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
@@ -392,8 +401,10 @@ Title: Angular and  .NET Core Awesome list
 * [VersionEye - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories](https://www.versioneye.com/)
 * [RESTool — An open source UI tool for managing RESTful APIs](https://medium.com/@danielsternlicht/restool-an-open-source-ui-tool-for-managing-restful-apis-32c18062502)
 * [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com)
+* [Basic REST API used for training sessions](https://github.com/sinedied/cellars)
 * [Faker.js - generate massive amounts of fake data in Node.js and the browser](https://github.com/marak/Faker.js/)
 * [packages and resources that work really well with npx](https://github.com/js-n/awesome-npx)
+* [A curated list of small, focused npm packages](https://github.com/parro-it/awesome-micro-npm-packages)
 * [VsCode Snippet Generator](https://pawelgrzybek.com/snippet-generator/)
 * [Javascript Regex Tester](https://regexly.chipto.io/)
 * [The mother of all demo apps — Exemplary fullstack Medium.com clone](https://github.com/gothinkster/realworld)
