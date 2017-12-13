@@ -390,6 +390,7 @@ Title: Angular and  .NET Core Awesome list
 * [A Guide to App Store Images](http://developer.telerik.com/topics/mobile-development/your-guide-to-app-store-images/)
 * [Material Color Tool by Google](https://material.io/color/#!/?view.left=0&view.right=1&primary.color=4bff3b)
 * [Pencil - free and opensource tool for making diagrams and GUI prototyping](https://github.com/evolus/pencil?mc_cid=77c2c58895&mc_eid=1b08cafe01)
+* [Airbnb Design Principles](https://principles.design/examples/airbnb-design-principles)
 
 ## Design sprint
 * [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
