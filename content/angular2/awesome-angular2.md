@@ -104,6 +104,7 @@ Title: Angular and  .NET Core Awesome list
 * [Configurable Services in Angular 2](http://blog.rangle.io/configurable-services-in-angular-2/)
 * [Observables and Reactive Programming in Angular 2](http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/)
 * [The Powerful URL Matching Engine of Angular Router](https://vsavkin.com/the-powerful-url-matching-engine-of-angular-router-775dad593b03#.n09pgp268)
+* [Custom preloading strategy for Angular modules](https://medium.com/@adrianfaciu/custom-preloading-strategy-for-angular-modules-b3b5c873681a)
 * [Angular 2 - Define Routes Dynamically using UIRouter](http://cloudmark.github.io/Multilingual-Routing/)
 * [Angular 2+ Classes with NgClass and NgStyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
 * [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
@@ -115,9 +116,12 @@ Title: Angular and  .NET Core Awesome list
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Angular 2 + ngrx examples](https://github.com/btroncone/ngrx-examples)
 * [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-3-99fe2e0a7082#.j9ohizf62)
+* [Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
 * [Let’s Talk About Select and Reselect in @ngrx/store](https://netbasal.com/lets-talk-about-select-and-reselect-in-ngrx-store-177a2f6045a8)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0#.geye2zx8g)
 * [Manage your observable subscriptions in Angular with help of rx.js](https://hackernoon.com/manage-your-observable-subscriptions-in-angular-with-help-of-rx-js-f574b590a5cb)
+* [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
+* [Angular — Simple In Memory Cache Service with RxJS](https://hackernoon.com/angular-simple-in-memory-cache-service-on-the-ui-with-rxjs-77f167387e39)
 * [How to Secure Your User’s Data After Logout in Redux](https://netbasal.com/how-to-secure-your-users-data-after-logout-in-redux-30468c6848e8)
 * [How to Track Analytics with Redux and Google Tag Manager](http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/)
 * [Angular 2 & Google Analytics with Event tracking](https://blog.thecodecampus.de/angular-2-include-google-analytics-event-tracking/)
@@ -134,11 +138,13 @@ Title: Angular and  .NET Core Awesome list
 * [Angular testing made easy](https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129#.focydylzt)
 * [Angular Tests Made Easy With ngx-easy-test](https://netbasal.com/angular-tests-made-easy-with-ngx-easy-test-7b8b75d8a47d)
 * [Efficient testing of Angular with Intern](https://www.sitepen.com/blog/2017/09/22/efficient-testing-of-angular-with-intern/)
+* [An Alternative to Protractor for Angular Projects](https://www.cypress.io/blog/2017/12/11/an-alternative-to-protractor-for-angular-projects/#Scaffolding-a-project)
 * [User Interface Unit Tests with .NET Core](https://weblogs.asp.net/ricardoperes/user-interface-unit-tests-with-net-core)
 * [The Secret Life(cycle) of Components](https://github.com/Zizzamia/the-secret-life-cycle-of-components)
 * [Angular Universal: Prerendering for Angular Apps](https://docs.google.com/presentation/d/17SIQvKmeiqDP5vbU6cRNDqqrKnpMTUjcdghKzhoBh6g/edit#slide=id.p)
 * [Continuous Integration with CircleCI and angular-cli (nginx & docker)](http://blog.grossman.io/continues-integration-with-circleci-and-angular-cli-2/)
 * [Angular in Docker with Nginx, supporting environments, using Docker multi-stage builds](https://medium.com/@tiangolo/angular-in-docker-with-nginx-supporting-environments-built-with-multi-stage-docker-builds-bb9f1724e984)
+* [Angular GIT Deployment Dockerized](https://medium.com/@roalcantara/angular-2-git-deployment-dockerized-3417502aba2f)
 * [Angular Testing In Depth: HTTP Services](https://auth0.com/blog/angular-testing-in-depth-http-services/)
 * [Testing HTTP requests in Angular using new HttpClientModule](https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522)
 * [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
@@ -228,6 +234,7 @@ Title: Angular and  .NET Core Awesome list
 * [Import and Export excel in ASP.NET Core 2.0](http://www.talkingdotnet.com/import-export-excel-asp-net-core-2-razor-pages/#more-5225)
 * [DbUp is a .NET library that helps you to deploy changes to SQL Server databases](https://dbup.github.io)
 * [Bogus - fake data generator for C#, F#, and VB.NET](https://github.com/bchavez/Bogus)
+* [Add Swagger to ASP.NET Core 2.0 Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-2-0-web-api/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -313,7 +320,7 @@ Title: Angular and  .NET Core Awesome list
 * [NativeScript and Angular 2 code samples](https://github.com/NativeScript/nativescript-sdk-examples-ng)
 * [Create Native Mobile And Web App With Single Codebase Using Angular2 And Nativescript](http://shripalsoni.com/blog/create-native-mobile-and-web-app-with-single-codebase-using-angular2-and-nativescript/)
 
-## Ionic libs and plugins
+## Ionic libs, plugins and guides
 * [Ionic Starter kits](http://www.ionickits.com/)
 * [Ionic App Showcase](http://showcase.ionicframework.com/apps/newest)
 * [Ionic DevApp](http://blog.ionic.io/announcing-ionic-devapp/amp/)
@@ -321,11 +328,13 @@ Title: Angular and  .NET Core Awesome list
 * [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
 * [Building Ionic 2 Applications for iOS without a Mac](https://www.joshmorony.com/building-ionic-2-applications-for-ios-without-a-mac/)
 * [An Angular and Ionic component for Google Places Autocomplete](https://www.petrelli.biz/2017/06/05/an-angular-and-ionic-component-for-google-place-autocomplete/)
+* [Building a Cryptocurrency Price Tracker PWA in Ionic](https://www.joshmorony.com/building-a-cryptocurrency-price-tracker-pwa-in-ionic/?ck_subscriber_id=102605873)
 
 
 ## PWA stuff
 
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com)
+* [A Directory of Progressive Web Apps](https://pwa-directory.appspot.com)
 * [Hacker News Progressive Web Apps](https://blog.hnpwa.com/hacker-news-progressive-web-apps-2d8cbf7bc077)
 * [Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
 * [What Progressive Web Apps can do for you - Ionic](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/)
@@ -339,6 +348,8 @@ Title: Angular and  .NET Core Awesome list
 * [Progressive Web Apps made easy with ASP.NET Core](https://madskristensen.net/blog/progressive-web-apps-made-easy-with-aspnet-core/)
 * [Introducing Cloud Firestore: Our New Document Database for Apps](https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html)
 * [Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+* [Creating PWA with Angular 5. Part 1](https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d)
+* [Angular Service Worker: Dealing With Updates](https://alligator.io/angular/service-worker-updates/)
 
 ## Front-end
 * [The best of JavaScript, HTML and CSS](https://bestof.js.org)
@@ -380,9 +391,10 @@ Title: Angular and  .NET Core Awesome list
 * [Stencil - A simple compiler for fast, reactive Web Components](https://ionic-team.github.io/stencil-present/)
 * [Using Web Components With Angular](https://www.sitepen.com/blog/2017/09/14/using-web-components-with-angular/)
 * [Using Custom Elements in Angular](https://alligator.io/angular/using-custom-elements/)
+* [Introduction to Flutter](https://dev.to/swyx/flutter-for-react-native-devs-in-30-seconds-78g)
 * [From Angular zero to React hero in 3 days](https://medium.com/@danielsternlicht/from-angular-zero-to-react-hero-in-3-days-436ceaf0caeb)
 * [Setting up webpack for Any Project](https://scotch.io/amp/tutorials/setting-up-webpack-for-any-project)
-* [https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b](https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b)
+* [Angular vs React](https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b)
 * [Simple React Snippets For Visual Studio Code](https://medium.com/burke-knows-words/simple-react-snippets-22eddd65f835)
 * [A Minimalistic Wrapper for IndexedDB](https://github.com/dfahlander/Dexie.js)
 * [A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
@@ -430,6 +442,7 @@ Title: Angular and  .NET Core Awesome list
 * [.NET Command Line Tools](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet)
 * [dotnet Announcements](https://github.com/dotnet/Announcements/labels/Announcement)
 * [What .NET Developers ought to know to start in 2017](http://www.hanselman.com/blog/WhatNETDevelopersOughtToKnowToStartIn2017.aspx)
+* [The State of .NET in 2018: Better Web Apps with ASP.NET Core](https://www.telerik.com/blogs/the-state-of-net-in-2018-better-web-apps-with-aspnet-core?WT.mc_id=link-linkedin-jeliknes)
 * [A curated list of awesome Angular 2 and Angular 4 resources](https://github.com/AngularClass/awesome-angular2)
 * [A collection of awesome .NET core libraries, tools, frameworks and software](https://github.com/thangchung/awesome-dotnet-core)
 * [.NET Core Curated Resources List](https://blog.nandotech.com/post/2016-11-21-dotnet-core-resources/)
@@ -489,3 +502,7 @@ Title: Angular and  .NET Core Awesome list
 * [Git – Resolve Merge Conflicts](https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/)
 * [mssql-cli, a new interactive command line tool for SQL Server](https://blogs.technet.microsoft.com/dataplatforminsider/2017/12/12/try-mssql-cli-a-new-interactive-command-line-tool-for-sql-server/)
 * [Official OpenSSH Client for Windows 10](https://www.servethehome.com/say-farewell-putty-microsoft-adds-openssh-client-windows-10/)
+* [Keep Your C# Clean with Tidy C# Extension](https://channel9.msdn.com/coding4fun/blog/Keep-Your-C-Clean-with-Tidy-C-Extension)
+* [My Favorite SSMS Shortcut (After Copy/Paste)](https://bertwagner.com/2017/11/28/multiline-edit-block-selection-alt-highlight-trick/)
+* [A terminal-to-gif recorder](https://github.com/chjj/ttystudio)
+* [Push notifications playground](https://gauntface.github.io/simple-push-demo/)
