@@ -113,6 +113,7 @@ Title: Angular and  .NET Core Awesome list
 * [AntiforgerySample](https://github.com/aspnet/Antiforgery/tree/dev/samples/AntiforgerySample)
 * 📄 [Improving the State of your App with Redux](http://developer.telerik.com/topics/web-development/improving-state-app-redux/)
 * 📄 [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
+* 📄 [ngrx Style Guide](https://github.com/orizens/ngrx-styleguide)
 * 📄 [NgRx: Patterns and Techniques](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Angular 2 + ngrx examples](https://github.com/btroncone/ngrx-examples)
