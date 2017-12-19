@@ -50,7 +50,7 @@ Title: Angular and  .NET Core Awesome list
 * [What's new in Angular 5](http://blog.ninja-squad.com/2017/11/02/what-is-new-angular-5/)
 * [What's new in Angular CLI 1.5](http://blog.ninja-squad.com/2017/11/03/angular-cli-1.5/)
 * [Using TransferState API in an Angular v5 Universal App](https://blog.angularindepth.com/using-transferstate-api-in-an-angular-5-universal-app-130f3ada9e5b)
-* [Boosting Performance With The New updateOn Option in Angular v5](https://netbasal.com/boosting-performance-with-the-new-updateon-option-in-angular-v5-18857279ace2)
+* 📄[Boosting Performance With The New updateOn Option in Angular v5](https://netbasal.com/boosting-performance-with-the-new-updateon-option-in-angular-v5-18857279ace2)
 * [TypeScript 2.4: Weak Type Detection](https://blog.mariusschulz.com/2017/12/01/typescript-2-4-weak-type-detection)
 * [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
 * [Essential Angular: Components and Directives](https://blog.nrwl.io/essential-angular-components-and-directives-ab65172ba60#.h3nx27hmq)
