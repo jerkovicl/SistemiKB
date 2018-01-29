@@ -324,6 +324,7 @@ Title: Angular and  .NET Core Awesome list
 * [Gentics UI Core Framework](https://github.com/gentics/gentics-ui-core)
 * [Event Modifiers for Angular Applications](https://github.com/NetanelBasal/ngx-event-modifiers)
 * ⭐️ [ngx-reduxor – Angular + Redux templates generator](https://libraries.io/npm/ngx-reduxor)
+* ⭐️ [Reactive Form bindings for NGRX](https://github.com/amcdnl/ngrx-form)
 * [Managing normalized state in ngrx applications - transparently](https://github.com/michaelkrone/ngrx-normalizr)
 * [ngrx templates generator](https://github.com/NetanelBasal/ngrx-generator)
 * [Utilities, classes & functions to help developing Angular & Redux apps](https://github.com/dcsfuerth/ngx-utils)
