@@ -212,6 +212,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Implementing custom policies in ASP.NET Core using the HttpContext](https://damienbod.com/2017/10/23/implementing-custom-policies-in-asp-net-core-using-the-httpcontext/)
 * 📄 [Create a CI/CD pipeline for containerized ASP.NET Core projects](https://blogs.msdn.microsoft.com/visualstudio/2017/08/22/create-a-cicd-pipeline-for-containerized-asp-net-core-projects/)
 * 📄 [Using the ASP.NET Core Script TagHelper to Polyfill The Latest JavaScript Features](https://scottsauber.com/2017/01/30/using-the-asp-net-core-script-taghelper-to-polyfill-the-latest-javascript-features/)
+* 📄 [Apollo Client For Angular – Making Use of GraphQL](https://codingthesmartway.com/apollo-client-for-angular-making-use-of-graphql/)
 * 📄 [Testing an ASP.NET Core application using TestServer](https://www.meziantou.net/2017/08/21/testing-an-asp-net-core-application-using-testserver)
 * 📄 [Enforcing Model Validation Policy in Web APIs](https://ardalis.com/enforcing-model-validation-policy-in-web-apis)
 * 📄 [EF Core Multi-Tenancy - Query Filter](https://codeopinion.com/ef-core-multi-tenancy-query-filter/)
@@ -435,6 +436,7 @@ Title: Angular and  .NET Core Awesome list
 * [Material Color Tool by Google](https://material.io/color/#!/?view.left=0&view.right=1&primary.color=4bff3b)
 * [Pencil - free and opensource tool for making diagrams and GUI prototyping](https://github.com/evolus/pencil?mc_cid=77c2c58895&mc_eid=1b08cafe01)
 * 📄 [Airbnb's Design Principles](https://principles.design/examples/airbnb-design-principles)
+* 📄 [The repository of publicly available design systems and pattern libraries](https://adele.uxpin.com)
 
 ## Design sprint
 * [Product Design Sprint](https://github.com/thoughtbot/design-sprint)
@@ -457,6 +459,7 @@ Title: Angular and  .NET Core Awesome list
 * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 * [Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
 * [A curated list of awesome lists that are about or related to Node.js](https://github.com/bnb/awesome-awesome-nodejs)
+* [Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 * [VsCode Snippet Generator](https://pawelgrzybek.com/snippet-generator/)
 * [Javascript Regex Tester](https://regexly.chipto.io/)
 * [The mother of all demo apps — Exemplary fullstack Medium.com clone](https://github.com/gothinkster/realworld)
