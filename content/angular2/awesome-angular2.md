@@ -4,6 +4,12 @@ Title: Angular and  .NET Core Awesome list
 
 * __Requirements: Update Git and Node to latest versions.__ 
 
+##### Current Git version:
+![Github release](https://img.shields.io/github/release/git-for-windows/git.svg)
+
+##### Current Node version:
+![Github tag](https://img.shields.io/github/tag/nodejs/node.svg)
+
 ##### Current npm version:
 ![npm](https://img.shields.io/npm/v/npm.svg)
 
