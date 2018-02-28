@@ -26,9 +26,8 @@ Title: Angular and  .NET Core Awesome list
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
 
-* [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://github.com/aspnet/JavaScriptServices#readme)
-* Some general info [here](http://blog.nbellocam.me/2016/08/24/javascriptservices-asp-net-core/) and [here](http://rion.io/2016/12/05/using-asp-net-core-javascript-services-to-play-nice-with-client-side-frameworks/)
-* Guide for generator is [here](http://blog.stevensanderson.com/2016/05/02/angular2-react-knockout-apps-on-aspnet-core/) and [here](https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/)
+* [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates/)
+* Some general info [here](https://docs.microsoft.com/en-us/aspnet/core/spa/index#installation) and [here](https://docs.microsoft.com/en-us/aspnet/core/spa/angular?tabs=visual-studio)
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * ⭐️ [Angular Universal Starter Kit](https://github.com/MarkPieszak/aspnetcore-angular2-universal)
 * ⭐️ [Nrwl Nx — An open source toolkit for enterprise Angular applications](https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65)
