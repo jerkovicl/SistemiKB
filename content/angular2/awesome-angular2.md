@@ -4,6 +4,9 @@ Title: Angular and  .NET Core Awesome list
 
 * __Requirements: Update Git and Node to latest versions.__ 
 
+##### Current npm version:
+![npm](https://img.shields.io/npm/v/npm.svg)
+
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
@@ -26,8 +29,7 @@ Title: Angular and  .NET Core Awesome list
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
 
-* [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates/)
-* Some general info [here](https://docs.microsoft.com/en-us/aspnet/core/spa/index#installation) and [here](https://docs.microsoft.com/en-us/aspnet/core/spa/angular?tabs=visual-studio)
+* ⭐️ [Microsoft ASP.NET Core JavaScript Services - Set of services as starting point](https://www.nuget.org/packages/Microsoft.DotNet.Web.Spa.ProjectTemplates/) - some general info [here](https://docs.microsoft.com/en-us/aspnet/core/spa/index#installation) and [here](https://docs.microsoft.com/en-us/aspnet/core/spa/angular?tabs=visual-studio)
 * [ASP.NET Boilerplate - Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * ⭐️ [Angular Universal Starter Kit](https://github.com/MarkPieszak/aspnetcore-angular2-universal)
 * ⭐️ [Nrwl Nx — An open source toolkit for enterprise Angular applications](https://blog.nrwl.io/nrwl-nx-an-open-source-toolkit-for-enterprise-angular-applications-38698e94d65)
