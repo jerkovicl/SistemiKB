@@ -137,6 +137,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Using @ngrx/entity in Angular to Simplify Store Reducers](https://alligator.io/angular/ngrx-entity/)
 * [Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
 * ⭐️📄 [Connect Angular Forms to @ngrx/store](https://netbasal.com/connect-angular-forms-to-ngrx-store-c495d17e129)
+* ⭐️📄 [Advanced caching with RxJS](https://blog.thoughtram.io/angular/2018/03/05/advanced-caching-with-rxjs.html)
 * 📄 [Let’s Talk About Select and Reselect in @ngrx/store](https://netbasal.com/lets-talk-about-select-and-reselect-in-ngrx-store-177a2f6045a8)
 * 📄 [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0#.geye2zx8g)
 * 📄 [Manage your observable subscriptions in Angular with help of rx.js](https://hackernoon.com/manage-your-observable-subscriptions-in-angular-with-help-of-rx-js-f574b590a5cb)
@@ -315,6 +316,7 @@ Title: Angular and  .NET Core Awesome list
 * [Tag Input component for Angular](https://github.com/Gbuomprisco/ngx-chips)
 * [Lazy image loader for Angular 2+](https://github.com/tjoskar/ng-lazyload-image)
 * [Modal image gallery for Angular](https://github.com/Ks89/angular-modal-gallery)
+* [Storybook for Angular](https://alligator.io/angular/storybook-angular/)
 * [Angular Linky](https://github.com/dzonatan/angular-linky)
 * [Observable-based virtual scroll implementation in Angular](https://github.com/dinony/od-virtualscroll)
 * [Angular2 virtual scroll](https://github.com/rintoj/angular2-virtual-scroll)
@@ -334,6 +336,9 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-2-router-events-ba1dc882d09a)
 * [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
 * [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
+* ⭐️ [Manual Typing is No Fun: Introducing TypeWiz](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
+* ⭐️ [Use React tools for better Angular apps](https://medium.com/@martin_hotell/use-react-tools-for-better-angular-apps-b0f14f3f8114)
+* ⭐️ [Stop re-formatting package.json with Prettier and VSCode once and for all](https://medium.com/@martin_hotell/stop-re-formatting-package-json-with-prettier-and-vscode-once-and-for-all-52d283067f9a)
 * [Gentics UI Core Framework](https://github.com/gentics/gentics-ui-core)
 * [Covalent: UI Platform based on Angular-Material](https://github.com/teradata/covalent)
 * [Event Modifiers for Angular Applications](https://github.com/NetanelBasal/ngx-event-modifiers)
@@ -351,6 +356,7 @@ Title: Angular and  .NET Core Awesome list
 * ⭐️ [Ultimate Angular + Prettier Cheatsheet](https://medium.com/ngconf/ultimate-prettier-angular-cheatsheet-777c9515f4fb)
 * ⭐️ [Angular TSLint Preset](https://github.com/mgechev/tslint-angular)
 * [Starter kit with zero-config for building a library in TypeScript](https://github.com/alexjoverm/typescript-library-starter)
+* [Create Angular Libraries in No Time Using Schematics](https://netbasal.com/create-angular-libraries-in-no-time-using-schematics-513cb1e08a5e)
 * [Soundnode App is the Soundcloud for desktop - Built with Electron, Angular.js and Soundcloud API](https://github.com/Soundnode/soundnode-app)
 
 ## Nativescript libs and plugins
@@ -447,6 +453,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Node.js Best Practices - How to become a better Node.js developer in 2018](http://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 * 📄 [Getting To Know The JavaScript Internationalization API](https://netbasal.com/getting-to-know-the-javascript-internationalization-api-cb893b3908e0)
 * 📄 [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)
+* 📄 [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/)
 * 📄 [Angular Top 50: What you should have read in 2017](https://malcoded.com/posts/angular-top-2017)
 
 ## UI / UX
