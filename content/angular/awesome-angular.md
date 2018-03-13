@@ -116,6 +116,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Dynamically Creating Components With Angular](https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d)
 * 📄 [Create Advanced Components in Angular](https://netbasal.com/create-advanced-components-in-angular-e0655df5dde6)
 * 📄 [Angular 2 Transclusion using ng-content](https://scotch.io/tutorials/angular-2-transclusion-using-ng-content#understanding-transclusion)
+* 📄 [Angular Material Dialog: A Complete Example](https://blog.angular-university.io/angular-material-dialog/?utm=tw)
 * 📄 [Querying For The Closest Parent Element in Angular](https://netbasal.com/querying-for-the-closest-parent-element-in-angular-b2554d60c47e)
 * 📄 [Configurable Services in Angular 2](http://blog.rangle.io/configurable-services-in-angular-2/)
 * 📄 [Observables and Reactive Programming in Angular 2](http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/)
