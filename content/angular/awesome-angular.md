@@ -84,6 +84,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [How to Build an Angular 2 Service](https://code.tutsplus.com/tutorials/how-to-build-an-angular-2-service--cms-27943)
 * 📄 [Client side filtering using streams](http://blog.kwintenp.com/client-side-filtering-with-streams/)
 * 📄 [Show loader on every request in Angular 2](https://medium.com/@ivan.radunovic/show-loader-on-every-request-in-angular-2-9a0fca86afef#.xdja17xh2)
+* 📄 [The right way to prefetch data for your angular components/pages](https://codeburst.io/the-right-way-to-prefetch-data-for-your-angular-components-pages-1e5cce099cee?gi=9b7582785ede)
 * 📄 [Mastering Angular dependency injection with @Inject, @Injectable, tokens and providers](https://toddmotto.com/angular-dependency-injection)
 * 📄 [A deep dive on Angular decorators](https://toddmotto.com/angular-decorators)
 * 📄 [Using Pipe Results in Angular Templates](https://netbasal.com/using-pipe-results-in-angular-templates-430683fa2213)
@@ -266,6 +267,7 @@ Title: Angular and  .NET Core Awesome list
 * [DbUp is a .NET library that helps you to deploy changes to SQL Server databases](https://dbup.github.io)
 * [Bogus - fake data generator for C#, F#, and VB.NET](https://github.com/bchavez/Bogus)
 * 📄 [Add Swagger to ASP.NET Core 2.0 Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-2-0-web-api/)
+* 📄 [Automatic Unit Testing in .NET Core plus Code Coverage in Visual Studio Code](https://www.hanselman.com/blog/AutomaticUnitTestingInNETCorePlusCodeCoverageInVisualStudioCode.aspx)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -339,7 +341,7 @@ Title: Angular and  .NET Core Awesome list
 * [Nebular - full-featured framework based on Angular](https://github.com/akveo/nebular)
 * [ngx-cache - Caching utility](https://github.com/fulls1z3/ngx-cache)
 * [ngx-formly-components - Material form components](https://www.npmjs.com/package/ngx-formly-components)
-* 📄 [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-2-router-events-ba1dc882d09a)
+* 📄 [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-4-new-httpclient-interceptor-bc716291329b)
 * [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
 * [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
 * ⭐️ [Manual Typing is No Fun: Introducing TypeWiz](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
@@ -460,6 +462,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [A Front End Developer’s Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 * 📄 [Node.js Best Practices - How to become a better Node.js developer in 2018](http://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 * 📄 [Getting To Know The JavaScript Internationalization API](https://netbasal.com/getting-to-know-the-javascript-internationalization-api-cb893b3908e0)
+* 📄 [A list of cool Chrome DevTools Tips and Tricks](https://flaviocopes.com/chrome-devtools-tips/)
 * 📄 [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)
 * 📄 [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/)
 * 📄 [Angular Top 50: What you should have read in 2017](https://malcoded.com/posts/angular-top-2017)
@@ -536,6 +539,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [How to Take Logging to the Next Level With Improved .NET Logging Best Practices](https://stackify.com/csharp-logging-best-practices/)
 * 📄 [How to Catch All Exceptions in C# & Find All Application Errors](https://stackify.com/csharp-catch-all-exceptions/)
 * 📄 [A quick Review of IIS Hosting for ASP.NET Core](https://weblog.west-wind.com/posts/2017/Mar/16/More-on-ASPNET-Core-Running-under-IIS)
+* 📄 [Is WCF faster than ASP.NET Core? Of course not! Or is it?](https://www.erikheemskerk.nl/benchmark-wcf-webapi-aspnetcore-mvc/)
 * [VS Code Keyboard shortcuts Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 * [VS Code Tips & Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 * 📄 [Use Prettier with TSLint and be happy](https://alexjoverm.github.io/2017/06/12/Use-Prettier-with-TSLint-and-be-happy/)
