@@ -281,7 +281,7 @@ Title: Angular and  .NET Core Awesome list
 * [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * ⭐️ [Exemplary real world application built with Angular 5+](https://github.com/gothinkster/angular-realworld-example-app)
-* [Webdash helps you visualize, monitor & manage your web project](https://webdash.xyz)
+* ⭐️ [Webdash helps you visualize, monitor & manage your web project](https://webdash.xyz)
 * [Open source tool for building enterprise angular components, directives etc.](http://www.playgroundforangular.it/)
 * [A tool for monitoring webpack optimization metrics through the development process](https://github.com/webpackmonitor/webpackmonitor)
 * [Documentation generator for TypeScript projects](http://typedoc.org)
