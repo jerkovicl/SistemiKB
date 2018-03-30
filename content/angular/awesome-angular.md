@@ -383,6 +383,7 @@ Title: Angular and  .NET Core Awesome list
 ## Ionic libs, plugins and guides
 * [Ionic Starter kits](http://www.ionickits.com/)
 * [Ionic App Showcase](http://showcase.ionicframework.com/apps/newest)
+* [Ionic Angular Schematics](https://github.com/Robinyo/ionic-angular-schematics)
 * 📄 [Ionic DevApp](http://blog.ionic.io/announcing-ionic-devapp/amp/)
 * [Property Cross is an opensource project that helps developers select a cross platform mobile framework](http://propertycross.com)
 * [Progressive Hacker News client built with Angular](https://github.com/housseindjirdeh/angular2-hn)
