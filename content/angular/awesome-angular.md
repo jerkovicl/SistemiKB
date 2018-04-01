@@ -343,6 +343,7 @@ Title: Angular and  .NET Core Awesome list
 * [Nebular - full-featured framework based on Angular](https://github.com/akveo/nebular)
 * [ngx-cache - Caching utility](https://github.com/fulls1z3/ngx-cache)
 * [ngx-formly-components - Material form components](https://www.npmjs.com/package/ngx-formly-components)
+* [5 best Angular Datepicker Libraries](https://www.dunebook.com/angular-datepicker/)
 * 📄 [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-4-new-httpclient-interceptor-bc716291329b)
 * [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
 * [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
