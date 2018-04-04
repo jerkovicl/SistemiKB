@@ -174,6 +174,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Angular GIT Deployment Dockerized](https://medium.com/@roalcantara/angular-2-git-deployment-dockerized-3417502aba2f)
 * 📄 [Angular Testing In Depth: HTTP Services](https://auth0.com/blog/angular-testing-in-depth-http-services/)
 * 📄 [Testing HTTP requests in Angular using new HttpClientModule](https://blog.craftlab.hu/testing-http-requests-in-angular-has-never-been-easier-dfe53c267522)
+* 📄 [Testing Observables in Angular](https://netbasal.com/testing-observables-in-angular-a2dbbfaf5329)
 * 📄 [Angular 2 internationalization explained: i18n + Angular CLI + AOT](http://blog.danieleghidoli.it/2017/01/15/i18n-angular-cli-aot/)
 * 📄 [Native Web Push Notifications with Angular 2](https://medium.com/@castillo.io/native-web-push-notifications-with-angular-2-c774a72c009e#.rryifb5ae)
 * 📄 [Pushing Real-Time Data to an Angular Service using Web Sockets](https://blog.codewithdan.com/2017/11/07/pushing-real-time-data-to-an-angular-service-using-web-sockets/)
@@ -219,6 +220,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Sending Direct Messages using SignalR with ASP.NET Core and Angular](https://damienbod.com/2017/12/05/sending-direct-messages-using-signalr-with-asp-net-core-and-angular/)
 * 📄 [Server-side charts with ASP.NET Core, Node services and D3.js](http://gunnarpeipman.com/2017/10/aspnet-core-node-d3js/)
 * 📄 [Add Swagger to ASP.NET Core Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-web-api/)
+* ⭐️📄 [Enable Swagger in your .Net core 2.0 application](https://neelbhatt.com/2017/12/11/enable-swagger-in-your-net-core-2-0-application-step-by-step-guide/)
 * 📄 [Logging in ASP.NET Core](https://stackify.com/asp-net-core-logging-what-changed/)
 * [ASP.NET Core logging with NLog and MS SQLServer](https://github.com/damienbod/AspNetCoreNlog#nlog-posts-in-this-series)
 * 📄 [Logging using DiagnosticSource in ASP.NET Core](https://andrewlock.net/logging-using-diagnosticsource-in-asp-net-core/)
@@ -269,6 +271,7 @@ Title: Angular and  .NET Core Awesome list
 * [Bogus - fake data generator for C#, F#, and VB.NET](https://github.com/bchavez/Bogus)
 * 📄 [Add Swagger to ASP.NET Core 2.0 Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-2-0-web-api/)
 * 📄 [Automatic Unit Testing in .NET Core plus Code Coverage in Visual Studio Code](https://www.hanselman.com/blog/AutomaticUnitTestingInNETCorePlusCodeCoverageInVisualStudioCode.aspx)
+* 📄 [Enforce HTTPS correctly in ASP.NET Core APIs](https://www.recaffeinate.co/post/enforce-https-aspnetcore-api/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -280,8 +283,10 @@ Title: Angular and  .NET Core Awesome list
 
 ## Angular2+ 3rd party modules and libs
 * [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
+* [Angular Templates, Seeds, Starter Kits](https://swissangular.com/angular-templates-seeds-starter-kits/)
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * ⭐️ [Exemplary real world application built with Angular 5+](https://github.com/gothinkster/angular-realworld-example-app)
+* [NinjaCodeGen - Angular CRUD Code Generator](https://ninjacodegen.com)
 * ⭐️ [Webdash helps you visualize, monitor & manage your web project](https://webdash.xyz)
 * [Open source tool for building enterprise angular components, directives etc.](http://www.playgroundforangular.it/)
 * [A tool for monitoring webpack optimization metrics through the development process](https://github.com/webpackmonitor/webpackmonitor)
@@ -544,6 +549,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [How to Take Logging to the Next Level With Improved .NET Logging Best Practices](https://stackify.com/csharp-logging-best-practices/)
 * 📄 [How to Catch All Exceptions in C# & Find All Application Errors](https://stackify.com/csharp-catch-all-exceptions/)
 * 📄 [A quick Review of IIS Hosting for ASP.NET Core](https://weblog.west-wind.com/posts/2017/Mar/16/More-on-ASPNET-Core-Running-under-IIS)
+* 📄 [Introducing the OpenID Connect debugger](https://www.recaffeinate.co/post/introducing-openid-connect-debugger/)
 * 📄 [Is WCF faster than ASP.NET Core? Of course not! Or is it?](https://www.erikheemskerk.nl/benchmark-wcf-webapi-aspnetcore-mvc/)
 * [VS Code Keyboard shortcuts Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 * [VS Code Tips & Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
