@@ -246,6 +246,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Debugging into ASP.NET Core 2.0 source code](http://laurentkempe.com/2017/09/26/Debugging-into-ASP.NET-Core-2.0-source-code/index.html)
 * 📄 [The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
 * 📄 [Sending SMS Using ASP.NET Core With Twilio SMS API](http://www.c-sharpcorner.com/article/sending-sms-using-asp-net-core-with-twilio-sms-api/)
+* 📄 [Scaffolding ASP.NET Core API Controllers](https://mattmillican.com/blog/aspnetcore-controller-scaffolding)
 * 📄 [Angular 5 – Material Data tables with Firestore](http://tphangout.com/angular-5-material-data-tables-with-firestore/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
@@ -504,6 +505,7 @@ Title: Angular and  .NET Core Awesome list
 * [Static file serving and directory listing](https://github.com/zeit/serve)
 * [Instant deployments to any cloud provider](https://github.com/zeit/now-cli)
 * [Package your Node.js project into an executable](https://github.com/zeit/pkg)
+* [All in one function for transforming word casings](https://github.com/pedsmoreira/casex/blob/master/README.md)
 * [packages and resources that work really well with npx](https://github.com/js-n/awesome-npx)
 * [A curated list of small, focused npm packages](https://github.com/parro-it/awesome-micro-npm-packages)
 * [Awesome npm resources and tips](https://github.com/sindresorhus/awesome-npm)
