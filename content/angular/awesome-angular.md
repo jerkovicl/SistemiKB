@@ -353,6 +353,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Youtube Page Loader](https://codeburst.io/youtube-page-loader-with-angular-4-new-httpclient-interceptor-bc716291329b)
 * [Cookie Consent module for Angular](https://tinesoft.github.io/ngx-cookieconsent/)
 * [Angular2+ component that provides a banner to inform users about cookie law](https://github.com/andreasonny83/angular2-cookie-law)
+* [Drag to select component for Angular 5+](https://github.com/d3lm/ngx-drag-to-select)
 * ⭐️ [Manual Typing is No Fun: Introducing TypeWiz](https://medium.com/@urish/manual-typing-is-no-fun-introducing-typewiz-58e3e8813f4c)
 * ⭐️ [Use React tools for better Angular apps](https://medium.com/@martin_hotell/use-react-tools-for-better-angular-apps-b0f14f3f8114)
 * ⭐️ [Stop re-formatting package.json with Prettier and VSCode once and for all](https://medium.com/@martin_hotell/stop-re-formatting-package-json-with-prettier-and-vscode-once-and-for-all-52d283067f9a)
