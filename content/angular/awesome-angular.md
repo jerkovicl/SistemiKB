@@ -60,6 +60,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Using TransferState API in an Angular v5 Universal App](https://blog.angularindepth.com/using-transferstate-api-in-an-angular-5-universal-app-130f3ada9e5b)
 * 📄 [Boosting Performance With The New updateOn Option in Angular v5](https://netbasal.com/boosting-performance-with-the-new-updateon-option-in-angular-v5-18857279ace2)
 * 📄 [Routing And Navigation With Angular 5](http://www.c-sharpcorner.com/article/routing-and-navigation-with-angular-5/)
+* 📄 [Whats New in Angular 6](https://walkingtree.tech/whats-new-angular-6/)
 * 📄 [TypeScript 2.4: Weak Type Detection](https://blog.mariusschulz.com/2017/12/01/typescript-2-4-weak-type-detection)
 * 📄 [Angular Runtime Performance Guide](https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/)
 * ⭐️📄 [Angular 2 Unit Testing Errors & Solutions](http://marclloyd.co.uk/uncategorized/angular-2-unit-testing-errors-solutions/)
@@ -131,6 +132,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
 * 📄 [Posting Additional Parameters During Authentication With Auth0 In Angular 2.4.1](https://www.bennadel.com/blog/3210-posting-additional-parameters-during-authentication-with-auth0-in-angular-2-4-1.htm)
 * [AntiforgerySample](https://github.com/aspnet/Antiforgery/tree/dev/samples/AntiforgerySample)
+* 📄 [Setting up Angular Universal with ngrx](https://blog.upstate.agency/setting-up-angular-universal-with-ngrx-30d97102be4d)
 * 📄 [Improving the State of your App with Redux](http://developer.telerik.com/topics/web-development/improving-state-app-redux/)
 * 📄 [Using NgRx 4 to Manage State in Angular Applications](https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b)
 * 📄 [ngrx Style Guide](https://github.com/orizens/ngrx-styleguide)
@@ -273,6 +275,8 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Add Swagger to ASP.NET Core 2.0 Web API](http://www.talkingdotnet.com/add-swagger-to-asp-net-core-2-0-web-api/)
 * 📄 [Automatic Unit Testing in .NET Core plus Code Coverage in Visual Studio Code](https://www.hanselman.com/blog/AutomaticUnitTestingInNETCorePlusCodeCoverageInVisualStudioCode.aspx)
 * 📄 [Enforce HTTPS correctly in ASP.NET Core APIs](https://www.recaffeinate.co/post/enforce-https-aspnetcore-api/)
+* ⭐️ [Enforcing HTTPS only traffic with ASP.NET Core and Kestrel](https://cmatskas.com/enforcing-https-only-traffic-with-asp-net-core-and-kestrel/)
+* ⭐️ [Switching between .NET Core SDK Versions](http://markheath.net/post/switching-between-netcore-sdk-versions)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -420,9 +424,12 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * 📄 [Creating PWA with Angular 5. Part 1](https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d)
 * 📄 [Angular Service Worker: Dealing With Updates](https://alligator.io/angular/service-worker-updates/)
+* 📄 [Few Tips That Will Make Your PWA on iOS Feel Like Native](https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native)
 
 ## Front-end
+* ⭐️ [Front-End Developer Handbook Edition 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 * [The best of JavaScript, HTML and CSS](https://bestof.js.org)
+* ⭐️ [Curated List of Angular, React & Vue.js Resources](https://alligator.io/resources/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Web Developer Checklist](http://webdevchecklist.com)
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
@@ -451,6 +458,7 @@ Title: Angular and  .NET Core Awesome list
 * [Font load events, simple, small and efficient](https://github.com/bramstein/fontfaceobserver)
 * [Frontend libraries and scripts](https://github.com/simejerkovic/frontend-stuff)
 * [Free Bootstrap 4 Themes & Components](https://wireddots.com/)
+* [Epic Spinners - CSS Only](http://epic-spinners.epicmax.co)
 * [Front-End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 * 📄 [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.7odiawy3s)
 * 📄 [async vs defer attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
@@ -497,6 +505,8 @@ Title: Angular and  .NET Core Awesome list
 * [WebPack + Angular 2 Bin Playground](https://www.webpackbin.com/bins/-Kf7FL3lvenQu4JKrVM9)
 * [Interactive coding screencasts](https://scrimba.com)
 * [.NETFiddle](https://dotnetfiddle.net/)
+* [Web Maker - Offline Codepen like playground](https://webmakerapp.com/)
+* [Site Palette - Get the essential colours from a website](http://palette.site)
 * ⭐️ [C# in Depth](http://csharpindepth.com/)
 * [VersionEye - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories](https://www.versioneye.com/)
 * [RESTool — An open source UI tool for managing RESTful APIs](https://medium.com/@danielsternlicht/restool-an-open-source-ui-tool-for-managing-restful-apis-32c18062502)
