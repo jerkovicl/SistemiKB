@@ -127,6 +127,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Custom preloading strategy for Angular modules](https://medium.com/@adrianfaciu/custom-preloading-strategy-for-angular-modules-b3b5c873681a)
 * 📄 [Angular 2 - Define Routes Dynamically using UIRouter](http://cloudmark.github.io/Multilingual-Routing/)
 * 📄 [Angular 2+ Classes with NgClass and NgStyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
+* 📄 [Extend the *ngIf Syntax to Create a Custom Permission Directive](https://juristr.com/blog/2018/02/angular-permission-directive/)
 * 📄 [Sexier Imports in TypeScript](https://netbasal.com/sexier-imports-in-typescript-e3c645bdd3c6)
 * 📄 [Don’t use hidden attribute with Angular](http://www.talkingdotnet.com/dont-use-hidden-attribute-angularjs-2/)
 * 📄 [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
@@ -139,6 +140,11 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [NgRx: Patterns and Techniques](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Angular 2 + ngrx examples](https://github.com/btroncone/ngrx-examples)
+* ⭐️📄[RxJS: The Basics](http://brianflove.com/2018/03/04/rxjs-the-basics/)
+* ⭐️📄[RxJS: Master the Operators](http://brianflove.com/2018/03/21/master-rxjs-operators/)
+* ⭐️📄[NgRX: The Series](http://brianflove.com/2018/01/10/ngrx-refactor-module/)
+* ⭐️📄[NgRx + Loading Indicator](http://brianflove.com/2018/04/03/ngrx-loading-indicator/)
+* ⭐️📄[NgRx + Material Snackbar](http://brianflove.com/2018/03/16/ngrx-mat-snackbar/)
 * 📄 [Managing State in Angular Apps with ngrx/store and ngrx/effects](https://medium.com/front-end-hacking/managing-state-in-angular-apps-with-ngrx-store-and-ngrx-effects-part-3-99fe2e0a7082#.j9ohizf62)
 * 📄 [Using @ngrx/entity in Angular to Simplify Store Reducers](https://alligator.io/angular/ngrx-entity/)
 * [Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
@@ -252,7 +258,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Angular 5 – Material Data tables with Firestore](http://tphangout.com/angular-5-material-data-tables-with-firestore/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
-## ASP.NET Core 2.0
+## ASP.NET Core 2.0+
 * [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
 * 📄 [Upgrading to .NET Core and .NET Standard](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
 * 📄 [Scaffolding DbContext and Models with EntityFramework Core 2.0 and the CLI](https://cmatskas.com/scaffolding-dbcontext-and-models-with-entityframework-core-2-0-and-the-cli/)
@@ -277,6 +283,8 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Enforce HTTPS correctly in ASP.NET Core APIs](https://www.recaffeinate.co/post/enforce-https-aspnetcore-api/)
 * ⭐️ [Enforcing HTTPS only traffic with ASP.NET Core and Kestrel](https://cmatskas.com/enforcing-https-only-traffic-with-asp-net-core-and-kestrel/)
 * ⭐️ [Switching between .NET Core SDK Versions](http://markheath.net/post/switching-between-netcore-sdk-versions)
+* ⭐️ [Creating a .NET Core global CLI tool for squashing images with the TinyPNG API](https://andrewlock.net/creating-a-net-core-global-cli-tool-for-squashing-images-with-the-tinypng-api)
+* ⭐️ [How to Scaffold Identity UI in ASP.NET Core 2.1](http://www.talkingdotnet.com/how-to-scaffold-identity-ui-in-asp-net-core-2-1/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
@@ -426,6 +434,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * 📄 [Creating PWA with Angular 5. Part 1](https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d)
 * 📄 [Angular Service Worker: Dealing With Updates](https://alligator.io/angular/service-worker-updates/)
+* 📄 [Angular Push Notifications: a Complete Step-by-Step Guide](https://blog.angular-university.io/angular-push-notifications/)
 * 📄 [Few Tips That Will Make Your PWA on iOS Feel Like Native](https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native)
 
 ## Front-end
@@ -571,7 +580,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Use Prettier with TSLint and be happy](https://alexjoverm.github.io/2017/06/12/Use-Prettier-with-TSLint-and-be-happy/)
 * [A collection of recipes for using VS Code with particular technologies](https://github.com/Microsoft/vscode-recipes)
 * [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
-* [ES2015+ cheatsheet](https://devhints.io/es6)
+* [ES2015+ cheatsheet by Devhints.io](https://devhints.io/es6)
 * [ECMAScript6 Compatibility Table](http://kangax.github.io/compat-table/es6/)
 * [ALM : A cloud ready IDE for TypeScript](http://alm.tools/)
 * [List of public JSON APIs for use in web dev](https://github.com/toddmotto/public-apis)
