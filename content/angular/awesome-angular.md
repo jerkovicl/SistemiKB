@@ -273,6 +273,7 @@ Title: Angular and  .NET Core Awesome list
 * [File Logger](https://github.com/adams85/filelogger/)
 * [Generic file logger for .NET Core](https://github.com/nreco/logging)
 * 📄 [Announcing SignalR for ASP.NET Core Alpha 2](https://blogs.msdn.microsoft.com/webdev/2017/10/09/announcing-signalr-for-asp-net-core-alpha-2/)
+* 📄 [Intro to SignalR Core](https://medium.com/@pielegacy/giving-the-valuescontroller-superpowers-with-signalr-core-7d4ff2be9e1c)
 * 📄 [Miniblog.Core is a new blog engine built using ASP.NET Core 2.0](https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-aspnet-core-20/)
 * 📄 [Introducing API Analyzer](https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/)
 * 📄 [Import and Export excel in ASP.NET Core 2.0](http://www.talkingdotnet.com/import-export-excel-asp-net-core-2-razor-pages/#more-5225)
@@ -296,6 +297,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Angular2+ 3rd party modules and libs
 * [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
+* ⭐️ [Angular - All Talks from ng-conf 2018](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/)
 * [Angular Templates, Seeds, Starter Kits](https://swissangular.com/angular-templates-seeds-starter-kits/)
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * ⭐️ [Exemplary real world application built with Angular 5+](https://github.com/gothinkster/angular-realworld-example-app)
@@ -348,6 +350,7 @@ Title: Angular and  .NET Core Awesome list
 * [Observable-based virtual scroll implementation in Angular](https://github.com/dinony/od-virtualscroll)
 * [Angular2 virtual scroll](https://github.com/rintoj/angular2-virtual-scroll)
 * [Animated scrolling functionality for angular written in pure typescript with no additional dependencies](https://www.npmjs.com/package/ng2-page-scroll)
+* ⭐️ [Mastering keyboard navigation in Angular using ListKeyManager](https://www.ng-conf.org/mastering-keyboard-navigation-angular-using-listkeymanager/)
 * [Angular (2 and beyond) Infinite Scroll Directive](https://github.com/toniantunovi/ngx-sentinel-infinite-scroll)
 * ⭐️ [JavaScript powered FORMS for ANGULAR 2.x and above ](https://github.com/formly-js/ng-formly)
 * ⭐️ [Rapid form development library for Angular](https://github.com/udos86/ng-dynamic-forms)
@@ -516,6 +519,7 @@ Title: Angular and  .NET Core Awesome list
 * [WebPack + Angular 2 Bin Playground](https://www.webpackbin.com/bins/-Kf7FL3lvenQu4JKrVM9)
 * [Interactive coding screencasts](https://scrimba.com)
 * [.NETFiddle](https://dotnetfiddle.net/)
+* ⭐️ [TypeScript playground](https://agentcooper.github.io/typescript-play/)
 * [Web Maker - Offline Codepen like playground](https://webmakerapp.com/)
 * [Site Palette - Get the essential colours from a website](http://palette.site)
 * ⭐️ [C# in Depth](http://csharpindepth.com/)
