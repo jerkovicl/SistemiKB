@@ -255,6 +255,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [The semantics of ILogger.BeginScope()](https://nblumhardt.com/2016/11/ilogger-beginscope/)
 * 📄 [Sending SMS Using ASP.NET Core With Twilio SMS API](http://www.c-sharpcorner.com/article/sending-sms-using-asp-net-core-with-twilio-sms-api/)
 * 📄 [Scaffolding ASP.NET Core API Controllers](https://mattmillican.com/blog/aspnetcore-controller-scaffolding)
+* 📄 [Solution-wide Nuget package handling in .NET SDK-based projects](https://www.strathweb.com/2017/09/solution-wide-nuget-package-handling-in-net-sdk-based-projects/)
 * 📄 [Angular 5 – Material Data tables with Firestore](http://tphangout.com/angular-5-material-data-tables-with-firestore/)
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
