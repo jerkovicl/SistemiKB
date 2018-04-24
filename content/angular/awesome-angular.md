@@ -524,6 +524,7 @@ Title: Angular and  .NET Core Awesome list
 * [Web Maker - Offline Codepen like playground](https://webmakerapp.com/)
 * [Site Palette - Get the essential colours from a website](http://palette.site)
 * ⭐️ [C# in Depth](http://csharpindepth.com/)
+* ⭐️ [VS Code Can Do That?](https://vscodecandothat.com/)
 * [VersionEye - notifies you about security vulnerabilities, license violations and out-dated dependencies in your Git repositories](https://www.versioneye.com/)
 * [RESTool — An open source UI tool for managing RESTful APIs](https://medium.com/@danielsternlicht/restool-an-open-source-ui-tool-for-managing-restful-apis-32c18062502)
 * [Fake Online REST API for Testing and Prototyping](https://jsonplaceholder.typicode.com)
