@@ -385,6 +385,7 @@ Title: Angular and  .NET Core Awesome list
 * [Lazy image loader for Angular 2+](https://github.com/tjoskar/ng-lazyload-image)
 * [Modal image gallery for Angular](https://github.com/Ks89/angular-modal-gallery)
 * [Render PDF in Angular 4+](https://medium.com/@vadimdez/render-pdf-in-angular-4-927e31da9c76)
+* [ngx-device-detector](https://github.com/KoderLabs/ngx-device-detector)
 * [Storybook for Angular](https://alligator.io/angular/storybook-angular/)
 * [Angular Linky](https://github.com/dzonatan/angular-linky)
 * [Observable-based virtual scroll implementation in Angular](https://github.com/dinony/od-virtualscroll)
@@ -449,6 +450,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Ionic libs, plugins and guides
 * [Ionic Starter kits](http://www.ionickits.com/)
+* [Ionic PWA Toolkit](https://github.com/ionic-team/ionic-pwa-toolkit)
 * [Ionic App Showcase](http://showcase.ionicframework.com/apps/newest)
 * [Ionic Angular Schematics](https://github.com/Robinyo/ionic-angular-schematics)
 * 📄 [Ionic DevApp](http://blog.ionic.io/announcing-ionic-devapp/amp/)
