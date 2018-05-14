@@ -279,6 +279,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Entity Framework Core Extensions: Getting Primary Keys and Dirty Properties](https://weblogs.asp.net/ricardoperes/entity-framework-core-extensions-getting-primary-keys-and-dirty-properties)
 * 📄 [EF Core: taking full control of the database schema](http://www.thereformedprogrammer.net/ef-core-taking-full-control-of-the-database-schema/)
 * 📄 [How to get the actual table name from DbSet in EntityFramework Core 2.0](https://dev.to/j_sakamoto/how-to-get-the-actual-table-name-from-dbset-in-entityframework-core-20-56k0)
+* 📄 [The Secret to Running EF Core 2.0 Migrations from a NET Core or NET Standard Class Library](http://thedatafarm.com/data-access/the-secret-to-running-ef-core-2-0-migrations-from-a-net-core-or-net-standard-class-library/)
 * 📄 [Deeper Dive Into EF Core 2 - Part 1](https://www.dustinhorne.com/post/2017/10/27/deeper-dive-into-ef-core-2-part-1)
 * 📄 [Entity Framework Core performance tuning – a worked example](http://www.thereformedprogrammer.net/entity-framework-core-performance-tuning-a-worked-example/)
 * 📄 [EF Core, String Interpolation and SQL Injection](https://cmatskas.com/ef-core-string-interpolation-and-sql-injection/)
