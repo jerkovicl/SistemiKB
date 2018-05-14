@@ -278,6 +278,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [EF Core Multi-Tenancy - Query Filter](https://codeopinion.com/ef-core-multi-tenancy-query-filter/)
 * 📄 [Entity Framework Core Extensions: Getting Primary Keys and Dirty Properties](https://weblogs.asp.net/ricardoperes/entity-framework-core-extensions-getting-primary-keys-and-dirty-properties)
 * 📄 [EF Core: taking full control of the database schema](http://www.thereformedprogrammer.net/ef-core-taking-full-control-of-the-database-schema/)
+* 📄 [How to get the actual table name from DbSet in EntityFramework Core 2.0](https://dev.to/j_sakamoto/how-to-get-the-actual-table-name-from-dbset-in-entityframework-core-20-56k0)
 * 📄 [Deeper Dive Into EF Core 2 - Part 1](https://www.dustinhorne.com/post/2017/10/27/deeper-dive-into-ef-core-2-part-1)
 * 📄 [Entity Framework Core performance tuning – a worked example](http://www.thereformedprogrammer.net/entity-framework-core-performance-tuning-a-worked-example/)
 * 📄 [EF Core, String Interpolation and SQL Injection](https://cmatskas.com/ef-core-string-interpolation-and-sql-injection/)
@@ -293,7 +294,8 @@ Title: Angular and  .NET Core Awesome list
 * [2sxc Angular2 Demo App](https://github.com/2sic/app-tutorial-angular2-heroes)
 
 ## ASP.NET Core 2.0+
-* [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
+* ⭐️ [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
+* [.NET Boxed - Starter Kits](https://rehansaeed.com/net-boxed/)
 * 📄 [Upgrading to .NET Core and .NET Standard](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
 * 📄 [Scaffolding DbContext and Models with EntityFramework Core 2.0 and the CLI](https://cmatskas.com/scaffolding-dbcontext-and-models-with-entityframework-core-2-0-and-the-cli/)
 * [Entity Framework Core Generic Repository](https://codingblast.com/entity-framework-core-generic-repository/)
