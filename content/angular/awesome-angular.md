@@ -141,6 +141,7 @@ Title: Angular and  .NET Core Awesome list
 * ⭐️📄 [Wanna create Angular Elements? Here’s how!](https://medium.com/@tomsu/wanna-create-an-angular-element-heres-how-73e2ea85bd28)
 * ⭐️📄 [Building Custom Elements / Web Components with Angular 6](https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b)
 * ⭐️📄 [Creating Reusable Custom Elements in Angular 6+](http://fiyazhasan.me/creating-reusable-custom-elements-in-angular-6-2/)
+* ⭐️📄 [A Taste of Angular Material Virtual Scroll](https://netbasal.com/a-taste-of-angular-material-virtual-scroll-f173c5c70a1)
 * ⭐️📄 [How to build a library for Angular apps?](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
 * 📄 [Configurable Services in Angular 2](http://blog.rangle.io/configurable-services-in-angular-2/)
 * 📄 [Observables and Reactive Programming in Angular 2](http://blog.rangle.io/observables-and-reactive-programming-in-angular-2/)
@@ -150,6 +151,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Angular 2+ Classes with NgClass and NgStyle](https://scotch.io/tutorials/angular-2-classes-with-ngclass-and-ngstyle)
 * 📄 [Extend the *ngIf Syntax to Create a Custom Permission Directive](https://juristr.com/blog/2018/02/angular-permission-directive/)
 * 📄 [Sexier Imports in TypeScript](https://netbasal.com/sexier-imports-in-typescript-e3c645bdd3c6)
+* 📄 [Safe Property Accessors in Typescript](https://itnext.io/safe-property-accessors-in-typescript-53fd384b83f3)
 * 📄 [Don’t use hidden attribute with Angular](http://www.talkingdotnet.com/dont-use-hidden-attribute-angularjs-2/)
 * 📄 [How to send JWT with every request in Angular](https://netbasal.com/last-quick-tip-for-2016-how-to-send-jwt-with-every-request-in-angular-90f3b192edaa#.xkiqghbnv)
 * 📄 [Posting Additional Parameters During Authentication With Auth0 In Angular 2.4.1](https://www.bennadel.com/blog/3210-posting-additional-parameters-during-authentication-with-auth0-in-angular-2-4-1.htm)
@@ -166,6 +168,7 @@ Title: Angular and  .NET Core Awesome list
 * ⭐️📄 [RxJS: Master the Operators](http://brianflove.com/2018/03/21/master-rxjs-operators/)
 * ⭐️📄 [RxJS best practices in Angular](https://blog.strongbrew.io/rxjs-best-practices-in-angular/)
 * ⭐️📄 [Understanding rxjs Subjects](https://medium.com/@luukgruijs/understanding-rxjs-subjects-339428a1815b)
+* ⭐️📄 [NgRx — Best Practices for Enterprise Angular Applications](https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7)
 * ⭐️📄 [NgRX: The Series](http://brianflove.com/2018/01/10/ngrx-refactor-module/)
 * ⭐️📄 [NgRx + Loading Indicator](http://brianflove.com/2018/04/03/ngrx-loading-indicator/)
 * ⭐️📄 [NgRx + Material Snackbar](http://brianflove.com/2018/03/16/ngrx-mat-snackbar/)
@@ -226,6 +229,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Using webpack Bundle Analyzer or source-map-explorer to Analyze an Angular App’s Bundle Size](https://alligator.io/angular/bundle-size/)
 * 📄 [Angular and open source: automation improvements in your project using Circle CI](https://medium.com/@willmendesneto/angular-and-open-source-automation-improvements-in-your-project-using-circle-ci-c8175e21ba0a)
 * 📄 [Sharing Configuration in ASP.NET Core SPA Scenarios](https://blogs.msdn.microsoft.com/webdev/2017/10/27/sharing-configuration-in-asp-net-core-spa-scenarios/)
+* 📄 [Pass ASP.NET Core Appsettings Values to Angular via an API Call](https://elanderson.net/2018/05/pass-asp-net-core-appsettings-values-to-angular-via-an-api-call/)
 * 📄 [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
 * 📄 [ASP.NET Core Angular 2 EF 1.0.1 Web API Using Template Pack](https://www.codeproject.com/Articles/1161804/ASP-NET-Core-Angular-EF-Web-API-Using-Template-Pac)
 * 📄 [Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro)
@@ -308,6 +312,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## ASP.NET Core 2.0+
 * ⭐️ [.NET Core 2.0.0 download links](https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-download.md)
+* ⭐️ [A list of tool extensions for .NET Core Command Line (dotnet CLI)](https://github.com/natemcmaster/dotnet-tools/blob/master/README.md)
 * [.NET Boxed - Starter Kits](https://rehansaeed.com/net-boxed/)
 * 📄 [Upgrading to .NET Core and .NET Standard](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
 * 📄 [Scaffolding DbContext and Models with EntityFramework Core 2.0 and the CLI](https://cmatskas.com/scaffolding-dbcontext-and-models-with-entityframework-core-2-0-and-the-cli/)
@@ -321,6 +326,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [ASP.NET Core 2.0 Demystified - Razor Pages](https://exceptionnotfound.net/asp-net-core-demystified-razor-pages/)
 * [File Logger](https://github.com/adams85/filelogger/)
 * [Generic file logger for .NET Core](https://github.com/nreco/logging)
+* 📄 [Advanced Architecture for ASP.NET Core Web API](https://www.infoq.com/articles/advanced-architecture-aspnet-core)
 * 📄 [Announcing SignalR for ASP.NET Core Alpha 2](https://blogs.msdn.microsoft.com/webdev/2017/10/09/announcing-signalr-for-asp-net-core-alpha-2/)
 * 📄 [Intro to SignalR Core](https://medium.com/@pielegacy/giving-the-valuescontroller-superpowers-with-signalr-core-7d4ff2be9e1c)
 * 📄 [Miniblog.Core is a new blog engine built using ASP.NET Core 2.0](https://madskristensen.net/blog/miniblogcore-is-a-new-blog-engine-built-using-aspnet-core-20/)
@@ -335,6 +341,8 @@ Title: Angular and  .NET Core Awesome list
 * ⭐️ [Switching between .NET Core SDK Versions](http://markheath.net/post/switching-between-netcore-sdk-versions)
 * ⭐️ [Creating a .NET Core global CLI tool for squashing images with the TinyPNG API](https://andrewlock.net/creating-a-net-core-global-cli-tool-for-squashing-images-with-the-tinypng-api)
 * ⭐️ [How to Scaffold Identity UI in ASP.NET Core 2.1](http://www.talkingdotnet.com/how-to-scaffold-identity-ui-in-asp-net-core-2-1/)
+* ⭐️ [How To Dockerise .NET Core Apps](https://dotnetcore.gaprogman.com/2018/05/24/how-to-dockerise-net-core-apps/)
+* ⭐️ [GDPR Support with ASP.NET Core 2.1](https://csharp.christiannagel.com/2018/05/24/gdpr/)
 
 
 ## EF Core Nuget packages to install for SQL and IdentityServer4
