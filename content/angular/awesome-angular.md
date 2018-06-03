@@ -483,6 +483,8 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [An Angular and Ionic component for Google Places Autocomplete](https://www.petrelli.biz/2017/06/05/an-angular-and-ionic-component-for-google-place-autocomplete/)
 * 📄 [Building a Cryptocurrency Price Tracker PWA in Ionic](https://www.joshmorony.com/building-a-cryptocurrency-price-tracker-pwa-in-ionic/?ck_subscriber_id=102605873)
 
+## Flutter
+* [FlutterDoc - Flutter snippets](https://flutterdoc.com/?gi=31a8340acf82)
 
 ## PWA stuff
 
