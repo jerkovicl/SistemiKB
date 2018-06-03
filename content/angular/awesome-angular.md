@@ -361,6 +361,8 @@ Title: Angular and  .NET Core Awesome list
 * [Augury - Google Chrome Dev Tools extension for debugging Angular 2 applications](https://augury.angular.io/)
 * ⭐️ [Exemplary real world application built with Angular 5+](https://github.com/gothinkster/angular-realworld-example-app)
 * [Search for Angular packages](https://ngx.tools/#/search)
+* ⭐️ [Angular 6 tools! Start your PWA in two steps! Add Serverless support for existing projects and much more](https://github.com/maciejtreder/ng-toolkit)
+* ⭐️ [Angular server-side rendering with @ng-toolkit/universal](https://medium.com/@maciejtreder/angular-server-side-rendering-with-ng-toolkit-universal-c08479ca688)
 * [Angular Copilot v1.0](https://medium.com/angulardoc/announcing-angular-copilot-v1-0-aae80ec2083f)
 * [NinjaCodeGen - Angular CRUD Code Generator](https://ninjacodegen.com)
 * ⭐️ [Webdash helps you visualize, monitor & manage your web project](https://webdash.xyz)
