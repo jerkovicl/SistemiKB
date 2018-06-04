@@ -354,6 +354,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Angular2+ 3rd party modules and libs
 * [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
+* ⭐️ [Query 1 Million TypeScript files](https://bigtsquery.firebaseapp.com/query)
 * ⭐️ [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [Angular Now - Run Angular projects with one click](https://jdjuan.github.io/ng-now/)
 * ⭐️ [Angular - All Talks from ng-conf 2018](https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/)
