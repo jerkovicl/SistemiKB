@@ -595,6 +595,7 @@ Title: Angular and  .NET Core Awesome list
 * [WebPack + Angular 2 Bin Playground](https://www.webpackbin.com/bins/-Kf7FL3lvenQu4JKrVM9)
 * [Interactive coding screencasts](https://scrimba.com)
 * [.NETFiddle](https://dotnetfiddle.net/)
+* ⭐️ [devdocs](https://devdocs.io/)
 * ⭐️ [TypeScript playground](https://agentcooper.github.io/typescript-play/)
 * [Web Maker - Offline Codepen like playground](https://webmakerapp.com/)
 * [Site Palette - Get the essential colours from a website](http://palette.site)
