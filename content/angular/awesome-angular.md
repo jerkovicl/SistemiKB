@@ -541,6 +541,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [A recap of front-end development in 2017](https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727)
 * 📄 [The State of HTML Mobile Frameworks](https://agingcoder.com/mobile/2016/09/25/the-state-of-html-mobile-frameworks-in-2016/)
 * 📄 [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+* [BundlePhobia](find the cost of adding a npm package to your bundle)
 * ⭐️ [CSS Grid Layout Visual Cheatsheet](http://grid.malven.co)
 * ⭐️ [Flexbox Visual Cheatsheet](http://flexbox.malven.co/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
