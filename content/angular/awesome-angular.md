@@ -170,6 +170,7 @@ Title: Angular and  .NET Core Awesome list
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Angular 2 + ngrx examples](https://github.com/btroncone/ngrx-examples)
 * ⭐️📄 [RxJS: The Basics](http://brianflove.com/2018/03/04/rxjs-the-basics/)
+* ⭐️📄 [RxJS Gitbook](https://chrisnoring.gitbooks.io/rxjs-5-ultimate/content/)
 * ⭐️📄 [RxJS: Master the Operators](http://brianflove.com/2018/03/21/master-rxjs-operators/)
 * ⭐️📄 [RxJS best practices in Angular](https://blog.strongbrew.io/rxjs-best-practices-in-angular/)
 * ⭐️📄 [Understanding rxjs Subjects](https://medium.com/@luukgruijs/understanding-rxjs-subjects-339428a1815b)
