@@ -501,11 +501,13 @@ Title: Angular and  .NET Core Awesome list
 
 ## PWA stuff
 
+* [Universal PWA Builder](https://github.com/lukeed/pwa)
 * [A Directory of Progressive Web Apps](https://pwa-directory.appspot.com)
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com)
 * [A progressive web app to read Stack Overflow content](https://github.com/GoogleChromeLabs/so-pwa)
 * 📄 [Hacker News Progressive Web Apps](https://blog.hnpwa.com/hacker-news-progressive-web-apps-2d8cbf7bc077)
 * ⭐️📄 [Building and publishing a PWA in 15ish minutes using Angular 5 and Service Worker](https://blog.vpv.io/2018/03/pwa-building-and-publishing-pwa-in.html)
+* ⭐️📄 [Turn your Angular App into a PWA in 4 Easy Steps](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
 * 📄 [Creating an Ionic PWA with Firebase Offline and Service Workers](https://www.javascripttuts.com/creating-an-ionic-pwa-with-firebase-offline-and-service-workers/)
 * 📄 [What Progressive Web Apps can do for you - Ionic](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/)
 * 📄 [Built with Ionic: million eyez mobile and progressive web app](http://blog.ionic.io/built-with-ionic-million-eyez-mobile-and-progressive-web-app/)
