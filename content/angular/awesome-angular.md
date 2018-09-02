@@ -532,6 +532,7 @@ Title: Angular and  .NET Core Awesome list
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Web Developer Checklist](http://webdevchecklist.com)
 * [The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
+* [Front-End Performance Checklist that runs faster than the others](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 * [Mads Kristensen Checklist](https://github.com/madskristensen/Miniblog.Core#technical-features)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * ⭐️ [A set of best practices for JavaScript projects](https://github.com/wearehive/project-guidelines)
