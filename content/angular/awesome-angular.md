@@ -553,6 +553,7 @@ Title: Angular and  .NET Core Awesome list
 * ⭐️ [CSS Grid Layout Visual Cheatsheet](http://grid.malven.co)
 * ⭐️ [Flexbox Visual Cheatsheet](http://flexbox.malven.co/)
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [A curated collection of useful CSS snippets you can understand in 30 seconds or less](https://atomiks.github.io/30-seconds-of-css/)
 * ⭐️ [Hex Naw - A color accessibility tool for designers and developers](https://hexnaw.com/)
 * ⭐️ [Webhint - linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
 * 📄 [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
