@@ -476,6 +476,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Nativescript libs and plugins
 * [Official Plugins Hub for NativeScript](http://plugins.nativescript.org/)
+* [Code-Sharing: Angular and NativeScript](https://www.nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular/code-sharing-angular-and-nativescript)
 * 📄 [NativeScript UI](https://www.nativescript.org/blog/nativescript-ui-is-now-free-here-s-how-to-get-started)
 * 📄 [NativeScript Playground](https://www.nativescript.org/blog/life-is-easier-with-nativescript-playground)
 * [Performance monitor plugin](https://github.com/EddyVerbruggen/nativescript-performance-monitor)
@@ -503,6 +504,7 @@ Title: Angular and  .NET Core Awesome list
 
 * [Universal PWA Builder](https://github.com/lukeed/pwa)
 * [A Directory of Progressive Web Apps](https://pwa-directory.appspot.com)
+* [Progressive Tooling - List of PWA Tools](https://progressivetooling.com/)
 * [Hacker News readers as Progressive Web Apps](https://hnpwa.com)
 * [A progressive web app to read Stack Overflow content](https://github.com/GoogleChromeLabs/so-pwa)
 * 📄 [Hacker News Progressive Web Apps](https://blog.hnpwa.com/hacker-news-progressive-web-apps-2d8cbf7bc077)
