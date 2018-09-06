@@ -376,6 +376,7 @@ Title: Angular and  .NET Core Awesome list
 * ⭐️ [Angular server-side rendering with @ng-toolkit/universal](https://medium.com/@maciejtreder/angular-server-side-rendering-with-ng-toolkit-universal-c08479ca688)
 * [Angular Copilot v1.0](https://medium.com/angulardoc/announcing-angular-copilot-v1-0-aae80ec2083f)
 * [NinjaCodeGen - Angular CRUD Code Generator](https://ninjacodegen.com)
+* [Must Have Tools for Angular Developers 2018](https://theinfogrid.com/tech/developers/angular/tools-angular-developers/)
 * ⭐️ [Webdash helps you visualize, monitor & manage your web project](https://webdash.xyz)
 * [Open source tool for building enterprise angular components, directives etc.](http://www.playgroundforangular.it/)
 * ⭐️ [Create-Angular-Components Tool](https://medium.com/@bgtavares/create-angular-components-tool-d98e8788235b)
