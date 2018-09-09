@@ -362,6 +362,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Angular2+ 3rd party modules and libs
 * [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
+* ⭐️ [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap)
 * ⭐️ [Query 1 Million TypeScript files](https://bigtsquery.firebaseapp.com/query)
 * ⭐️ [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [Angular Code Review Checklists for Angular Developers](http://sajeetharan.blogspot.com/2018/08/angular-code-review-checklists-for.html)
@@ -530,6 +531,7 @@ Title: Angular and  .NET Core Awesome list
 
 ## Front-end
 * ⭐️ [Front-End Developer Handbook Edition 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+* ⭐️ [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [The best of JavaScript, HTML and CSS](https://bestof.js.org)
 * ⭐️ [Curated List of Angular, React & Vue.js Resources](https://alligator.io/resources/)
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
