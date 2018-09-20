@@ -361,6 +361,7 @@ Title: Angular and  .NET Core Awesome list
 * 📄 [Dotnet EF Migrations for ASP.NET Core](http://benjii.me/2016/05/dotnet-ef-migrations-for-asp-net-core/)
 
 ## Angular2+ 3rd party modules and libs
+* [Angular Conferences Worldwide](https://angularconferences.com/)
 * [Monorepo for ngrx codebase](https://github.com/ngrx/platform)
 * ⭐️ [Angular Developer Roadmap](https://github.com/sulco/angular-developer-roadmap)
 * ⭐️ [Query 1 Million TypeScript files](https://bigtsquery.firebaseapp.com/query)
