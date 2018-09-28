@@ -472,6 +472,7 @@ Title: Angular and  .NET Core Awesome list
 * [ngx-loading-spinner - Angular custom async loading spinner](https://dailyjspackages.com/pkg/ngx-loading-spinner)
 * ⭐️ [Ultimate Angular + Prettier Cheatsheet](https://medium.com/ngconf/ultimate-prettier-angular-cheatsheet-777c9515f4fb)
 * ⭐️ [Angular TSLint Preset](https://github.com/mgechev/tslint-angular)
+* ⭐️ [ngx-ow - Angular form validation on steroids](https://github.com/SamVerschueren/ngx-ow)
 * [Infinum's TSLint rules](https://github.com/infinum/tslint-config)
 * [Starter kit with zero-config for building a library in TypeScript](https://github.com/alexjoverm/typescript-library-starter)
 * [Create Angular Libraries in No Time Using Schematics](https://netbasal.com/create-angular-libraries-in-no-time-using-schematics-513cb1e08a5e)
